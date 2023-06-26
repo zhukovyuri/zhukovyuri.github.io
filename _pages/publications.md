@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Categories**:{#pubtop}
+### Categories {#pubtop}
 - [Data and Methods](#data)
 - [Legacies of Violence](#legacies)
 - [Dynamics of Violence](#dynamics)
