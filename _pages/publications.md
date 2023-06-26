@@ -5,19 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- **Quick links**:
+**Categories**:{#pubtop}
 - [Data and Methods](#data)
 - [Legacies of Violence](#legacies)
 - [Dynamics of Violence](#dynamics)
 - [Causes of Violence](#causes)
 - [International Security](#intl)
 - [Sexual Violence](#sexual)
- -->
-# By Category {.tabset}
+
 
 ---
 ## Data and Methods {#data}
-
+<a href="#pubtop">&#8593; back to top</a>
 
 ### Integrating Data Across Misaligned Spatial Units
 <img src="../images/PA.jpg" alt="PA" width="15" height="20"/> Zhukov, Yuri M., Jason S. Byers, Marty Davidson, Ken Kollman. "Integrating Data Across Misaligned Spatial Units." <i>Political Analysis</i> (forthcoming 2023). <a href="https://doi.org/10.1017/pan.2023.5">doi.org/10.1017/pan.2023.5</a>
@@ -57,6 +56,7 @@ author_profile: true
 
 ---
 ## Legacies of Violence {#legacies}
+<a href="#pubtop">&#8593; back to top</a>
 
 ### Never Again: The Holocaust and Political Legacies of Genocide
 <img src="../images/World_politics.gif" alt="WP" width="15" height="20"/> Wayne, Carly and Yuri M. Zhukov. "Never Again: The Holocaust and Political Legacies of Genocide". <em>World Politics</em> 74, no. 3 (2022): 1-38. <a href="https://doi.org/10.1017/S0043887122000053">doi.org/10.1017/S0043887122000053</a>
@@ -120,6 +120,7 @@ author_profile: true
 
 ---
 ## Dynamics of Violence {#dynamics}
+<a href="#pubtop">&#8593; back to top</a>
 
 ### Repression Works (just not in moderation)
 <img src="../images/CPS.jpg" alt="CPS" width="15" height="20"/> Zhukov, Yuri M. "Repression Works (just not in moderation)." <em>Comparative Political Studies</em> (forthcoming 2023). <a href="https://doi.org/10.1177/00104140231152778">doi.org/10.1177/00104140231152778</a>
@@ -273,6 +274,7 @@ author_profile: true
 
 ---
 ## Causes of Violence {#causes}
+<a href="#pubtop">&#8593; back to top</a>
 
 ### Trading Hard Hats for Combat Helmets: The Economics of Rebellion in Eastern Ukraine
 <img src="../images/JCE.gif" alt=" width="15" height="20"/> Zhukov, Yuri M. "Trading Hard Hats for Combat Helmets: The Economics of Rebellion in Eastern Ukraine". <em>Journal of Comparative Economics</em> 44, no. 1 (2016): 1-15. <a href="http://dx.doi.org/10.1016/j.jce.2015.10.010">dx.doi.org/10.1016/j.jce.2015.10.010</a>
@@ -300,6 +302,7 @@ author_profile: true
 
 ---
 ## International Security {#intl}
+<a href="#pubtop">&#8593; back to top</a>
 
 ### Until the Bitter End? The Diffusion of Surrender Across Battles
 <img src="../images/IO.jpg" alt=" width="15" height="20"/> Lehmann, Todd and Yuri M. Zhukov. "Until the Bitter End? The Diffusion of Surrender Across Battles." <em>International Organization</em> 73, no. 1 (2019): 133-169. <a href="https://doi.org/10.1017/S0020818318000358">doi.org/10.1017/S0020818318000358</a>
@@ -454,6 +457,7 @@ Goldstein, Lyle J, and Yuri M Zhukov. "Superpower Showdown in the Mediterranean 
 
 ---
 ## Sexual Violence {#sexual}
+<a href="#pubtop">&#8593; back to top</a>
 
 ### Does Rape Culture Predict Rape? Evidence from U.S. Newspapers, 2000-2013
 <img src="../images/QJPS.gif" alt=" width="15" height="20"/> Baum, Matthew A., Dara Kay Cohen and Yuri M. Zhukov. "Does Rape Culture Predict Rape? Evidence from U.S. Newspapers, 2000-2013." <em>Quarterly Journal of Political Science</em> 13, no. 3 (2018): 263-289.
