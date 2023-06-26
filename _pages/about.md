@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about
 title: "Yuri M. Zhukov"
 excerpt: "About me"
 author_profile: true
