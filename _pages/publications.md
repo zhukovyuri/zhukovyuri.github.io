@@ -9,8 +9,9 @@ author_profile: true
 
 
 ### Integrating Data Across Misaligned Spatial Units
-<img src="images/PA.jpg" alt="PA" width="200"/> Zhukov, Yuri M., Jason S. Byers, Marty Davidson, Ken Kollman. "Integrating Data Across Misaligned Spatial Units." <i>Political Analysis</i> (forthcoming 2023). <a href="https://doi.org/10.1017/pan.2023.5">doi.org/10.1017/pan.2023.5</a>
+<img src="../images/PA.jpg" alt="PA" width="200"/> Zhukov, Yuri M., Jason S. Byers, Marty Davidson, Ken Kollman. "Integrating Data Across Misaligned Spatial Units." <i>Political Analysis</i> (forthcoming 2023). <a href="https://doi.org/10.1017/pan.2023.5">doi.org/10.1017/pan.2023.5</a>
 <!-- Abstract | Publisher’s version | PDF | Appendix | Data -->
+[Download offprint](http://academicpages.github.io/files/paper1.pdf) | [Publisher's version](https://doi.org/10.1017/pan.2023.5) | [Replication code and data](https://doi.org/10.1017/pan.2023.5)
 
 <details>
   <summary>Abstract</summary>
@@ -19,9 +20,6 @@ author_profile: true
     ```
 </details>
 
-[Download offprint](http://academicpages.github.io/files/paper1.pdf)
-[Publisher's version](https://doi.org/10.1017/pan.2023.5)
-[Replication code and data](https://doi.org/10.1017/pan.2023.5)
 
 
 
