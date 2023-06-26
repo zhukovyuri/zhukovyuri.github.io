@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "Integrating Data Across Misaligned Spatial Units"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2023_ZBDK_PA
+excerpt: 'Theoretical units of interest often do not align with the spatial units at which existing data are available. This problem is pervasive in social science, particularly in sub-national empirical research that routinely requires integrating data across incompatible geographic units (e.g. administrative areas, electoral constituencies, postal codes). Overcoming this challenge requires researchers to not only align the scale of empirical and theoretical units, but also to diagnose the costs and consequences of alternative spatial transformation methods. We propose a framework for addressing such change-of-support problems in social science. We investigate the relative performance of 12 spatial transformation methods, including overlays, interpolation, kriging and other model-based approaches, using election data and Monte Carlo simulations. We show that both the accuracy of transformed values and the estimation of regression coefficients depend on the relative scale of source and destination units (i.e. aggregation, disaggregation, hybrid) and their degree of nesting (i.e. whether source units fall completely and neatly inside destination units). We propose simple nonparametric measures of relative scale and nesting, and validation procedures to assess the quality of the transformed geospatial data. Additionally, we introduce new infrastructure and open-source software to elucidate the consequences of these choices, and to make transformation options more accessible, customizable, and intuitive.'
+date: 2023
+venue: 'Political Analysis'
+paperurl: 'files/2023_ZYDK_PA.pdf'
+citation: 'Zhukov, Yuri M., Jason S. Byers, Marty Davidson, Ken Kollman. &quot;Integrating Data Across Misaligned Spatial Units.&quot; <i>Political Analysis</i> (forthcoming 2023).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Theoretical units of interest often do not align with the spatial units at which existing data are available. This problem is pervasive in social science, particularly in sub-national empirical research that routinely requires integrating data across incompatible geographic units (e.g. administrative areas, electoral constituencies, postal codes). Overcoming this challenge requires researchers to not only align the scale of empirical and theoretical units, but also to diagnose the costs and consequences of alternative spatial transformation methods. We propose a framework for addressing such change-of-support problems in social science. We investigate the relative performance of 12 spatial transformation methods, including overlays, interpolation, kriging and other model-based approaches, using election data and Monte Carlo simulations. We show that both the accuracy of transformed values and the estimation of regression coefficients depend on the relative scale of source and destination units (i.e. aggregation, disaggregation, hybrid) and their degree of nesting (i.e. whether source units fall completely and neatly inside destination units). We propose simple nonparametric measures of relative scale and nesting, and validation procedures to assess the quality of the transformed geospatial data. Additionally, we introduce new infrastructure and open-source software to elucidate the consequences of these choices, and to make transformation options more accessible, customizable, and intuitive.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Publisher's version](https://doi.org/10.1017/pan.2023.5)
+
+Zhukov, Yuri M., Jason S. Byers, Marty Davidson, Ken Kollman. "Integrating Data Across Misaligned Spatial Units." <i>Political Analysis</i> (forthcoming 2023). 
