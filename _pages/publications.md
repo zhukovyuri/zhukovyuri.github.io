@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Data and Methods
+## Data and Methods {#data}
 
 
 ### Integrating Data Across Misaligned Spatial Units
@@ -34,7 +34,7 @@ author_profile: true
 
 ---
 
-## Political Legacies of Violence
+## Political Legacies of Violence {#legacies}
 
 ### Never Again: The Holocaust and Political Legacies of Genocide
 <img src="../images/World_politics.gif" alt="WP" width="15" height="20"/> Wayne, Carly and Yuri M. Zhukov. “Never Again: The Holocaust and Political Legacies of Genocide”. <em>World Politics</em> 74, no. 3 (2022): 1-38. <a href="https://doi.org/10.1017/S0043887122000053">doi.org/10.1017/S0043887122000053</a>
@@ -70,6 +70,30 @@ author_profile: true
   <summary>Abstract</summary>
   
   States use repression to enforce obedience, but repression -- especially if it is violent, massive, and indiscriminate -- often incites opposition. Why does repression have such disparate effects? We address this question by studying the political legacy of Stalin's coercive agricultural policy and collective punishment campaign in Ukraine, which led to the death by starvation of over three million people in 1932-34. Using rich micro-level data on eight decades of local political behavior, we find that communities exposed to Stalin's "terror by hunger" behaved more loyally toward Moscow when the regime could credibly threaten retribution in response to opposition. In times when this threat of retribution abated, the famine-ridden communities showed more opposition to Moscow, both short and long-term. Thus, repression can both deter and inflame opposition, depending on the political opportunity structure in which post-repression behavior unfolds.
+</details>
+
+### Stalin's Terror and the Long-Term Political Effects of Mass Repression
+<img src="../images/jpr.gif" alt="JPR" width="15" height="20"/> Zhukov, Yuri M. and Roya Talibova. “Stalin's Terror and the Long-Term Political Effects of Mass Repression.” <em>Journal of Peace Research</em> 55, no. 2 (2018): 267-283. <a href="https://doi.org/10.1177/0022343317751261">doi.org/10.1177/0022343317751261</a>
+<br/>
+[Download offprint](../files/2018_ZT_JPR.pdf) | [Publisher's version](https://doi.org/10.1177/0022343317751261) | [Appendix](../files/2018_ZT_JPR_appendix.pdf) | [Replication code and data](https://www.prio.org/utility/DownloadFile.ashx?id=8&type=replicationfile)
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  Repression has a long-term negative effect on political participation. Using millions of arrest records from archival documents, and polling-station level election results, we examine how exposure to Stalin-era repression affects voter turnout in Putin's Russia. To estimate the effect of repression on voting, we exploit exogenous variation in repression due to the structure of mid-century Soviet railroads, and travel distances to prison camps. We find that communities more heavily repressed under Stalin are less likely to vote today. The electoral legacy of Stalin's terror -- decades after the Soviet collapse, and across multiple election cycles (2003-2012) -- is systematically lower turnout. To show that our result is not unique to the Putin regime, we replicate our analysis in Ukraine (2004-2014), and find similar patterns. These results highlight the negative consequences of repression for political behavior, and challenge the emerging view that exposure to violence increases political engagement. While past research has emphasized the short-term effects of repression over several months or years, we show that these effects may be durable over generations and even changes of political regime. Our findings also demonstrate that repression need not be collective or indiscriminate to have community-level effects.
+</details>
+
+### The Political Legacy of Violence: The Long-Term Impact of Stalin's Repression in Ukraine
+<img src="../images/JOP.jpg" alt="JOP" width="15" height="20"/> Rozenas, Arturas, Sebastian Schutte and Yuri M. Zhukov. “The Political Legacy of Violence: The Long-Term Impact of Stalin's Repression in Ukraine”. <em>Journal of Politics</em> 79, no 4 (2017): 1147-1161. <a href="http://dx.doi.org/10.1086/692964">dx.doi.org/10.1086/692964</a>
+<br/>
+[Download offprint](../files/2017_RSZ_JOP.pdf) | [Publisher's version](https://doi.org/10.1177/0022343317751261) | [Appendix](../files/2017_RSZ_JOP_appendix.pdf) | [Replication code and data](https://doi.org/10.7910/DVN/ASLTVG)
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  Political scientists have long been interested in how indiscriminate violence affects the behavior of its victims, yet most research has focused on short term military consequences rather than long-term political effects. We argue that large scale violence can have an intergenerational impact on political preferences. Communities more exposed to indiscriminate violence in the past will -- in the future -- oppose political forces they associate with the perpetrators of that violence. We document evidence for this claim with archival data on Soviet state violence in western Ukraine, where Stalin's security services suppressed a nationalist insurgency by deporting over 250,000 people to Siberia. Using two causal identification strategies, we show that communities subjected to a greater intensity of deportation in the 1940's are now significantly less likely to vote for 'pro-Russian' parties. These findings show that indiscriminate violence systematically reduces long-term political support for the perpetrator.
 </details>
 
 
