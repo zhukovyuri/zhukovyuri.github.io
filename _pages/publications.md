@@ -48,6 +48,19 @@ author_profile: true
 </details>
 
 
+### Historical Legacies of Political Violence
+<img src="../images/oup.jpg" alt="OUP" width="15" height="20"/> Walden, Jacob and Yuri M. Zhukov. “Historical Legacies of Political Violence.” <em>Oxford Research Encyclopedia of Politics</em> (2020). <a href="https://doi.org/10.1093/acrefore/9780190228637.013.1788">doi.org/10.1093/acrefore/9780190228637.013.1788</a>
+<br/>
+[Download offprint](../files/2020_WZ_OEP.pdf) | [Publisher's version](https://doi.org/10.1093/acrefore/9780190228637.013.1788) 
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  Legacies of political violence are long-term changes in social behavior and attitudes, which are attributable -- at least in part -- to historical episodes of political conflict and contention. These legacies can potentially reshape the subsequent political and social order. Their catalysts can range from armed conflict, mass repression and genocide, to oppressive institutions and interpersonal violence. The lasting effects of violence include changes in political participation and preferences, intergroup relations, economic activity and growth, and public health outcomes. Estimating these effects presents a methodological challenge, due to selection, post-treatment bias and the difficulty of isolating specific mechanisms. These challenges are particularly acute give the long timespan inherent in studying historical legacies, where effects may be measured generations or centuries after the precipitating event. Understanding these legacies requires distinguishing between persistence mechanisms, where effects of violence continue within an individual directly exposed to violence through trauma, and the secondary transmission of effects between individuals through family socialization, community and peer influences, institutionalization, and epigenetic and evolutionary changes. Research on this subject remains nascent -- across many disciplines -- and inconclusive on whether violence fosters mostly negative or positive forms of social and political change.
+</details>
+
+
 
 
 
