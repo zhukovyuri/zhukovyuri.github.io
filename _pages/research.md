@@ -36,7 +36,7 @@ National Science Foundation RIDIR Grant (SES-1925693).
 ### Fighting for Tyranny: How State Repression Shapes Military Performance
 Rozenas, Arturas, Talibova, Roya and Yuri M. Zhukov. "Fighting for Tyranny: State Repression and Combat Motivation}." <em>American Economic Journal: Applied Economics</em> (conditionally accepted 2023). 
 <br/>
-[Download PDF](../files/2023_RTZ.pdf)[Publisher's version](https://doi.org/10.1017/S0043887122000053) | [Appendix](../files/2023_RTZ_appendix.pdf)
+[Download PDF](../files/2023_RTZ.pdf) | [Appendix](../files/2023_RTZ_appendix.pdf)
 <br/>
 
 <details>
