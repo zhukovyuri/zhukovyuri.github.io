@@ -161,7 +161,7 @@ author_profile: true
 ### On the Logistics of Violence
 <img src="../images/oup.jpg" alt="OUP" width="15" height="20"/> Zhukov, Yuri M. "On the Logistics of Violence". In Charles H. Anderton and Jurgen Brauer, eds., <em>Economic Aspects of Genocides, Other Mass Atrocities, and Their Prevention</em>. (Oxford University Press, 2016).
 <br/>
-[Download offprint](../files/.pdf) | [Publisher's version]() | [Appendix](../files/_appendix.pdf) | [Replication code and data]()
+[Download offprint](../files/2016_Zhukov_OUP.pdf)
 <br/>
 
 <details>
@@ -209,7 +209,7 @@ author_profile: true
 ### Theory of Indiscriminate Violence.
 <img src="../images/Harvard.png" alt="" width="15" height="20"/> Zhukov, Yuri M. <em>Theory of Indiscriminate Violence.</em> Doctoral dissertation. Harvard University, 2014.
 <br/>
-| [Download offprint](../files/2014_Zhukov_Thesis.pdf) |
+[Download offprint](../files/2014_Zhukov_Thesis.pdf)
 <br/>
 
 <details>
@@ -257,13 +257,13 @@ author_profile: true
 ### Counterinsurgency in a Non-Democratic State: The Russian Example
 <img src="../images/routledge.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M. "Counterinsurgency in a Non-Democratic State: The Russian Example". In <em>The Routledge Handbook of Insurgency and Counterinsurgency</em>. London: Routledge, 2012.
 <br/>
-| [Download offprint](../files/2012_Zhukov_Routledge.pdf) |
+[Download offprint](../files/2012_Zhukov_Routledge.pdf)
 <br/>
 
 ### Examining the Authoritarian Model of Counter-insurgency: The Soviet Campaign Against the Ukrainian Insurgent Army
 <img src="../images/swi.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M. "Examining the Authoritarian Model of Counter-insurgency: The Soviet Campaign Against the Ukrainian Insurgent Army". <em>Small Wars and Insurgencies</em> 18, no. 3 (2007): 439-466.
 <br/>
-| [Download offprint](../files/2007_Zhukov_SWI.pdf) |
+[Download offprint](../files/2007_Zhukov_SWI.pdf)
 <br/>
 
 <details>
@@ -291,7 +291,7 @@ author_profile: true
 ### Rust Belt Rising: The Economics Behind Eastern Ukraine's Upheaval
 <img src="../images/fa.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M. "Rust Belt Rising: The Economics Behind Eastern Ukraine's Upheaval". <em>Foreign Affairs</em>, 2014.
 <br/>
-| [Publisher's version](http://www.foreignaffairs.com/articles/141561/yuri-m-zhukov/rust-belt-rising) |
+[Publisher's version](http://www.foreignaffairs.com/articles/141561/yuri-m-zhukov/rust-belt-rising)
 <br/>
 
 <details>
@@ -343,7 +343,7 @@ author_profile: true
 ### NATO's Mediterranean Mission: What the Alliance is Doing in the Aegean Sea
 <img src="../images/fa.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M. "NATO's Mediterranean Mission: What the Alliance is Doing in the Aegean Sea". <em>Foreign Affairs</em>, 2016.
 <br/>
-| [Publisher's version](https://www.foreignaffairs.com/articles/europe/2016-02-21/natos-mediterranean-mission) |
+[Publisher's version](https://www.foreignaffairs.com/articles/europe/2016-02-21/natos-mediterranean-mission)
 <br/>
 
 <details>
@@ -355,7 +355,7 @@ author_profile: true
 ### Egypt's Gift from God: What the Discovery of Offshore Gas Means for Cairo
 <img src="../images/fa.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M. "Egypt's Gift from God: What the Discovery of Offshore Gas Means for Cairo". <em>Foreign Affairs</em>, 2015.
 <br/>
-| [Publisher's version](https://www.foreignaffairs.com/articles/cyprus/2015-09-23/egypts-gift-god) |
+[Publisher's version](https://www.foreignaffairs.com/articles/cyprus/2015-09-23/egypts-gift-god)
 <br/>
 
 <details>
@@ -379,7 +379,7 @@ author_profile: true
 ### More Trouble in the Eastern Mediterranean: U.S. Intervention or Not, the Sea is Already Boiling
 <img src="../images/fa.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M. "More Trouble in the Eastern Mediterranean: U.S. Intervention or Not, the Sea is Already Boiling". <em>Foreign Affairs</em>, 2013.
 <br/>
-| [Publisher's version](http://www.foreignaffairs.com/articles/139900/yuri-m-zhukov/more-trouble-in-the-eastern-mediterranean) |
+[Publisher's version](http://www.foreignaffairs.com/articles/139900/yuri-m-zhukov/more-trouble-in-the-eastern-mediterranean)
 <br/>
 
 <details>
@@ -391,7 +391,7 @@ author_profile: true
 ### Cyprus and Russia Did Not Just Break Up: Why Moscow Is Playing the Long Game on the Island of Aphrodite
 <img src="../images/fa.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M. "Cyprus and Russia Did Not Just Break Up: Why Moscow Is Playing the Long Game on the Island of Aphrodite". <em>Foreign Affairs</em>, 2013.
 <br/>
-| [Publisher's version](http://www.foreignaffairs.com/articles/139090/yuri-m-zhukov/cyprus-and-russia-did-not-just-break-up) |
+[Publisher's version](http://www.foreignaffairs.com/articles/139090/yuri-m-zhukov/cyprus-and-russia-did-not-just-break-up)
 <br/>
 
 <details>
@@ -403,7 +403,7 @@ author_profile: true
 ### Trouble in the Eastern Mediterranean Sea: The Coming Dash for Gas
 <img src="../images/fa.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M. "Trouble in the Eastern Mediterranean Sea: The Coming Dash for Gas". <em>Foreign Affairs</em>, 2013.
 <br/>
-| [Publisher's version](http://www.foreignaffairs.com/articles/139069/yuri-m-zhukov/trouble-in-the-eastern-mediterranean-sea) |
+[Publisher's version](http://www.foreignaffairs.com/articles/139069/yuri-m-zhukov/trouble-in-the-eastern-mediterranean-sea) |
 <br/>
 
 <details>
@@ -433,7 +433,7 @@ author_profile: true
 ### The Evolution of the U.S. Navy's Maritime Strategy in the Context of Major Political and Military Events of the Cold War, 1964–1991
 <img src="../images/nwc-np-19.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M, and John B Hattendorf. "The Evolution of the U.S. Navy's Maritime Strategy in the Context of Major Political and Military Events of the Cold War, 1964–1991". In <em>The Evolution of the U.S. Navy's Maritime Strategy</em>, 1977- 1986. Vol. 19. Newport, RI: Naval War College Press, 2004.
 <br/>
-| [Download offprint](../files/2004_ZH_NWC.pdf) |
+[Download offprint](../files/2004_ZH_NWC.pdf)
 <br/>
 
 <!-- ### Addressing Pipeline Security Challenges in Russia
@@ -445,7 +445,7 @@ author_profile: true
 ### A Tale of Two Fleets: a Russian Perspective on the 1973 Naval Standoff in the Mediterranean
 <img src="../images/nwcr.jpg" alt="" width="15" height="20"/> Goldstein, Lyle J, and Yuri M Zhukov. "A Tale of Two Fleets: a Russian Perspective on the 1973 Naval Standoff in the Mediterranean". <em>Naval War College Review</em> 58, no. 2 (2004): 27-63.
 <br/>
-| [Download offprint](../files/2004_GZ_NWCR.pdf) |
+[Download offprint](../files/2004_GZ_NWCR.pdf)
 <br/>
 
 ### Superpower Showdown in the Mediterranean 1973
