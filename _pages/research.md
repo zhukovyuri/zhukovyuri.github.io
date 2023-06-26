@@ -36,7 +36,7 @@ National Science Foundation RIDIR Grant (SES-1925693).
 ### Fighting for Tyranny: How State Repression Shapes Military Performance
 Rozenas, Arturas, Talibova, Roya and Yuri M. Zhukov. "Fighting for Tyranny: State Repression and Combat Motivation}." <em>American Economic Journal: Applied Economics</em> (conditionally accepted 2023). 
 <br/>
-[Download PDF](../files/2023_RTZ.pdf) | [Publisher's version](https://doi.org/10.1017/S0043887122000053) | [Appendix](../files/2023_RTZ_appendix.pdf)
+[Download PDF](../files/2023_RTZ.pdf)[Publisher's version](https://doi.org/10.1017/S0043887122000053) | [Appendix](../files/2023_RTZ_appendix.pdf)
 <br/>
 
 <details>
@@ -46,9 +46,9 @@ Rozenas, Arturas, Talibova, Roya and Yuri M. Zhukov. "Fighting for Tyranny: Stat
 </details>
 
 ### Are Competitive Elections Good for Your Health? Evidence from the 1918 Flu and Covid-19
-Walden, Jacob and Yuri M. Zhukov. "Historical Legacies of Political Violence." <em>Oxford Research Encyclopedia of Politics</em> (2020). <a href="https://doi.org/10.1093/acrefore/9780190228637.013.1788">doi.org/10.1093/acrefore/9780190228637.013.1788</a>
+Walden, Jacob, and Yuri M. Zhukov. "Are Competitive Elections Good for Your Health? Evidence from the 1918 Flu and Covid-19." Working paper, 2021.
 <br/>
-| [Download offprint](../files/2021_WZ.pdf) | 
+[Download PDF](../files/2021_WZ.pdf)
 <br/>
 
 <details>
@@ -60,7 +60,7 @@ Walden, Jacob and Yuri M. Zhukov. "Historical Legacies of Political Violence." <
 ### Fratricidal Coercion in Modern War
 Lyall, Jason, and Yuri M. Zhukov. "Fratricidal Coercion in Modern War." Working paper, 2021.
 <br/>
-| [Download offprint](../files/2021_LZ.pdf) | 
+[Download PDF](../files/2021_LZ.pdf)
 <br/>
 
 <details>
@@ -72,7 +72,7 @@ Lyall, Jason, and Yuri M. Zhukov. "Fratricidal Coercion in Modern War." Working 
 ### Political Regime Type and Warfare: Evidence from 600 Years of European History
 Blank, Meredith, Mark Dincecco and Yuri M. Zhukov. "Political Regime Type and Warfare: Evidence from 600 Years of European History." Working paper, 2017.
 <br/>
-| [Download offprint](../files/2017_BDZ.pdf) |
+[Download PDF](../files/2017_BDZ.pdf) |
 <br/>
 
 <details>
@@ -84,7 +84,7 @@ Blank, Meredith, Mark Dincecco and Yuri M. Zhukov. "Political Regime Type and Wa
 ### How Selective Reporting Shapes Inferences about Conflict
 Zhukov, Yuri M. and Matthew A. Baum. "How Selective Reporting Shapes Inferences about Conflict." Working paper, 2017.
 <br/>
-| [Download offprint](../files/2017_ZB.pdf) |
+[Download PDF](../files/2017_ZB.pdf) |
 <br/>
 
 <details>
