@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+**Quick links**:
+- [Data and Methods](#data)
+- [Legacies of Violence](#legacies)
+- [Dynamics of Violence](#dynamics)
+- [Causes of Violence](#causes)
+- [International Security](#intl)
+- [Sexual Violence](#sexual)
+
+---
 ## Data and Methods {#data}
 
 
@@ -21,7 +30,7 @@ author_profile: true
 </details>
 
 ### Near-Real Time Analysis of War and Economic Activity during Russia's Invasion of Ukraine
-<img src="../images/PA.jpg" alt="PA" width="15" height="20"/> Zhukov, Yuri M. "Near-Real Time Analysis of War and Economic Activity during Russia’s Invasion of Ukraine." <i>Journal of Comparative Economics</i> (forthcoming 2023). <a href="https://doi.org/10.1016/j.jce.2023.06.003">doi.org/10.1016/j.jce.2023.06.003</a>
+<img src="../images/JCE.gif" alt="" width="15" height="20"/> Zhukov, Yuri M. "Near-Real Time Analysis of War and Economic Activity during Russia’s Invasion of Ukraine." <i>Journal of Comparative Economics</i> (forthcoming 2023). <a href="https://doi.org/10.1016/j.jce.2023.06.003">doi.org/10.1016/j.jce.2023.06.003</a>
 <br/>
 [Download offprint](../files/2023_Zhukov_JCE.pdf) | [Publisher's version](https://doi.org/10.1016/j.jce.2023.06.003) | [Replication code and data]()
 <br/>
@@ -422,12 +431,12 @@ author_profile: true
 | [Download offprint](../files/2004_ZH_NWC.pdf) |
 <br/>
 
-### Addressing Pipeline Security Challenges in Russia
+<!-- ### Addressing Pipeline Security Challenges in Russia
 <img src="../images/" alt="" width="15" height="20"/> Zhukov, Yuri M. "Addressing Pipeline Security Challenges in Russia". <em>Eurasianet.org</em>, 2006.
 <br/>
 | [Download offprint](http://scholar.harvard.edu/zhukov/publications/addressing-pipeline-security-challenges-russia) | 
 <br/>
-
+ -->
 ### A Tale of Two Fleets: a Russian Perspective on the 1973 Naval Standoff in the Mediterranean
 <img src="../images/nwcr.jpg" alt="" width="15" height="20"/> Goldstein, Lyle J, and Yuri M Zhukov. "A Tale of Two Fleets: a Russian Perspective on the 1973 Naval Standoff in the Mediterranean". <em>Naval War College Review</em> 58, no. 2 (2004): 27-63.
 <br/>
@@ -436,9 +445,10 @@ author_profile: true
 
 ### Superpower Showdown in the Mediterranean 1973
 Goldstein, Lyle J, and Yuri M Zhukov. "Superpower Showdown in the Mediterranean 1973". <em>Sea Power</em>, 2003.
-<br/>
+<!-- <br/>
 | [Download offprint](http://scholar.harvard.edu/zhukov/publications/superpower-showdown-mediterranean-1973) | 
 <br/>
+ -->
 
 ---
 ## Sexual Violence {#sexual}
