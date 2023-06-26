@@ -72,7 +72,7 @@ Lyall, Jason, and Yuri M. Zhukov. "Fratricidal Coercion in Modern War." Working 
 ### Political Regime Type and Warfare: Evidence from 600 Years of European History
 Blank, Meredith, Mark Dincecco and Yuri M. Zhukov. "Political Regime Type and Warfare: Evidence from 600 Years of European History." Working paper, 2017.
 <br/>
-[Download PDF](../files/2017_BDZ.pdf) |
+[Download PDF](../files/2017_BDZ.pdf)
 <br/>
 
 <details>
@@ -84,7 +84,7 @@ Blank, Meredith, Mark Dincecco and Yuri M. Zhukov. "Political Regime Type and Wa
 ### How Selective Reporting Shapes Inferences about Conflict
 Zhukov, Yuri M. and Matthew A. Baum. "How Selective Reporting Shapes Inferences about Conflict." Working paper, 2017.
 <br/>
-[Download PDF](../files/2017_ZB.pdf) |
+[Download PDF](../files/2017_ZB.pdf)
 <br/>
 
 <details>
