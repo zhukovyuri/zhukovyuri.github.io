@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<a href="../files/ZhukovYuri_CV.pdf">CV (short)</a>"
+<a href="../files/ZhukovYuri_CV.pdf">Curriculum Vitae (short)</a>

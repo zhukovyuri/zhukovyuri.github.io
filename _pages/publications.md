@@ -31,7 +31,7 @@ author_profile: true
 </details>
 
 ### Near-Real Time Analysis of War and Economic Activity during Russia's Invasion of Ukraine
-<img src="../images/JCE.gif" alt=" width="15" height="20"/> Zhukov, Yuri M. "Near-Real Time Analysis of War and Economic Activity during Russia’s Invasion of Ukraine." <i>Journal of Comparative Economics</i> (forthcoming 2023). <a href="https://doi.org/10.1016/j.jce.2023.06.003">doi.org/10.1016/j.jce.2023.06.003</a>
+<img src="../images/JCE.gif" alt="" width="15" height="20"/> Zhukov, Yuri M. "Near-Real Time Analysis of War and Economic Activity during Russia’s Invasion of Ukraine." <i>Journal of Comparative Economics</i> (forthcoming 2023). <a href="https://doi.org/10.1016/j.jce.2023.06.003">doi.org/10.1016/j.jce.2023.06.003</a>
 <br/>
 [Download offprint](../files/2023_Zhukov_JCE.pdf) | [Publisher's version](https://doi.org/10.1016/j.jce.2023.06.003) | [Replication code and data]()
 <br/>
@@ -207,7 +207,7 @@ author_profile: true
 </details>
 
 ### Theory of Indiscriminate Violence.
-<img src="../images/Harvard.png" alt=" width="15" height="20"/> Zhukov, Yuri M. <em>Theory of Indiscriminate Violence.</em> Doctoral dissertation. Harvard University, 2014.
+<img src="../images/Harvard.png" alt="" width="15" height="20"/> Zhukov, Yuri M. <em>Theory of Indiscriminate Violence.</em> Doctoral dissertation. Harvard University, 2014.
 <br/>
 | [Download offprint](../files/2014_Zhukov_Thesis.pdf) |
 <br/>
@@ -219,7 +219,7 @@ author_profile: true
 </details>
 
 ### An Epidemic Model of Violence and Public Support in Civil War
-<img src="../images/cmps.gif" alt=" width="15" height="20"/> Zhukov, Yuri M. "An Epidemic Model of Violence and Public Support in Civil War". <em>Conflict Management and Peace Science</em> 30, no. 1 (2013): 24-52. <a href="http://dx.doi.org/10.1177/0738894212456936">dx.doi.org/10.1177/0738894212456936</a>
+<img src="../images/cmps.gif" alt="" width="15" height="20"/> Zhukov, Yuri M. "An Epidemic Model of Violence and Public Support in Civil War". <em>Conflict Management and Peace Science</em> 30, no. 1 (2013): 24-52. <a href="http://dx.doi.org/10.1177/0738894212456936">dx.doi.org/10.1177/0738894212456936</a>
 <br/>
 [Download offprint](../files/2013_Zhukov_CMPS.pdf) | [Publisher's version](http://dx.doi.org/10.1177/0738894212456936) | [Appendix](../files/2013_Zhukov_CMPS_appendix.pdf) | [Replication code and data]()
 <br/>
@@ -231,7 +231,7 @@ author_profile: true
 </details>
 
 ### Roads and the Diffusion of Insurgent Violence: The Logistics of Conflict in Russia's North Caucasus
-<img src="../images/pg.gif" alt=" width="15" height="20"/> Zhukov, Yuri M. "Roads and the Diffusion of Insurgent Violence: The Logistics of Conflict in Russia's North Caucasus". <em>Political Geography</em> 31, no. 3 (2012): 144-156. <a href="http://dx.doi.org/10.1016/j.polgeo.2011.12.002">dx.doi.org/10.1016/j.polgeo.2011.12.002</a>
+<img src="../images/pg.gif" alt="" width="15" height="20"/> Zhukov, Yuri M. "Roads and the Diffusion of Insurgent Violence: The Logistics of Conflict in Russia's North Caucasus". <em>Political Geography</em> 31, no. 3 (2012): 144-156. <a href="http://dx.doi.org/10.1016/j.polgeo.2011.12.002">dx.doi.org/10.1016/j.polgeo.2011.12.002</a>
 <br/>
 [Download offprint](../files/2012_Zhukov_PG.pdf) | [Publisher's version](http://dx.doi.org/10.1016/j.polgeo.2011.12.002) | [Appendix](../files/2012_Zhukov_PG_appendix.pdf) | [Replication code and data](http://thedata.harvard.edu/dvn/dv/zhukov)
 <br/>
@@ -243,7 +243,7 @@ author_profile: true
 </details>
 
 ### Denial and Punishment in the North Caucasus: Evaluating the Effectiveness of Coercive Counterinsurgency
-<img src="../images/jpr.gif" alt=" width="15" height="20"/> Toft, Monica Duffy, and Yuri M Zhukov. "Denial and Punishment in the North Caucasus: Evaluating the Effectiveness of Coercive Counterinsurgency". <em>Journal of Peace Research</em> 49, no. 6 (2012): 785-800. <a href="http://dx.doi.org/10.1177/0022343312448389">dx.doi.org/10.1177/0022343312448389</a>
+<img src="../images/jpr.gif" alt="" width="15" height="20"/> Toft, Monica Duffy, and Yuri M Zhukov. "Denial and Punishment in the North Caucasus: Evaluating the Effectiveness of Coercive Counterinsurgency". <em>Journal of Peace Research</em> 49, no. 6 (2012): 785-800. <a href="http://dx.doi.org/10.1177/0022343312448389">dx.doi.org/10.1177/0022343312448389</a>
 <br/>
 [Download offprint](../files/2012_TZ_JPR.pdf) | [Publisher's version](http://dx.doi.org/10.1177/0022343312448389) | [Appendix](../files/2012_TZ_JPR_appendix.pdf) | [Replication code and data](http://file.prio.no/journals/JPR/2012/49/6/Toft_Zhukov/Toft_Zhukov_2012.zip)
 <br/>
@@ -255,13 +255,13 @@ author_profile: true
 </details>
 
 ### Counterinsurgency in a Non-Democratic State: The Russian Example
-<img src="../images/routledge.jpg" alt=" width="15" height="20"/> Zhukov, Yuri M. "Counterinsurgency in a Non-Democratic State: The Russian Example". In <em>The Routledge Handbook of Insurgency and Counterinsurgency</em>. London: Routledge, 2012.
+<img src="../images/routledge.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M. "Counterinsurgency in a Non-Democratic State: The Russian Example". In <em>The Routledge Handbook of Insurgency and Counterinsurgency</em>. London: Routledge, 2012.
 <br/>
 | [Download offprint](../files/2012_Zhukov_Routledge.pdf) |
 <br/>
 
 ### Examining the Authoritarian Model of Counter-insurgency: The Soviet Campaign Against the Ukrainian Insurgent Army
-<img src="../images/swi.jpg" alt=" width="15" height="20"/> Zhukov, Yuri M. "Examining the Authoritarian Model of Counter-insurgency: The Soviet Campaign Against the Ukrainian Insurgent Army". <em>Small Wars and Insurgencies</em> 18, no. 3 (2007): 439-466.
+<img src="../images/swi.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M. "Examining the Authoritarian Model of Counter-insurgency: The Soviet Campaign Against the Ukrainian Insurgent Army". <em>Small Wars and Insurgencies</em> 18, no. 3 (2007): 439-466.
 <br/>
 | [Download offprint](../files/2007_Zhukov_SWI.pdf) |
 <br/>
@@ -277,7 +277,7 @@ author_profile: true
 <a href="#pubtop">&#8593; back to top</a>
 
 ### Trading Hard Hats for Combat Helmets: The Economics of Rebellion in Eastern Ukraine
-<img src="../images/JCE.gif" alt=" width="15" height="20"/> Zhukov, Yuri M. "Trading Hard Hats for Combat Helmets: The Economics of Rebellion in Eastern Ukraine". <em>Journal of Comparative Economics</em> 44, no. 1 (2016): 1-15. <a href="http://dx.doi.org/10.1016/j.jce.2015.10.010">dx.doi.org/10.1016/j.jce.2015.10.010</a>
+<img src="../images/JCE.gif" alt="" width="15" height="20"/> Zhukov, Yuri M. "Trading Hard Hats for Combat Helmets: The Economics of Rebellion in Eastern Ukraine". <em>Journal of Comparative Economics</em> 44, no. 1 (2016): 1-15. <a href="http://dx.doi.org/10.1016/j.jce.2015.10.010">dx.doi.org/10.1016/j.jce.2015.10.010</a>
 <br/>
 [Download offprint](../files/2016_Zhukov_JCE.pdf) | [Publisher's version](http://dx.doi.org/10.1016/j.jce.2015.10.010) | [Appendix](../files/2016_Zhukov_JCE_appendix.pdf) | [Replication code and data](http://dx.doi.org/10.7910/DVN/4VAHBW)
 <br/>
@@ -289,7 +289,7 @@ author_profile: true
 </details>
 
 ### Rust Belt Rising: The Economics Behind Eastern Ukraine's Upheaval
-<img src="../images/fa.jpg" alt=" width="15" height="20"/> Zhukov, Yuri M. "Rust Belt Rising: The Economics Behind Eastern Ukraine's Upheaval". <em>Foreign Affairs</em>, 2014.
+<img src="../images/fa.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M. "Rust Belt Rising: The Economics Behind Eastern Ukraine's Upheaval". <em>Foreign Affairs</em>, 2014.
 <br/>
 | [Publisher's version](http://www.foreignaffairs.com/articles/141561/yuri-m-zhukov/rust-belt-rising) |
 <br/>
@@ -305,7 +305,7 @@ author_profile: true
 <a href="#pubtop">&#8593; back to top</a>
 
 ### Until the Bitter End? The Diffusion of Surrender Across Battles
-<img src="../images/IO.jpg" alt=" width="15" height="20"/> Lehmann, Todd and Yuri M. Zhukov. "Until the Bitter End? The Diffusion of Surrender Across Battles." <em>International Organization</em> 73, no. 1 (2019): 133-169. <a href="https://doi.org/10.1017/S0020818318000358">doi.org/10.1017/S0020818318000358</a>
+<img src="../images/IO.jpg" alt="" width="15" height="20"/> Lehmann, Todd and Yuri M. Zhukov. "Until the Bitter End? The Diffusion of Surrender Across Battles." <em>International Organization</em> 73, no. 1 (2019): 133-169. <a href="https://doi.org/10.1017/S0020818318000358">doi.org/10.1017/S0020818318000358</a>
 <br/>
 [Download offprint](../files/2019_LZ_IO.pdf) | [Publisher's version](https://doi.org/10.1017/S0020818318000358) | [Replication code and data](https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S0020818318000358/resource/name/S0020818318000358sup001.zip)
 <br/>
@@ -317,7 +317,7 @@ author_profile: true
 </details>
 
 ### Media Ownership and News Coverage of International Conflict
-<img src="../images/UPCP.jpg" alt=" width="15" height="20"/> Baum, Matthew A. and Yuri M. Zhukov. "Media Ownership and News Coverage of International Conflict" <em>Political Communication</em> 31, no. 1 (2019): 36-53.
+<img src="../images/UPCP.jpg" alt="" width="15" height="20"/> Baum, Matthew A. and Yuri M. Zhukov. "Media Ownership and News Coverage of International Conflict" <em>Political Communication</em> 31, no. 1 (2019): 36-53.
 <br/>
 [Download offprint](../files/2019_BZ_PC.pdf) | [Publisher's version](https://doi.org/10.1080/10584609.2018.1483606) | [Appendix](../files/2019_BZ_PC_appendix.pdf) | [Replication code and data](https://www.tandfonline.com/doi/suppl/10.1080/10584609.2018.1483606/suppl_file/upcp_a_1483606_sm8852.zip)
 <br/>
@@ -329,7 +329,7 @@ author_profile: true
 </details>
 
 ### Invisible Digital Front: Can Cyber Attacks Shape Battlefield Events?
-<img src="../images/jcr.gif" alt=" width="15" height="20"/> Kostyuk, Nadiya and Yuri M. Zhukov. "Invisible Digital Front: Can Cyber Attacks Shape Battlefield Events?" <em>Journal of Conflict Resolution</em> 63, no. 2 (2019): 317-347. <a href="https://doi.org/10.1177/0022002717737138">doi.org/10.1177/0022002717737138</a>
+<img src="../images/jcr.gif" alt="" width="15" height="20"/> Kostyuk, Nadiya and Yuri M. Zhukov. "Invisible Digital Front: Can Cyber Attacks Shape Battlefield Events?" <em>Journal of Conflict Resolution</em> 63, no. 2 (2019): 317-347. <a href="https://doi.org/10.1177/0022002717737138">doi.org/10.1177/0022002717737138</a>
 <br/>
 [Download offprint](../files/2019_KZ_JCR.pdf) | [Publisher's version](https://doi.org/10.1177/0022002717737138) | [Appendix 1](../files/2019_KZ_JCR_appendix1.pdf) | [Appendix 2](../files/2019_KZ_JCR_appendix2.pdf) | [Replication code and data](https://journals.sagepub.com/doi/suppl/10.1177/0022002717737138/suppl_file/jcr-17-0021.r2_replication.zip)
 <br/>
@@ -341,7 +341,7 @@ author_profile: true
 </details>
 
 ### NATO's Mediterranean Mission: What the Alliance is Doing in the Aegean Sea
-<img src="../images/fa.jpg" alt=" width="15" height="20"/> Zhukov, Yuri M. "NATO's Mediterranean Mission: What the Alliance is Doing in the Aegean Sea". <em>Foreign Affairs</em>, 2016.
+<img src="../images/fa.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M. "NATO's Mediterranean Mission: What the Alliance is Doing in the Aegean Sea". <em>Foreign Affairs</em>, 2016.
 <br/>
 | [Publisher's version](https://www.foreignaffairs.com/articles/europe/2016-02-21/natos-mediterranean-mission) |
 <br/>
@@ -353,7 +353,7 @@ author_profile: true
 </details>
 
 ### Egypt's Gift from God: What the Discovery of Offshore Gas Means for Cairo
-<img src="../images/fa.jpg" alt=" width="15" height="20"/> Zhukov, Yuri M. "Egypt's Gift from God: What the Discovery of Offshore Gas Means for Cairo". <em>Foreign Affairs</em>, 2015.
+<img src="../images/fa.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M. "Egypt's Gift from God: What the Discovery of Offshore Gas Means for Cairo". <em>Foreign Affairs</em>, 2015.
 <br/>
 | [Publisher's version](https://www.foreignaffairs.com/articles/cyprus/2015-09-23/egypts-gift-god) |
 <br/>
@@ -365,7 +365,7 @@ author_profile: true
 </details>
 
 ### Choosing Your Neighbors: Networks of Diffusion in International Relations
-<img src="../images/isq.gif" alt=" width="15" height="20"/> Zhukov, Yuri M, and Brandon M Stewart. "Choosing Your Neighbors: Networks of Diffusion in International Relations". <em>International Studies Quarterly</em>, no. 57 (2013): 271-287 <a href="http://dx.doi.org/10.1111/isqu.12008">dx.doi.org/10.1111/isqu.12008</a>
+<img src="../images/isq.gif" alt="" width="15" height="20"/> Zhukov, Yuri M, and Brandon M Stewart. "Choosing Your Neighbors: Networks of Diffusion in International Relations". <em>International Studies Quarterly</em>, no. 57 (2013): 271-287 <a href="http://dx.doi.org/10.1111/isqu.12008">dx.doi.org/10.1111/isqu.12008</a>
 <br/>
 [Download offprint](../files/2013_ZS_ISQ.pdf) | [Publisher's version](https://doi.org/10.1111/isqu.12008) | [Replication code and data](http://thedata.harvard.edu/dvn/dv/zhukov)
 <br/>
@@ -377,7 +377,7 @@ author_profile: true
 </details>
 
 ### More Trouble in the Eastern Mediterranean: U.S. Intervention or Not, the Sea is Already Boiling
-<img src="../images/fa.jpg" alt=" width="15" height="20"/> Zhukov, Yuri M. "More Trouble in the Eastern Mediterranean: U.S. Intervention or Not, the Sea is Already Boiling". <em>Foreign Affairs</em>, 2013.
+<img src="../images/fa.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M. "More Trouble in the Eastern Mediterranean: U.S. Intervention or Not, the Sea is Already Boiling". <em>Foreign Affairs</em>, 2013.
 <br/>
 | [Publisher's version](http://www.foreignaffairs.com/articles/139900/yuri-m-zhukov/more-trouble-in-the-eastern-mediterranean) |
 <br/>
@@ -389,7 +389,7 @@ author_profile: true
 </details>
 
 ### Cyprus and Russia Did Not Just Break Up: Why Moscow Is Playing the Long Game on the Island of Aphrodite
-<img src="../images/fa.jpg" alt=" width="15" height="20"/> Zhukov, Yuri M. "Cyprus and Russia Did Not Just Break Up: Why Moscow Is Playing the Long Game on the Island of Aphrodite". <em>Foreign Affairs</em>, 2013.
+<img src="../images/fa.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M. "Cyprus and Russia Did Not Just Break Up: Why Moscow Is Playing the Long Game on the Island of Aphrodite". <em>Foreign Affairs</em>, 2013.
 <br/>
 | [Publisher's version](http://www.foreignaffairs.com/articles/139090/yuri-m-zhukov/cyprus-and-russia-did-not-just-break-up) |
 <br/>
@@ -401,7 +401,7 @@ author_profile: true
 </details>
 
 ### Trouble in the Eastern Mediterranean Sea: The Coming Dash for Gas
-<img src="../images/fa.jpg" alt=" width="15" height="20"/> Zhukov, Yuri M. "Trouble in the Eastern Mediterranean Sea: The Coming Dash for Gas". <em>Foreign Affairs</em>, 2013.
+<img src="../images/fa.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M. "Trouble in the Eastern Mediterranean Sea: The Coming Dash for Gas". <em>Foreign Affairs</em>, 2013.
 <br/>
 | [Publisher's version](http://www.foreignaffairs.com/articles/139069/yuri-m-zhukov/trouble-in-the-eastern-mediterranean-sea) |
 <br/>
@@ -413,7 +413,7 @@ author_profile: true
 </details>
 
 ### Use of Force and Civil-Military Relations in Russia: An Automated Content Analysis
-<img src="../images/swi.jpg" alt=" width="15" height="20"/> Stewart, Brandon M, and Yuri M Zhukov. "Use of Force and Civil-Military Relations in Russia: An Automated Content Analysis". <em>Small Wars and Insurgencies</em> 20, no. 2 (2009): 319-343.
+<img src="../images/swi.jpg" alt="" width="15" height="20"/> Stewart, Brandon M, and Yuri M Zhukov. "Use of Force and Civil-Military Relations in Russia: An Automated Content Analysis". <em>Small Wars and Insurgencies</em> 20, no. 2 (2009): 319-343.
 <br/>
 [Download offprint](../files/2009_SZ_SWI.pdf) | [Replication code and data](http://dx.doi.org/10.7910/DVN/23111)
 <br/>
@@ -425,25 +425,25 @@ author_profile: true
 </details>
 
 ### The Cold War at Sea: An International Appraisal
-<img src="../images/jss.jpg" alt=" width="15" height="20"/> Goldstein, Lyle J, John B Hattendorf, and Yuri M Zhukov. "The Cold War at Sea: An International Appraisal". <em>The Journal of Strategic Studies</em> 28, no. 2 (2005): 151-156. <a href="http://dx.doi.org/10.1080/01402390500088221">dx.doi.org/10.1080/01402390500088221</a>
+<img src="../images/jss.jpg" alt="" width="15" height="20"/> Goldstein, Lyle J, John B Hattendorf, and Yuri M Zhukov. "The Cold War at Sea: An International Appraisal". <em>The Journal of Strategic Studies</em> 28, no. 2 (2005): 151-156. <a href="http://dx.doi.org/10.1080/01402390500088221">dx.doi.org/10.1080/01402390500088221</a>
 <br/>
 [Download offprint](../files/2005_GHZ_JSS.pdf) | [Publisher's version](http://dx.doi.org/10.1080/01402390500088221) 
 <br/>
 
 ### The Evolution of the U.S. Navy's Maritime Strategy in the Context of Major Political and Military Events of the Cold War, 1964–1991
-<img src="../images/nwc-np-19.jpg" alt=" width="15" height="20"/> Zhukov, Yuri M, and John B Hattendorf. "The Evolution of the U.S. Navy's Maritime Strategy in the Context of Major Political and Military Events of the Cold War, 1964–1991". In <em>The Evolution of the U.S. Navy's Maritime Strategy</em>, 1977- 1986. Vol. 19. Newport, RI: Naval War College Press, 2004.
+<img src="../images/nwc-np-19.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M, and John B Hattendorf. "The Evolution of the U.S. Navy's Maritime Strategy in the Context of Major Political and Military Events of the Cold War, 1964–1991". In <em>The Evolution of the U.S. Navy's Maritime Strategy</em>, 1977- 1986. Vol. 19. Newport, RI: Naval War College Press, 2004.
 <br/>
 | [Download offprint](../files/2004_ZH_NWC.pdf) |
 <br/>
 
 <!-- ### Addressing Pipeline Security Challenges in Russia
-<img src="../images/" alt=" width="15" height="20"/> Zhukov, Yuri M. "Addressing Pipeline Security Challenges in Russia". <em>Eurasianet.org</em>, 2006.
+<img src="../images/" alt="" width="15" height="20"/> Zhukov, Yuri M. "Addressing Pipeline Security Challenges in Russia". <em>Eurasianet.org</em>, 2006.
 <br/>
 | [Download offprint](http://scholar.harvard.edu/zhukov/publications/addressing-pipeline-security-challenges-russia) | 
 <br/>
  -->
 ### A Tale of Two Fleets: a Russian Perspective on the 1973 Naval Standoff in the Mediterranean
-<img src="../images/nwcr.jpg" alt=" width="15" height="20"/> Goldstein, Lyle J, and Yuri M Zhukov. "A Tale of Two Fleets: a Russian Perspective on the 1973 Naval Standoff in the Mediterranean". <em>Naval War College Review</em> 58, no. 2 (2004): 27-63.
+<img src="../images/nwcr.jpg" alt="" width="15" height="20"/> Goldstein, Lyle J, and Yuri M Zhukov. "A Tale of Two Fleets: a Russian Perspective on the 1973 Naval Standoff in the Mediterranean". <em>Naval War College Review</em> 58, no. 2 (2004): 27-63.
 <br/>
 | [Download offprint](../files/2004_GZ_NWCR.pdf) |
 <br/>
@@ -460,7 +460,7 @@ Goldstein, Lyle J, and Yuri M Zhukov. "Superpower Showdown in the Mediterranean 
 <a href="#pubtop">&#8593; back to top</a>
 
 ### Does Rape Culture Predict Rape? Evidence from U.S. Newspapers, 2000-2013
-<img src="../images/QJPS.gif" alt=" width="15" height="20"/> Baum, Matthew A., Dara Kay Cohen and Yuri M. Zhukov. "Does Rape Culture Predict Rape? Evidence from U.S. Newspapers, 2000-2013." <em>Quarterly Journal of Political Science</em> 13, no. 3 (2018): 263-289.
+<img src="../images/QJPS.gif" alt="" width="15" height="20"/> Baum, Matthew A., Dara Kay Cohen and Yuri M. Zhukov. "Does Rape Culture Predict Rape? Evidence from U.S. Newspapers, 2000-2013." <em>Quarterly Journal of Political Science</em> 13, no. 3 (2018): 263-289.
 <br/>
 [Download offprint](../files/2019_BCZ_QJPS.pdf) | [Publisher's version](http://dx.doi.org/10.1561/100.00016124) | [Appendix](../files/2019_BCZ_QJPS_appendix.pdf) | [Replication code and data](https://www.nowpublishers.com/article/details/supplementary-info/100.00016124_supp.zip)
 <br/>

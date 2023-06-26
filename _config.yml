@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yuri M. Zhukov"
   avatar           : "profile.jpg"
-  bio              : "Political scientist studying armed conflict, repression, and geospatial data science."
-  location         : "Cambridge, MA"
+  bio              : "Political scientist studying armed conflict, repression, and geospatial data science. <br><a href='../files/ZhukovYuri_CV.pdf'>CV<\a>"
+  location         : #"Cambridge, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.com/citations?user=3uyK7_sAAAAJ"
