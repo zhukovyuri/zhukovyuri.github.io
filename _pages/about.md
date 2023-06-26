@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: ""
+title: "Yuri M. Zhukov"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /
-  - /index.html
+  - /about
+  - /about.html
 ---
 
 ![Banner](../images/repin_cossacks_crop.jpg "Repin")
