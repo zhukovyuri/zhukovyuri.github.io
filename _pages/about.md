@@ -10,7 +10,9 @@ redirect_from:
 
 ![Banner](../images/repin_cossacks_crop.jpg "Repin")
 
-I am an Associate Professor of Political Science at the University of Michigan, Ann Arbor, and a Research Associate Professor with the Center for Political Studies at the Institute for Social Research. My research focuses on the causes, dynamics and outcomes of conflict, at the international and local levels. My methodological areas of interest include spatial statistics, mathematical/computational modeling and text analysis.
+I am an Associate Professor of Political Science at the University of Michigan, Ann Arbor, and a Research Associate Professor with the Center for Political Studies at the Institute for Social Research. During the 2023-2024 academic year, I will be a Visiting Associate Professor at the Harvard Kennedy School. 
+
+My research focuses on the causes, dynamics and outcomes of conflict, at the international and local levels. My methodological areas of interest include spatial statistics, mathematical/computational modeling and text analysis.
 
 I received my Ph.D. from the Department of Government at Harvard University. I also hold degrees from the Graduate School of Foreign Service at Georgetown University (M.A.) and Brown University (A.B.).
 
