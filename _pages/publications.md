@@ -197,7 +197,7 @@ author_profile: true
 ### Population Resettlement in War: Theory and Evidence from Soviet Archives
 <img src="../images/jcr.gif" alt="JCR" width="15" height="20"/> Zhukov, Yuri M. "Population Resettlement in War: Theory and Evidence from Soviet Archives". <em>Journal of Conflict Resolution</em> 59, no 7 (2015): 1155-1185. <a href="http://dx.doi.org/10.1177/0022002713520590">dx.doi.org/10.1177/0022002713520590</a>
 <br/>
-[Download offprint](../files/2015_Zhukov_JCR.pdf) | [Publisher's version](http://dx.doi.org/10.1177/0022002713520590) | [Appendix](../files/2015_Zhukov_JCR_appendix.pdf) | [Replication code and data](http://journals.sagepub.com/doi/suppl/10.1177/0022002713520590/suppl_file/Data_Set.zip)
+[Download offprint](../files/2015_Zhukov_JCR.pdf) | [Publisher's version](http://dx.doi.org/10.1177/0022002713520590) | [Appendix](../files/2015_Zhukov_JCR_appendix.pdf) | [Replication code and data](https://journals.sagepub.com/doi/suppl/10.1177/0022002713520590/suppl_file/Data_Set.zip)
 <br/>
 
 <details>
@@ -209,7 +209,7 @@ author_profile: true
 ### Filtering revolution: Reporting bias in international newspaper coverage of the Libyan civil war
 <img src="../images/jpr.gif" alt="JPR" width="15" height="20"/> Baum, Matthew A. and Yuri M Zhukov. "Filtering revolution: Reporting bias in international newspaper coverage of the Libyan civil war." <em>Journal of Peace Research</em> 52, no. 3 (2015): 384-400. <a href="http://dx.doi.org/10.1177/0022343314554791">dx.doi.org/10.1177/0022343314554791</a>
 <br/>
-[Download offprint](../files/2015_BZ_JPR.pdf) | [Publisher's version](http://dx.doi.org/10.1177/0022343314554791) | [Appendix](../files/2015_BZ_JPR_appendix.pdf) | [Replication code and data](http://file.prio.no/journals/JPR/2015/52/3/Baum%20&%20Zhukov%202015%20replication.zip)
+[Download offprint](../files/2015_BZ_JPR.pdf) | [Publisher's version](http://dx.doi.org/10.1177/0022343314554791) | [Appendix](../files/2015_BZ_JPR_appendix.pdf) | [Replication code and data](https://file.prio.no/journals/JPR/2015/52/3/Baum%20&%20Zhukov%202015%20replication.zip)
 <br/>
 
 <details>
@@ -233,7 +233,7 @@ author_profile: true
 ### An Epidemic Model of Violence and Public Support in Civil War
 <img src="../images/cmps.gif" alt="" width="15" height="20"/> Zhukov, Yuri M. "An Epidemic Model of Violence and Public Support in Civil War". <em>Conflict Management and Peace Science</em> 30, no. 1 (2013): 24-52. <a href="http://dx.doi.org/10.1177/0738894212456936">dx.doi.org/10.1177/0738894212456936</a>
 <br/>
-[Download offprint](../files/2013_Zhukov_CMPS.pdf) | [Publisher's version](http://dx.doi.org/10.1177/0738894212456936) | [Appendix](../files/2013_Zhukov_CMPS_appendix.pdf) | [Replication code and data]()
+[Download offprint](../files/2013_Zhukov_CMPS.pdf) | [Publisher's version](http://dx.doi.org/10.1177/0738894212456936) 
 <br/>
 
 <details>
@@ -245,7 +245,7 @@ author_profile: true
 ### Roads and the Diffusion of Insurgent Violence: The Logistics of Conflict in Russia's North Caucasus
 <img src="../images/pg.gif" alt="" width="15" height="20"/> Zhukov, Yuri M. "Roads and the Diffusion of Insurgent Violence: The Logistics of Conflict in Russia's North Caucasus". <em>Political Geography</em> 31, no. 3 (2012): 144-156. <a href="http://dx.doi.org/10.1016/j.polgeo.2011.12.002">dx.doi.org/10.1016/j.polgeo.2011.12.002</a>
 <br/>
-[Download offprint](../files/2012_Zhukov_PG.pdf) | [Publisher's version](http://dx.doi.org/10.1016/j.polgeo.2011.12.002) | [Appendix](../files/2012_Zhukov_PG_appendix.pdf) | [Replication code and data](http://thedata.harvard.edu/dvn/dv/zhukov)
+[Download offprint](../files/2012_Zhukov_PG.pdf) | [Publisher's version](http://dx.doi.org/10.1016/j.polgeo.2011.12.002) | [Appendix](../files/2012_Zhukov_PG_appendix.pdf) | [Replication code and data](https://doi.org/10.7910/DVN/HPHDT0)
 <br/>
 
 <details>
@@ -257,7 +257,7 @@ author_profile: true
 ### Denial and Punishment in the North Caucasus: Evaluating the Effectiveness of Coercive Counterinsurgency
 <img src="../images/jpr.gif" alt="" width="15" height="20"/> Toft, Monica Duffy, and Yuri M Zhukov. "Denial and Punishment in the North Caucasus: Evaluating the Effectiveness of Coercive Counterinsurgency". <em>Journal of Peace Research</em> 49, no. 6 (2012): 785-800. <a href="http://dx.doi.org/10.1177/0022343312448389">dx.doi.org/10.1177/0022343312448389</a>
 <br/>
-[Download offprint](../files/2012_TZ_JPR.pdf) | [Publisher's version](http://dx.doi.org/10.1177/0022343312448389) | [Appendix](../files/2012_TZ_JPR_appendix.pdf) | [Replication code and data](http://file.prio.no/journals/JPR/2012/49/6/Toft_Zhukov/Toft_Zhukov_2012.zip)
+[Download offprint](../files/2012_TZ_JPR.pdf) | [Publisher's version](http://dx.doi.org/10.1177/0022343312448389) | [Appendix](../files/2012_TZ_JPR_appendix.pdf) | [Replication code and data](https://file.prio.no/journals/JPR/2012/49/6/Toft_Zhukov/Toft_Zhukov_2012.zip)
 <br/>
 
 <details>
@@ -379,7 +379,7 @@ author_profile: true
 ### Choosing Your Neighbors: Networks of Diffusion in International Relations
 <img src="../images/isq.gif" alt="" width="15" height="20"/> Zhukov, Yuri M, and Brandon M Stewart. "Choosing Your Neighbors: Networks of Diffusion in International Relations". <em>International Studies Quarterly</em>, no. 57 (2013): 271-287 <a href="http://dx.doi.org/10.1111/isqu.12008">dx.doi.org/10.1111/isqu.12008</a>
 <br/>
-[Download offprint](../files/2013_ZS_ISQ.pdf) | [Publisher's version](https://doi.org/10.1111/isqu.12008) | [Replication code and data](http://thedata.harvard.edu/dvn/dv/zhukov)
+[Download offprint](../files/2013_ZS_ISQ.pdf) | [Publisher's version](https://doi.org/10.1111/isqu.12008) | [Replication code and data](https://doi.org/10.7910/DVN/GDKLGN)
 <br/>
 
 <details>
@@ -474,7 +474,7 @@ Goldstein, Lyle J, and Yuri M Zhukov. "Superpower Showdown in the Mediterranean 
 ### Does Rape Culture Predict Rape? Evidence from U.S. Newspapers, 2000-2013
 <img src="../images/QJPS.gif" alt="" width="15" height="20"/> Baum, Matthew A., Dara Kay Cohen and Yuri M. Zhukov. "Does Rape Culture Predict Rape? Evidence from U.S. Newspapers, 2000-2013." <em>Quarterly Journal of Political Science</em> 13, no. 3 (2018): 263-289.
 <br/>
-[Download offprint](../files/2019_BCZ_QJPS.pdf) | [Publisher's version](http://dx.doi.org/10.1561/100.00016124) | [Appendix](../files/2019_BCZ_QJPS_appendix.pdf) | [Replication code and data](https://www.nowpublishers.com/article/details/supplementary-info/100.00016124_supp.zip)
+[Download offprint](../files/2018_BCZ_QJPS.pdf) | [Publisher's version](http://dx.doi.org/10.1561/100.00016124) | [Appendix](../files/2018_BCZ_QJPS_appendix.pdf) | [Replication code and data](https://www.nowpublishers.com/article/details/supplementary-info/100.00016124_supp.zip)
 <br/>
 
 <details>
