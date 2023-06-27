@@ -113,7 +113,7 @@ redirect_from:
 *Course number(s)*: Political Science 498.002 (Michigan).<br/>
 *Format*: Undergraduate seminar (15 students). <br/>
 *Offered*: Fall 2014. <br/>
-*Syllabus*: [Download PDF](../files/PS498_F2014.pdf)<br/>
+*Syllabus*: [Download PDF](../files/PS498_Syllabus_F2014.pdf)<br/>
 
 <details>
   <summary>Course description</summary>
