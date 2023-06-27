@@ -24,7 +24,7 @@ author_profile: true
 - [International Security](#intl)
 - [Sexual Violence](#sexual)
 - [Geospatial Data Science](#data)
-- [Reporting Bias in Event Data](#data)
+- [Reporting Bias in Event Data](#rep)
 
 ---
 ## Legacies of Violence {#legacies}
