@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Data Infrastructure"
 permalink: /data_infrastructure/
 author_profile: true

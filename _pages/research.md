@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Ongoing Research"
 permalink: /research/
 author_profile: true
