@@ -33,7 +33,7 @@ author_profile: true
 ### Near-Real Time Analysis of War and Economic Activity during Russia's Invasion of Ukraine
 <img src="../images/JCE.gif" alt="" width="15" height="20"/> Zhukov, Yuri M. "Near-Real Time Analysis of War and Economic Activity during Russia’s Invasion of Ukraine." <i>Journal of Comparative Economics</i> (forthcoming 2023). <a href="https://doi.org/10.1016/j.jce.2023.06.003">doi.org/10.1016/j.jce.2023.06.003</a>
 <br/>
-[Download offprint](../files/2023_Zhukov_JCE.pdf) | [Publisher's version](https://doi.org/10.1016/j.jce.2023.06.003) | [Replication code and data]()
+[Download offprint](../files/2023_Zhukov_JCE.pdf) | [Publisher's version](https://doi.org/10.1016/j.jce.2023.06.003) | [Appendix](../files/2023_Zhukov_JCE_appendix.pdf) | [Replication code and data]()
 <br/>
 
 <details>
