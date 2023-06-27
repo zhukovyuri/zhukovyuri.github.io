@@ -17,6 +17,8 @@ redirect_from:
   gtag('config', 'G-VSM97RVTRT');
 </script>
 
+![Banner](../images/repin_cossacks_crop.jpg "Repin")
+
 ### Categories {#teachtop}
 - [Methods](#methods)
 - [International Security](#intlsec)

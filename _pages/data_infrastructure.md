@@ -17,6 +17,8 @@ redirect_from:
   gtag('config', 'G-VSM97RVTRT');
 </script>
 
+![Banner](../images/repin_cossacks_crop.jpg "Repin")
+
 ---
 ## SUNGEO: Sub-National Geospatial Data Archive
 Kollman, Ken and Yuri M. Zhukov. SUNGEO: Sub-National Geospatial Data Archive (Ann Arbor: University of Michigan, Center for Political Studies, 2023).

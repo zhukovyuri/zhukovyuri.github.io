@@ -17,4 +17,6 @@ redirect_from:
   gtag('config', 'G-VSM97RVTRT');
 </script>
 
+![Banner](../images/repin_cossacks_crop.jpg "Repin")
+
 <a href="../files/ZhukovYuri_CV.pdf">Curriculum Vitae (short)</a>

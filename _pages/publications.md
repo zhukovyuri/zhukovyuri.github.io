@@ -15,6 +15,8 @@ author_profile: true
   gtag('config', 'G-VSM97RVTRT');
 </script>
 
+![Banner](../images/repin_cossacks_crop.jpg "Repin")
+
 ### Categories {#pubtop}
 - [Data and Methods](#data)
 - [Legacies of Violence](#legacies)
