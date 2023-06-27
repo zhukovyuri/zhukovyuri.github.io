@@ -18,9 +18,7 @@ redirect_from:
 *Course number(s)*: Political Science 385.001 (Michigan)<br/>
 *Format*: Undergraduate lecture/seminar/lab (25 students).<br/>
 *Offered*: Fall 2019, 2020. <br/>
-<br/>
-[Syllabus](../files/PS385_Syllabus_F2020.pdf) 
-<br/>
+*Syllabus*: [Download PDF](../files/PS385_Syllabus_F2020.pdf)<br/>
 
 <details>
   <summary>Course description</summary>
@@ -35,9 +33,7 @@ redirect_from:
 *Course number(s)*: Political Science 368.001 [389.020, 389.030] (Michigan)<br/>
 *Format*: Undergraduate lecture (100-150 students).  <br/>
 *Offered*: Fall 2014-2016, 2018-2020, Winter 2023. <br/>
-<br/>
-[Syllabus](../files/PS368_Syllabus_W2023.pdf) 
-<br/>
+*Syllabus*: [Download PDF](../files/PS368_Syllabus_W2023.pdf)<br/>
 
 <details>
   <summary>Course description</summary>
