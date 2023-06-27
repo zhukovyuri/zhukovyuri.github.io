@@ -15,7 +15,7 @@ url                      : https://zhukovyuri.github.io # the base hostname & pr
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhukovyuri/zhukovyuri.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -120,7 +120,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  links:
+    - label: "CV"
+      icon: "user-tie"
+      url: "../files/ZhukovYuri_CV.pdf"
 
 # Reading Files
 include:
