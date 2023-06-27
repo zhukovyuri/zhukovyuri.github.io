@@ -17,83 +17,14 @@ author_profile: true
 
 ![Banner](../images/repin_cossacks_crop.jpg "Repin")
 
-### Categories {#pubtop}
-- [Geospatial Data Science](#data)
-- [Reporting Bias in Event Data](#data)
+### Topics {#pubtop}
 - [Legacies of Violence](#legacies)
 - [Dynamics of Violence](#dynamics)
 - [Causes of Violence](#causes)
 - [International Security](#intl)
 - [Sexual Violence](#sexual)
-
-
----
-## Geospatial Data Science {#data}
-<a href="#pubtop">&#8593; back to top</a>
-
-### Integrating Data Across Misaligned Spatial Units
-<img src="../images/PA.jpg" alt="PA" width="15" height="20"/> Zhukov, Yuri M., Jason S. Byers, Marty Davidson, Ken Kollman. "Integrating Data Across Misaligned Spatial Units." <i>Political Analysis</i> (forthcoming 2023). <a href="https://doi.org/10.1017/pan.2023.5">doi.org/10.1017/pan.2023.5</a>
-<br/>
-[Download offprint](../files/2023_ZBDK_PA.pdf) | [Publisher's version](https://doi.org/10.1017/pan.2023.5) | [Replication code and data](https://doi.org/10.7910/DVN/TOSX7N)
-<br/>
-
-<details>
-  <summary>Abstract</summary>
-  
-  Theoretical units of interest often do not align with the spatial units at which existing data are available. This problem is pervasive in social science, particularly in sub-national empirical research that routinely requires integrating data across incompatible geographic units (e.g. administrative areas, electoral constituencies, postal codes). Overcoming this challenge requires researchers to not only align the scale of empirical and theoretical units, but also to diagnose the costs and consequences of alternative spatial transformation methods. We propose a framework for addressing such change-of-support problems in social science. We investigate the relative performance of 12 spatial transformation methods, including overlays, interpolation, kriging and other model-based approaches, using election data and Monte Carlo simulations. We show that both the accuracy of transformed values and the estimation of regression coefficients depend on the relative scale of source and destination units (i.e. aggregation, disaggregation, hybrid) and their degree of nesting (i.e. whether source units fall completely and neatly inside destination units). We propose simple nonparametric measures of relative scale and nesting, and validation procedures to assess the quality of the transformed geospatial data. Additionally, we introduce new infrastructure and open-source software to elucidate the consequences of these choices, and to make transformation options more accessible, customizable, and intuitive.
-</details>
-
-### xSub: A new portal for cross-national data on sub-national violence
-<img src="../images/jpr.gif" alt="JPR" width="15" height="20"/> Zhukov, Yuri M., Christian Davenport and Nadiya Kostyuk. "xSub: A new portal for cross-national data on sub-national violence." <em>Journal of Peace Research</em> 56, no. 4 (2019): 604-614. <a href="https://doi.org/10.1177/0022343319836697">doi.org/10.1177/0022343319836697</a>
-<br/>
-[Download offprint](../files/2019_ZDK_JPR.pdf) | [Publisher's version](https://doi.org/10.1177/0022343319836697) | [Appendix](../files/Appendix_xSub_DataArticle_20190129_3.pdf) | [Replication code and data](https://www.prio.org/utility/DownloadFile.ashx?id=94&type=replicationfile)
-<br/>
-
-<details>
-  <summary>Abstract</summary>
-  
-  Researchers today have access to an unprecedented amount of geo-referenced, disaggregated data on political conflict. Because these new data sources use disparate event typologies and units of analysis, findings are rarely comparable across studies. As a result, we are unable to answer basic questions like "what does conflict A tell us about conflict B?" This article introduces xSub -- a "database of databases" for disaggregated research on political conflict (<a href="http://www.x-sub.org">www.x-sub.org</a>). xSub reduces barriers to comparative sub-national research, by empowering researchers to quickly construct custom, analysis-ready datasets. xSub currently features sub-national data on conflict in 156 countries, from 21 sources, including large data collections and data from individual scholars. To facilitate comparisons across countries and sources, xSub organizes these data into consistent event categories, actors, spatial units (country, province, district, grid cell, electoral constituency) and time units (year, month, week and day). This article introduces xSub and illustrates its potential, by investigating the impact of repression on dissent across thousands of sub-national datasets.
-</details>
-
-### Choosing Your Neighbors: Networks of Diffusion in International Relations
-<img src="../images/isq.gif" alt="" width="15" height="20"/> Zhukov, Yuri M, and Brandon M Stewart. "Choosing Your Neighbors: Networks of Diffusion in International Relations". <em>International Studies Quarterly</em>, no. 57 (2013): 271-287 <a href="http://dx.doi.org/10.1111/isqu.12008">dx.doi.org/10.1111/isqu.12008</a>
-<br/>
-[Download offprint](../files/2013_ZS_ISQ.pdf) | [Publisher's version](https://doi.org/10.1111/isqu.12008) | [Replication code and data](https://doi.org/10.7910/DVN/GDKLGN)
-<br/>
-
-<details>
-  <summary>Abstract</summary>
-  
-  In examining the diffusion of social and political phenomena like regime transition, conflict, and policy change, scholars routinely make choices about how proximity is defined and which neighbors should be considered more important than others. Since each specification offers an alternative view of the networks through which diffusion can take place, one's decision can exert a significant influence on the magnitude and scope of estimated diffusion effects. This problem is widely recognized, but is rarely the subject of direct analysis. In international relations research, connectivity choices are usually ad hoc, driven more by data availability than by theoretically informed decision criteria. We take a closer look at the assumptions behind these choices, and propose a more systematic method to asses the structural similarity of two or more alternative networks, and select one that most plausibly relates theory to empirics. We apply this method to the spread of democratic regime change, and offer an illustrative example of how neighbor choices might impact predictions and inferences in the case of the 2011 Arab Spring.
-</details>
-
----
-## Reporting Bias in Event Data {#rep}
-<a href="#pubtop">&#8593; back to top</a>
-
-### Filtering revolution: Reporting bias in international newspaper coverage of the Libyan civil war
-<img src="../images/jpr.gif" alt="JPR" width="15" height="20"/> Baum, Matthew A. and Yuri M Zhukov. "Filtering revolution: Reporting bias in international newspaper coverage of the Libyan civil war." <em>Journal of Peace Research</em> 52, no. 3 (2015): 384-400. <a href="http://dx.doi.org/10.1177/0022343314554791">dx.doi.org/10.1177/0022343314554791</a>
-<br/>
-[Download offprint](../files/2015_BZ_JPR.pdf) | [Publisher's version](http://dx.doi.org/10.1177/0022343314554791) | [Appendix](../files/2015_BZ_JPR_appendix.pdf) | [Replication code and data](https://file.prio.no/journals/JPR/2015/52/3/Baum%20&%20Zhukov%202015%20replication.zip)
-<br/>
-
-<details>
-  <summary>Abstract</summary>
-  
-  Reporting bias – the media's tendency to systematically underreport or overreport certain types of events – is a per- sistent problem for participants and observers of armed conflict. We argue that the nature of reporting bias depends on how news organizations navigate the political context in which they are based. Where government pressure on the media is limited – in democratic regimes – the scope of reporting should reflect conventional media preferences toward novel, large-scale, dramatic developments that challenge the conventional wisdom and highlight the unsus- tainability of the status quo. Where political constraints on reporting are more onerous – in non-democratic regimes – the more conservative preferences of the state will drive the scope of coverage, emphasizing the legiti- macy and inevitability of the prevailing order. We test these propositions using new data on protest and political violence during the 2011 Libyan uprising and daily newspaper coverage of the Arab Spring from 113 countries. We uncover evidence of a status-quo media bias in non-democratic states, and a revisionist bias in democratic states. Media coverage in non-democracies underreported protests and nonviolent collective action by regime opponents, largely ignored government atrocities, and overreported those caused by rebels. We find the opposite patterns in democratic states.
-</details>
-
-### Media Ownership and News Coverage of International Conflict
-<img src="../images/UPCP.jpg" alt="" width="15" height="20"/> Baum, Matthew A. and Yuri M. Zhukov. "Media Ownership and News Coverage of International Conflict" <em>Political Communication</em> 31, no. 1 (2019): 36-53.
-<br/>
-[Download offprint](../files/2019_BZ_PC.pdf) | [Publisher's version](https://doi.org/10.1080/10584609.2018.1483606) | [Appendix](../files/2019_BZ_PC_appendix.pdf) | [Replication code and data](https://www.tandfonline.com/doi/suppl/10.1080/10584609.2018.1483606/suppl_file/upcp_a_1483606_sm8852.zip)
-<br/>
-
-<details>
-  <summary>Abstract</summary>
-  
-  How do differences in ownership of media enterprises shape news coverage of international conflict? We examine this relationship using a new dataset of 591,532 articles on US-led multinational military operations in Libya, Iraq, Afghanistan and Kosovo, published by 2,505 newspapers in 116 countries. We find that ownership chains exert a homogenizing effect on the content of newspapers' coverage of foreign policy, resulting in coverage across co-owned papers that is more similar in scope (what they cover), focus (how much "hard" relative to "soft" news they offer), and diversity (the breadth of topics they include in their coverage of a given issue) relative to coverage across papers that are not co-owned. However, we also find that competitive market pressures can mitigate these homogenizing effects, and incentivize co-owned outlets to differentiate their coverage. Restrictions on press freedom have the opposite impact, increasing the similarity of coverage within ownership chains.
-</details>
+- [Geospatial Data Science](#data)
+- [Reporting Bias in Event Data](#data)
 
 ---
 ## Legacies of Violence {#legacies}
@@ -486,4 +417,72 @@ Goldstein, Lyle J, and Yuri M Zhukov. "Superpower Showdown in the Mediterranean 
   <summary>Abstract</summary>
   
   We offer the first quantitative analysis of rape culture in the United States. Observers have long worried that biased news coverage of rape -- which blames victims, empathizes with perpetrators, implies consent, and questions victims' credibility - may deter victims from coming forward, and ultimately increase the incidence of rape. We present a theory of how rape culture might shape the preferences and choices of perpetrators, victims and law enforcement, and test this theory with data on news stories about rape published in U.S. newspapers between 2000 and 2013. We find that rape culture in the media predicts both the frequency of rape and its pursuit through the local criminal justice system. In jurisdictions where rape culture was more prevalent, there were more documented rape cases, but authorities were less vigilant in pursuing them.
+</details>
+
+---
+## Geospatial Data Science {#data}
+<a href="#pubtop">&#8593; back to top</a>
+
+### Integrating Data Across Misaligned Spatial Units
+<img src="../images/PA.jpg" alt="PA" width="15" height="20"/> Zhukov, Yuri M., Jason S. Byers, Marty Davidson, Ken Kollman. "Integrating Data Across Misaligned Spatial Units." <i>Political Analysis</i> (forthcoming 2023). <a href="https://doi.org/10.1017/pan.2023.5">doi.org/10.1017/pan.2023.5</a>
+<br/>
+[Download offprint](../files/2023_ZBDK_PA.pdf) | [Publisher's version](https://doi.org/10.1017/pan.2023.5) | [Replication code and data](https://doi.org/10.7910/DVN/TOSX7N)
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  Theoretical units of interest often do not align with the spatial units at which existing data are available. This problem is pervasive in social science, particularly in sub-national empirical research that routinely requires integrating data across incompatible geographic units (e.g. administrative areas, electoral constituencies, postal codes). Overcoming this challenge requires researchers to not only align the scale of empirical and theoretical units, but also to diagnose the costs and consequences of alternative spatial transformation methods. We propose a framework for addressing such change-of-support problems in social science. We investigate the relative performance of 12 spatial transformation methods, including overlays, interpolation, kriging and other model-based approaches, using election data and Monte Carlo simulations. We show that both the accuracy of transformed values and the estimation of regression coefficients depend on the relative scale of source and destination units (i.e. aggregation, disaggregation, hybrid) and their degree of nesting (i.e. whether source units fall completely and neatly inside destination units). We propose simple nonparametric measures of relative scale and nesting, and validation procedures to assess the quality of the transformed geospatial data. Additionally, we introduce new infrastructure and open-source software to elucidate the consequences of these choices, and to make transformation options more accessible, customizable, and intuitive.
+</details>
+
+### xSub: A new portal for cross-national data on sub-national violence
+<img src="../images/jpr.gif" alt="JPR" width="15" height="20"/> Zhukov, Yuri M., Christian Davenport and Nadiya Kostyuk. "xSub: A new portal for cross-national data on sub-national violence." <em>Journal of Peace Research</em> 56, no. 4 (2019): 604-614. <a href="https://doi.org/10.1177/0022343319836697">doi.org/10.1177/0022343319836697</a>
+<br/>
+[Download offprint](../files/2019_ZDK_JPR.pdf) | [Publisher's version](https://doi.org/10.1177/0022343319836697) | [Appendix](../files/Appendix_xSub_DataArticle_20190129_3.pdf) | [Replication code and data](https://www.prio.org/utility/DownloadFile.ashx?id=94&type=replicationfile)
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  Researchers today have access to an unprecedented amount of geo-referenced, disaggregated data on political conflict. Because these new data sources use disparate event typologies and units of analysis, findings are rarely comparable across studies. As a result, we are unable to answer basic questions like "what does conflict A tell us about conflict B?" This article introduces xSub -- a "database of databases" for disaggregated research on political conflict (<a href="http://www.x-sub.org">www.x-sub.org</a>). xSub reduces barriers to comparative sub-national research, by empowering researchers to quickly construct custom, analysis-ready datasets. xSub currently features sub-national data on conflict in 156 countries, from 21 sources, including large data collections and data from individual scholars. To facilitate comparisons across countries and sources, xSub organizes these data into consistent event categories, actors, spatial units (country, province, district, grid cell, electoral constituency) and time units (year, month, week and day). This article introduces xSub and illustrates its potential, by investigating the impact of repression on dissent across thousands of sub-national datasets.
+</details>
+
+### Choosing Your Neighbors: Networks of Diffusion in International Relations
+<img src="../images/isq.gif" alt="" width="15" height="20"/> Zhukov, Yuri M, and Brandon M Stewart. "Choosing Your Neighbors: Networks of Diffusion in International Relations". <em>International Studies Quarterly</em>, no. 57 (2013): 271-287 <a href="http://dx.doi.org/10.1111/isqu.12008">dx.doi.org/10.1111/isqu.12008</a>
+<br/>
+[Download offprint](../files/2013_ZS_ISQ.pdf) | [Publisher's version](https://doi.org/10.1111/isqu.12008) | [Replication code and data](https://doi.org/10.7910/DVN/GDKLGN)
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  In examining the diffusion of social and political phenomena like regime transition, conflict, and policy change, scholars routinely make choices about how proximity is defined and which neighbors should be considered more important than others. Since each specification offers an alternative view of the networks through which diffusion can take place, one's decision can exert a significant influence on the magnitude and scope of estimated diffusion effects. This problem is widely recognized, but is rarely the subject of direct analysis. In international relations research, connectivity choices are usually ad hoc, driven more by data availability than by theoretically informed decision criteria. We take a closer look at the assumptions behind these choices, and propose a more systematic method to asses the structural similarity of two or more alternative networks, and select one that most plausibly relates theory to empirics. We apply this method to the spread of democratic regime change, and offer an illustrative example of how neighbor choices might impact predictions and inferences in the case of the 2011 Arab Spring.
+</details>
+
+---
+## Reporting Bias in Event Data {#rep}
+<a href="#pubtop">&#8593; back to top</a>
+
+### Media Ownership and News Coverage of International Conflict
+<img src="../images/UPCP.jpg" alt="" width="15" height="20"/> Baum, Matthew A. and Yuri M. Zhukov. "Media Ownership and News Coverage of International Conflict" <em>Political Communication</em> 31, no. 1 (2019): 36-53.
+<br/>
+[Download offprint](../files/2019_BZ_PC.pdf) | [Publisher's version](https://doi.org/10.1080/10584609.2018.1483606) | [Appendix](../files/2019_BZ_PC_appendix.pdf) | [Replication code and data](https://www.tandfonline.com/doi/suppl/10.1080/10584609.2018.1483606/suppl_file/upcp_a_1483606_sm8852.zip)
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  How do differences in ownership of media enterprises shape news coverage of international conflict? We examine this relationship using a new dataset of 591,532 articles on US-led multinational military operations in Libya, Iraq, Afghanistan and Kosovo, published by 2,505 newspapers in 116 countries. We find that ownership chains exert a homogenizing effect on the content of newspapers' coverage of foreign policy, resulting in coverage across co-owned papers that is more similar in scope (what they cover), focus (how much "hard" relative to "soft" news they offer), and diversity (the breadth of topics they include in their coverage of a given issue) relative to coverage across papers that are not co-owned. However, we also find that competitive market pressures can mitigate these homogenizing effects, and incentivize co-owned outlets to differentiate their coverage. Restrictions on press freedom have the opposite impact, increasing the similarity of coverage within ownership chains.
+</details>
+
+### Filtering revolution: Reporting bias in international newspaper coverage of the Libyan civil war
+<img src="../images/jpr.gif" alt="JPR" width="15" height="20"/> Baum, Matthew A. and Yuri M Zhukov. "Filtering revolution: Reporting bias in international newspaper coverage of the Libyan civil war." <em>Journal of Peace Research</em> 52, no. 3 (2015): 384-400. <a href="http://dx.doi.org/10.1177/0022343314554791">dx.doi.org/10.1177/0022343314554791</a>
+<br/>
+[Download offprint](../files/2015_BZ_JPR.pdf) | [Publisher's version](http://dx.doi.org/10.1177/0022343314554791) | [Appendix](../files/2015_BZ_JPR_appendix.pdf) | [Replication code and data](https://file.prio.no/journals/JPR/2015/52/3/Baum%20&%20Zhukov%202015%20replication.zip)
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  Reporting bias – the media's tendency to systematically underreport or overreport certain types of events – is a per- sistent problem for participants and observers of armed conflict. We argue that the nature of reporting bias depends on how news organizations navigate the political context in which they are based. Where government pressure on the media is limited – in democratic regimes – the scope of reporting should reflect conventional media preferences toward novel, large-scale, dramatic developments that challenge the conventional wisdom and highlight the unsus- tainability of the status quo. Where political constraints on reporting are more onerous – in non-democratic regimes – the more conservative preferences of the state will drive the scope of coverage, emphasizing the legiti- macy and inevitability of the prevailing order. We test these propositions using new data on protest and political violence during the 2011 Libyan uprising and daily newspaper coverage of the Arab Spring from 113 countries. We uncover evidence of a status-quo media bias in non-democratic states, and a revisionist bias in democratic states. Media coverage in non-democracies underreported protests and nonviolent collective action by regime opponents, largely ignored government atrocities, and overreported those caused by rebels. We find the opposite patterns in democratic states.
 </details>
