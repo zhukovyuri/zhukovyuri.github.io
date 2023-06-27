@@ -18,7 +18,8 @@ author_profile: true
 ![Banner](../images/repin_cossacks_crop.jpg "Repin")
 
 ### Categories {#pubtop}
-- [Data and Methods](#data)
+- [Geospatial Data Science](#data)
+- [Reporting Bias in Event Data](#data)
 - [Legacies of Violence](#legacies)
 - [Dynamics of Violence](#dynamics)
 - [Causes of Violence](#causes)
@@ -27,7 +28,7 @@ author_profile: true
 
 
 ---
-## Data and Methods {#data}
+## Geospatial Data Science {#data}
 <a href="#pubtop">&#8593; back to top</a>
 
 ### Integrating Data Across Misaligned Spatial Units
@@ -42,18 +43,6 @@ author_profile: true
   Theoretical units of interest often do not align with the spatial units at which existing data are available. This problem is pervasive in social science, particularly in sub-national empirical research that routinely requires integrating data across incompatible geographic units (e.g. administrative areas, electoral constituencies, postal codes). Overcoming this challenge requires researchers to not only align the scale of empirical and theoretical units, but also to diagnose the costs and consequences of alternative spatial transformation methods. We propose a framework for addressing such change-of-support problems in social science. We investigate the relative performance of 12 spatial transformation methods, including overlays, interpolation, kriging and other model-based approaches, using election data and Monte Carlo simulations. We show that both the accuracy of transformed values and the estimation of regression coefficients depend on the relative scale of source and destination units (i.e. aggregation, disaggregation, hybrid) and their degree of nesting (i.e. whether source units fall completely and neatly inside destination units). We propose simple nonparametric measures of relative scale and nesting, and validation procedures to assess the quality of the transformed geospatial data. Additionally, we introduce new infrastructure and open-source software to elucidate the consequences of these choices, and to make transformation options more accessible, customizable, and intuitive.
 </details>
 
-### Near-Real Time Analysis of War and Economic Activity during Russia's Invasion of Ukraine
-<img src="../images/JCE.gif" alt="" width="15" height="20"/> Zhukov, Yuri M. "Near-Real Time Analysis of War and Economic Activity during Russia’s Invasion of Ukraine." <i>Journal of Comparative Economics</i> (forthcoming 2023). <a href="https://doi.org/10.1016/j.jce.2023.06.003">doi.org/10.1016/j.jce.2023.06.003</a>
-<br/>
-[Download offprint](../files/2023_Zhukov_JCE.pdf) | [Publisher's version](https://doi.org/10.1016/j.jce.2023.06.003) | [Appendix](../files/2023_Zhukov_JCE_appendix.pdf) | [Replication code and data]()
-<br/>
-
-<details>
-  <summary>Abstract</summary>
-  
-  This paper introduces new near-real time data on Russia’s full-scale invasion of Ukraine, and uses these data to investigate the short-term impact of occupation and violence on local economic activity. The data project -- VIINA (Violent Incident Information from News Articles) -- scrapes and parses news reports from Ukrainian and Russian media, georeferences them, and classifies them into standard event categories (e.g. air raid alert, artillery shelling) through machine learning. We show that VIINA has more comprehensive geographic coverage and more thorough documentation than any other open-source time event tracking system on Ukraine, and is the only such effort that includes information on territorial control. To illustrate potential applications of these data for research on political economy, we utilize remote sensing data on luminosity and vegetation as proxies for urban economic activity and agricultural land use. We find that economic activity declined most in urban areas that neither side fully controlled, and in places where artillery shelling was more intense. Contested territories also experienced a significant short-term decline in vegetation. Areas under Russian occupation, however, remained largely insulated from these negative shocks.
-</details>
-
 ### xSub: A new portal for cross-national data on sub-national violence
 <img src="../images/jpr.gif" alt="JPR" width="15" height="20"/> Zhukov, Yuri M., Christian Davenport and Nadiya Kostyuk. "xSub: A new portal for cross-national data on sub-national violence." <em>Journal of Peace Research</em> 56, no. 4 (2019): 604-614. <a href="https://doi.org/10.1177/0022343319836697">doi.org/10.1177/0022343319836697</a>
 <br/>
@@ -64,6 +53,46 @@ author_profile: true
   <summary>Abstract</summary>
   
   Researchers today have access to an unprecedented amount of geo-referenced, disaggregated data on political conflict. Because these new data sources use disparate event typologies and units of analysis, findings are rarely comparable across studies. As a result, we are unable to answer basic questions like "what does conflict A tell us about conflict B?" This article introduces xSub -- a "database of databases" for disaggregated research on political conflict (<a href="http://www.x-sub.org">www.x-sub.org</a>). xSub reduces barriers to comparative sub-national research, by empowering researchers to quickly construct custom, analysis-ready datasets. xSub currently features sub-national data on conflict in 156 countries, from 21 sources, including large data collections and data from individual scholars. To facilitate comparisons across countries and sources, xSub organizes these data into consistent event categories, actors, spatial units (country, province, district, grid cell, electoral constituency) and time units (year, month, week and day). This article introduces xSub and illustrates its potential, by investigating the impact of repression on dissent across thousands of sub-national datasets.
+</details>
+
+### Choosing Your Neighbors: Networks of Diffusion in International Relations
+<img src="../images/isq.gif" alt="" width="15" height="20"/> Zhukov, Yuri M, and Brandon M Stewart. "Choosing Your Neighbors: Networks of Diffusion in International Relations". <em>International Studies Quarterly</em>, no. 57 (2013): 271-287 <a href="http://dx.doi.org/10.1111/isqu.12008">dx.doi.org/10.1111/isqu.12008</a>
+<br/>
+[Download offprint](../files/2013_ZS_ISQ.pdf) | [Publisher's version](https://doi.org/10.1111/isqu.12008) | [Replication code and data](https://doi.org/10.7910/DVN/GDKLGN)
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  In examining the diffusion of social and political phenomena like regime transition, conflict, and policy change, scholars routinely make choices about how proximity is defined and which neighbors should be considered more important than others. Since each specification offers an alternative view of the networks through which diffusion can take place, one's decision can exert a significant influence on the magnitude and scope of estimated diffusion effects. This problem is widely recognized, but is rarely the subject of direct analysis. In international relations research, connectivity choices are usually ad hoc, driven more by data availability than by theoretically informed decision criteria. We take a closer look at the assumptions behind these choices, and propose a more systematic method to asses the structural similarity of two or more alternative networks, and select one that most plausibly relates theory to empirics. We apply this method to the spread of democratic regime change, and offer an illustrative example of how neighbor choices might impact predictions and inferences in the case of the 2011 Arab Spring.
+</details>
+
+---
+## Reporting Bias in Event Data {#rep}
+<a href="#pubtop">&#8593; back to top</a>
+
+### Filtering revolution: Reporting bias in international newspaper coverage of the Libyan civil war
+<img src="../images/jpr.gif" alt="JPR" width="15" height="20"/> Baum, Matthew A. and Yuri M Zhukov. "Filtering revolution: Reporting bias in international newspaper coverage of the Libyan civil war." <em>Journal of Peace Research</em> 52, no. 3 (2015): 384-400. <a href="http://dx.doi.org/10.1177/0022343314554791">dx.doi.org/10.1177/0022343314554791</a>
+<br/>
+[Download offprint](../files/2015_BZ_JPR.pdf) | [Publisher's version](http://dx.doi.org/10.1177/0022343314554791) | [Appendix](../files/2015_BZ_JPR_appendix.pdf) | [Replication code and data](https://file.prio.no/journals/JPR/2015/52/3/Baum%20&%20Zhukov%202015%20replication.zip)
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  Reporting bias – the media's tendency to systematically underreport or overreport certain types of events – is a per- sistent problem for participants and observers of armed conflict. We argue that the nature of reporting bias depends on how news organizations navigate the political context in which they are based. Where government pressure on the media is limited – in democratic regimes – the scope of reporting should reflect conventional media preferences toward novel, large-scale, dramatic developments that challenge the conventional wisdom and highlight the unsus- tainability of the status quo. Where political constraints on reporting are more onerous – in non-democratic regimes – the more conservative preferences of the state will drive the scope of coverage, emphasizing the legiti- macy and inevitability of the prevailing order. We test these propositions using new data on protest and political violence during the 2011 Libyan uprising and daily newspaper coverage of the Arab Spring from 113 countries. We uncover evidence of a status-quo media bias in non-democratic states, and a revisionist bias in democratic states. Media coverage in non-democracies underreported protests and nonviolent collective action by regime opponents, largely ignored government atrocities, and overreported those caused by rebels. We find the opposite patterns in democratic states.
+</details>
+
+### Media Ownership and News Coverage of International Conflict
+<img src="../images/UPCP.jpg" alt="" width="15" height="20"/> Baum, Matthew A. and Yuri M. Zhukov. "Media Ownership and News Coverage of International Conflict" <em>Political Communication</em> 31, no. 1 (2019): 36-53.
+<br/>
+[Download offprint](../files/2019_BZ_PC.pdf) | [Publisher's version](https://doi.org/10.1080/10584609.2018.1483606) | [Appendix](../files/2019_BZ_PC_appendix.pdf) | [Replication code and data](https://www.tandfonline.com/doi/suppl/10.1080/10584609.2018.1483606/suppl_file/upcp_a_1483606_sm8852.zip)
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  How do differences in ownership of media enterprises shape news coverage of international conflict? We examine this relationship using a new dataset of 591,532 articles on US-led multinational military operations in Libya, Iraq, Afghanistan and Kosovo, published by 2,505 newspapers in 116 countries. We find that ownership chains exert a homogenizing effect on the content of newspapers' coverage of foreign policy, resulting in coverage across co-owned papers that is more similar in scope (what they cover), focus (how much "hard" relative to "soft" news they offer), and diversity (the breadth of topics they include in their coverage of a given issue) relative to coverage across papers that are not co-owned. However, we also find that competitive market pressures can mitigate these homogenizing effects, and incentivize co-owned outlets to differentiate their coverage. Restrictions on press freedom have the opposite impact, increasing the similarity of coverage within ownership chains.
 </details>
 
 ---
@@ -133,6 +162,18 @@ author_profile: true
 ---
 ## Dynamics of Violence {#dynamics}
 <a href="#pubtop">&#8593; back to top</a>
+
+### Near-Real Time Analysis of War and Economic Activity during Russia's Invasion of Ukraine
+<img src="../images/JCE.gif" alt="" width="15" height="20"/> Zhukov, Yuri M. "Near-Real Time Analysis of War and Economic Activity during Russia’s Invasion of Ukraine." <i>Journal of Comparative Economics</i> (forthcoming 2023). <a href="https://doi.org/10.1016/j.jce.2023.06.003">doi.org/10.1016/j.jce.2023.06.003</a>
+<br/>
+[Download offprint](../files/2023_Zhukov_JCE.pdf) | [Publisher's version](https://doi.org/10.1016/j.jce.2023.06.003) | [Appendix](../files/2023_Zhukov_JCE_appendix.pdf) | [Replication code and data]()
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  This paper introduces new near-real time data on Russia's full-scale invasion of Ukraine, and uses these data to investigate the short-term impact of occupation and violence on local economic activity. The data project -- VIINA (Violent Incident Information from News Articles) -- scrapes and parses news reports from Ukrainian and Russian media, georeferences them, and classifies them into standard event categories (e.g. air raid alert, artillery shelling) through machine learning. We show that VIINA has more comprehensive geographic coverage and more thorough documentation than any other open-source time event tracking system on Ukraine, and is the only such effort that includes information on territorial control. To illustrate potential applications of these data for research on political economy, we utilize remote sensing data on luminosity and vegetation as proxies for urban economic activity and agricultural land use. We find that economic activity declined most in urban areas that neither side fully controlled, and in places where artillery shelling was more intense. Contested territories also experienced a significant short-term decline in vegetation. Areas under Russian occupation, however, remained largely insulated from these negative shocks.
+</details>
 
 ### Repression Works (just not in moderation)
 <img src="../images/CPS.jpg" alt="CPS" width="15" height="20"/> Zhukov, Yuri M. "Repression Works (just not in moderation)." <em>Comparative Political Studies</em> (forthcoming 2023). <a href="https://doi.org/10.1177/00104140231152778">doi.org/10.1177/00104140231152778</a>
@@ -204,18 +245,6 @@ author_profile: true
   <summary>Abstract</summary>
   
   Why do combatants intentionally uproot civilians? The forcible relocation of families and communities to concentration camps, "protected villages" and other special settlements is a regular feature of irregular war, occurring in almost a third of all counterinsurgency campaigns since 1816. Despite the historical regularity of these practices, most research has focused on individual decisions to flee, rather than the brute-force resettlement of civilians by combatants. Using a dynamic model of popular support and new micro-level data from Soviet secret police archives, I show that civilian resettlement is not simply a by-product of war, but is a rational response to informational asymmetry. Combatants who cannot identify and selectively punish their opponents face incentives to control the population rather than earn its support. For strong governments with limited coercive leverage, civilian resettlement offers a way to reduce rebel activity without having to win hearts and minds.
-</details>
-
-### Filtering revolution: Reporting bias in international newspaper coverage of the Libyan civil war
-<img src="../images/jpr.gif" alt="JPR" width="15" height="20"/> Baum, Matthew A. and Yuri M Zhukov. "Filtering revolution: Reporting bias in international newspaper coverage of the Libyan civil war." <em>Journal of Peace Research</em> 52, no. 3 (2015): 384-400. <a href="http://dx.doi.org/10.1177/0022343314554791">dx.doi.org/10.1177/0022343314554791</a>
-<br/>
-[Download offprint](../files/2015_BZ_JPR.pdf) | [Publisher's version](http://dx.doi.org/10.1177/0022343314554791) | [Appendix](../files/2015_BZ_JPR_appendix.pdf) | [Replication code and data](https://file.prio.no/journals/JPR/2015/52/3/Baum%20&%20Zhukov%202015%20replication.zip)
-<br/>
-
-<details>
-  <summary>Abstract</summary>
-  
-  Reporting bias – the media's tendency to systematically underreport or overreport certain types of events – is a per- sistent problem for participants and observers of armed conflict. We argue that the nature of reporting bias depends on how news organizations navigate the political context in which they are based. Where government pressure on the media is limited – in democratic regimes – the scope of reporting should reflect conventional media preferences toward novel, large-scale, dramatic developments that challenge the conventional wisdom and highlight the unsus- tainability of the status quo. Where political constraints on reporting are more onerous – in non-democratic regimes – the more conservative preferences of the state will drive the scope of coverage, emphasizing the legiti- macy and inevitability of the prevailing order. We test these propositions using new data on protest and political violence during the 2011 Libyan uprising and daily newspaper coverage of the Arab Spring from 113 countries. We uncover evidence of a status-quo media bias in non-democratic states, and a revisionist bias in democratic states. Media coverage in non-democracies underreported protests and nonviolent collective action by regime opponents, largely ignored government atrocities, and overreported those caused by rebels. We find the opposite patterns in democratic states.
 </details>
 
 ### Theory of Indiscriminate Violence.
@@ -328,18 +357,6 @@ author_profile: true
   Why do armies sometimes surrender to the enemy and sometimes fight to the bitter end? Existing research has highlighted the importance of battlefield resolve for the onset, conduct and outcome of war, but has left these life-and-death decisions mostly unexplained. We know little about why battle-level surrender occurs, and why it stops. In this paper, we argue that surrender emerges from a collective action problem: success in battle requires that soldiers choose to fight as a unit rather than flee, but individual decisions to fight depend on whether soldiers expect their comrades to do the same. As a result, surrender becomes contagious across battles, as soldiers take cues from what other soldiers had done when they were in a similar position. Where no recent precedent exists, mass surrender is unlikely. We find empirical support for this claim using a new dataset of conventional battles in all interstate wars from 1939 to 2011. These findings advance our understanding of battlefield resolve, with broader implications for the design of political-military institutions and decisions to initiate, continue, and terminate war.
 </details>
 
-### Media Ownership and News Coverage of International Conflict
-<img src="../images/UPCP.jpg" alt="" width="15" height="20"/> Baum, Matthew A. and Yuri M. Zhukov. "Media Ownership and News Coverage of International Conflict" <em>Political Communication</em> 31, no. 1 (2019): 36-53.
-<br/>
-[Download offprint](../files/2019_BZ_PC.pdf) | [Publisher's version](https://doi.org/10.1080/10584609.2018.1483606) | [Appendix](../files/2019_BZ_PC_appendix.pdf) | [Replication code and data](https://www.tandfonline.com/doi/suppl/10.1080/10584609.2018.1483606/suppl_file/upcp_a_1483606_sm8852.zip)
-<br/>
-
-<details>
-  <summary>Abstract</summary>
-  
-  How do differences in ownership of media enterprises shape news coverage of international conflict? We examine this relationship using a new dataset of 591,532 articles on US-led multinational military operations in Libya, Iraq, Afghanistan and Kosovo, published by 2,505 newspapers in 116 countries. We find that ownership chains exert a homogenizing effect on the content of newspapers' coverage of foreign policy, resulting in coverage across co-owned papers that is more similar in scope (what they cover), focus (how much "hard" relative to "soft" news they offer), and diversity (the breadth of topics they include in their coverage of a given issue) relative to coverage across papers that are not co-owned. However, we also find that competitive market pressures can mitigate these homogenizing effects, and incentivize co-owned outlets to differentiate their coverage. Restrictions on press freedom have the opposite impact, increasing the similarity of coverage within ownership chains.
-</details>
-
 ### Invisible Digital Front: Can Cyber Attacks Shape Battlefield Events?
 <img src="../images/jcr.gif" alt="" width="15" height="20"/> Kostyuk, Nadiya and Yuri M. Zhukov. "Invisible Digital Front: Can Cyber Attacks Shape Battlefield Events?" <em>Journal of Conflict Resolution</em> 63, no. 2 (2019): 317-347. <a href="https://doi.org/10.1177/0022002717737138">doi.org/10.1177/0022002717737138</a>
 <br/>
@@ -374,18 +391,6 @@ author_profile: true
   <summary>Abstract</summary>
   
   On August 30, the Italian state-controlled energy company Eni announced the discovery of a "supergiant" gas field off the coast of Egypt. According to initial assessments, the Zohr field contains 30 trillion cubic feet (Tcf) of natural gas (equivalent to 5.5 billion barrels of oil), making it the largest ever discovery of gas in the Mediterranean. This is welcome news for Egypt's struggling economy and fragile political situation. It also creates new challenges and opportunities for the country's neighbors and for outside powers such as Vladimir Putin's Russia. Additionally, it provides powerful economic incentives for Cypriot reunification. As the United States takes stock of what Egypt's good fortune means for the region, it should find much cause for celebration.
-</details>
-
-### Choosing Your Neighbors: Networks of Diffusion in International Relations
-<img src="../images/isq.gif" alt="" width="15" height="20"/> Zhukov, Yuri M, and Brandon M Stewart. "Choosing Your Neighbors: Networks of Diffusion in International Relations". <em>International Studies Quarterly</em>, no. 57 (2013): 271-287 <a href="http://dx.doi.org/10.1111/isqu.12008">dx.doi.org/10.1111/isqu.12008</a>
-<br/>
-[Download offprint](../files/2013_ZS_ISQ.pdf) | [Publisher's version](https://doi.org/10.1111/isqu.12008) | [Replication code and data](https://doi.org/10.7910/DVN/GDKLGN)
-<br/>
-
-<details>
-  <summary>Abstract</summary>
-  
-  In examining the diffusion of social and political phenomena like regime transition, conflict, and policy change, scholars routinely make choices about how proximity is defined and which neighbors should be considered more important than others. Since each specification offers an alternative view of the networks through which diffusion can take place, one's decision can exert a significant influence on the magnitude and scope of estimated diffusion effects. This problem is widely recognized, but is rarely the subject of direct analysis. In international relations research, connectivity choices are usually ad hoc, driven more by data availability than by theoretically informed decision criteria. We take a closer look at the assumptions behind these choices, and propose a more systematic method to asses the structural similarity of two or more alternative networks, and select one that most plausibly relates theory to empirics. We apply this method to the spread of democratic regime change, and offer an illustrative example of how neighbor choices might impact predictions and inferences in the case of the 2011 Arab Spring.
 </details>
 
 ### More Trouble in the Eastern Mediterranean: U.S. Intervention or Not, the Sea is Already Boiling
