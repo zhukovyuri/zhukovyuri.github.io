@@ -120,10 +120,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  links:
-    - label: "CV"
-      icon: "user-tie"
-      url: "../files/ZhukovYuri_CV.pdf"
+  # links:
+  #   - label: "CV"
+  #     icon: "user-tie"
+  #     url: "../files/ZhukovYuri_CV.pdf"
 
 # Reading Files
 include:
