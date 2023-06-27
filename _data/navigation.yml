@@ -15,11 +15,11 @@ main:
   - title: "Data Infrastructure"
     url: /data_infrastructure/
 
+  - title: "Teaching"
+    url: /teaching/  
+
   # - title: "Talks"
   #   url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
             
   # - title: "Blog Posts"
   #   url: /year-archive/
