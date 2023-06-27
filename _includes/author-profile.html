@@ -20,10 +20,13 @@
   </div>
 
   <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Links</button>
+    <button class="btn btn--inverse">Menu</button>
     <ul class="author__urls social-icons">
       {% if author.cv %}
         <li><a href="{{ author.cv }}"><i class="fas fa-user-tie" aria-hidden="true"></i> CV</a></li>
+      {% endif %}
+      {% if author.pubs %}
+        <li><a href="{{ author.pubs }}"><i class="fas fa-typewriter" aria-hidden="true"></i> Publications</a></li>
       {% endif %}
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
