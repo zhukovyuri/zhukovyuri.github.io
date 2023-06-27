@@ -8,6 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VSM97RVTRT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VSM97RVTRT');
+</script>
+
 ![Banner](../images/repin_cossacks_crop.jpg "Repin")
 
 I am an Associate Professor of Political Science at the University of Michigan, Ann Arbor, and a Research Associate Professor with the Center for Political Studies at the Institute for Social Research. During the 2023-2024 academic year, I will be a Visiting Associate Professor at the Harvard Kennedy School. 
