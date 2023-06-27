@@ -38,6 +38,6 @@ GitHub page: <a href="https://github.com/zhukovyuri/VIINA">github.com/zhukovyuri
 
 Zhukov, Yuri M., Davenport, Christian and Nadiya Kostyuk, xSub: Cross-National Data on Sub-National Violence (Ann Arbor: University of Michigan, Center for Political Studies, 2022). 
 <br/>
-Website: <a href="http://cross-sub.org">x-sub.org</a>
+Website (official): <a href="http://cross-sub.org">x-sub.org</a> | Website (Shiny backup): <a href="https://yz-data.shinyapps.io/xsub/">yz-data.shinyapps.io/xsub</a>
 <br/>
 
