@@ -2,19 +2,14 @@
 main:
   - title: "CV"
     url: /cv/
-
   - title: "Publications"
     url: /publications/
-
   - title: "Ongoing Research"
     url: /research/
-
   - title: "Software"
     url: /software/
-
   - title: "Data Infrastructure"
     url: /data_infrastructure/
-
   - title: "Teaching"
     url: /teaching/  
 

@@ -20,7 +20,8 @@ words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
-layout                   : splash
+layout                   : single
+toc                      : true
 header:
   image                  : /assets/images/repin_cossacks_crop.jpg
 comments:
@@ -200,7 +201,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: true
       comments: true
@@ -211,14 +212,14 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: splash
+      layout: single
       author_profile: true
   # _teaching
   - scope:
       path: ""
       type: teaching
     values:
-      layout: splash
+      layout: single
       author_profile: true
       share: true
       comments: true
@@ -236,7 +237,7 @@ defaults:
       path: ""
       type: portfolio
     values:
-      layout: splash
+      layout: single
       author_profile: true
       share: true
       comment: true
@@ -245,7 +246,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: splash
+      layout: single
       author_profile: true
       share: true
 
