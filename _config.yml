@@ -92,7 +92,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.com/citations?user=3uyK7_sAAAAJ"
   email            :
-  cv               : "<a href='../files/ZhukovYuri_CV.pdf'>CV<\a>"
+  cv               : "../files/ZhukovYuri_CV.pdf"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
