@@ -161,7 +161,7 @@ author_profile: true
 ### Taking Away the Guns: Forcible Disarmament and Rebellion
 <img src="../images/jpr.gif" alt="JPR" width="15" height="20"/> Zhukov, Yuri M. "Taking Away the Guns: Forcible Disarmament and Rebellion". <em>Journal of Peace Research</em>, 53, no. 2 (2016): 242-258. <a href="https://doi.org/10.1177/0022343315626241">doi.org/10.1177/0022343315626241</a>
 <br/>
-[Download offprint](../files/2016_Zhukov_JPR.pdf) | [Publisher's version]() | [Appendix](../files/2016_Zhukov_JPR_appendix.pdf) | [Replication code and data](http://file.prio.no/Journals/JPR/2016/53/2/Yuri%20M%20Zhukov.zip)
+[Download offprint](../files/2016_Zhukov_JPR.pdf) | [Publisher's version](https://doi.org/10.1177/0022343315626241) | [Appendix](../files/2016_Zhukov_JPR_appendix.pdf) | [Replication code and data](https://files.prio.org/Journals/JPR/2016/53/2/Yuri%20M%20Zhukov.zip)
 <br/>
 
 <details>
