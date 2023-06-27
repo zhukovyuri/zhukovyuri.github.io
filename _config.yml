@@ -94,6 +94,10 @@ author:
   email            :
   cv               : "../files/ZhukovYuri_CV.pdf"
   pubs             : "/publications/"
+  soft             : "/software/"
+  data             : "/data_infrastructure/"
+  teach            : "/teaching/"
+  research         : "/research/"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

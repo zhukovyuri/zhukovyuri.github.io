@@ -26,7 +26,19 @@
         <li><a href="{{ author.cv }}"><i class="fas fa-user-tie" aria-hidden="true"></i> CV</a></li>
       {% endif %}
       {% if author.pubs %}
-        <li><a href="{{ author.pubs }}"><i class="fas fa-typewriter" aria-hidden="true"></i> Publications</a></li>
+        <li><a href="{{ author.pubs }}"><i class="fas fa-book" aria-hidden="true"></i> Publications</a></li>
+      {% endif %}
+      {% if author.research %}
+        <li><a href="{{ author.research }}"><i class="fas fa-snowplow" aria-hidden="true"></i> Ongoing Research</a></li>
+      {% endif %}
+      {% if author.soft %}
+        <li><a href="{{ author.soft }}"><i class="far fa-file-code" aria-hidden="true"></i> Software</a></li>
+      {% endif %}
+      {% if author.data %}
+        <li><a href="{{ author.data }}"><i class="fas fa-chart-bar" aria-hidden="true"></i> Data Infrastructure</a></li>
+      {% endif %}
+      {% if author.teach %}
+        <li><a href="{{ author.teach }}"><i class="fas fa-chalkboard-teacher" aria-hidden="true"></i> Teaching</a></li>
       {% endif %}
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
