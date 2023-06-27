@@ -3,6 +3,7 @@ layout: archive
 title: "Data Infrastructure"
 permalink: /data_infrastructure/
 author_profile: true
+redirect_from: 
   - /data_infrastructure.html
 ---
 
@@ -10,7 +11,7 @@ author_profile: true
 ## SUNGEO: Sub-National Geospatial Data Archive
 Kollman, Ken and Yuri M. Zhukov. SUNGEO: Sub-National Geospatial Data Archive (Ann Arbor: University of Michigan, Center for Political Studies, 2023).
 <br/>
-Beta version: <a href="https://beta.sungeo.org">(usr="beta", pwd="beta")</a>
+Beta version: <a href="https://beta.sungeo.org">beta.sungeo.org</a> (usr="beta", pwd="beta")
 <br/>
 
 ---
