@@ -30,8 +30,8 @@ author_profile: true
 ## Legacies of Violence {#legacies}
 <a href="#pubtop">&#8593; back to top</a>
 
-### Fighting for Tyranny: How State Repression Shapes Military Performance
-<img src="../images/aej.jpg" alt="WP" width="15" height="20"/> Rozenas, Arturas, Talibova, Roya and Yuri M. Zhukov. "Fighting for Tyranny: State Repression and Combat Motivation}." <em>American Economic Journal: Applied Economics</em> (forthcoming). 
+### Fighting for Tyranny: State Repression and Combat Motivation
+<img src="../images/aej.jpg" alt="WP" width="15" height="20"/> Rozenas, Arturas, Talibova, Roya and Yuri M. Zhukov. "Fighting for Tyranny: State Repression and Combat Motivation." <em>American Economic Journal: Applied Economics</em> (forthcoming). 
 <br/>
 [Download preprint](../files/2023_RTZ.pdf) | [Appendix](../files/2023_RTZ_appendix.pdf)
 <br/>

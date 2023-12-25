@@ -45,18 +45,6 @@ National Science Foundation RIDIR Grant (SES-1925693).
 ## Working Papers {#working}
 <a href="#restop">&#8593; back to top</a>
 
-### Are Competitive Elections Good for Your Health? Evidence from the 1918 Flu and Covid-19
-Walden, Jacob, and Yuri M. Zhukov. "Are Competitive Elections Good for Your Health? Evidence from the 1918 Flu and Covid-19." Working paper, 2021.
-<br/>
-[Download PDF](../files/2021_WZ.pdf)
-<br/>
-
-<details>
-  <summary>Abstract</summary>
-  
-  Do more electorally vulnerable government officials respond to public health emergencies more aggressively than officials in less competitive seats? Using novel data on local government responses to the 1918 influenza A (H1N1) "Spanish Flu" and 2020 Covid-19 pandemics in the United States, we study how the competitiveness of federal, state and local elections shapes the policy choices of incumbents. We find that, in 1918, vulnerable incumbents enacted more and longer nonpharmaceutical interventions (e.g. quarantines, closures), enforcing them more aggressively than in less-competitive jurisdictions. Their constituents subsequently experienced fewer influenza-related deaths and lower overall excess mortality. In 2020, more competitive constituencies similarly experienced lower rates of Covid-19 infection and death, but they implemented fewer nonpharmaceutical interventions and relied more on pharmaceutical measures. This policy substitution was feasible in part due to political geography: more competitive localities became more suburban, and more conducive to social distancing in the absence of government mandates.
-</details>
-
 ### Fratricidal Coercion in Modern War
 Lyall, Jason, and Yuri M. Zhukov. "Fratricidal Coercion in Modern War." Working paper, 2023.
 <br/>
@@ -67,6 +55,18 @@ Lyall, Jason, and Yuri M. Zhukov. "Fratricidal Coercion in Modern War." Working 
   <summary>Abstract</summary>
   
   Armies as diverse as the Red Army, Syrian Arab Army, and the Islamic State have turned their weapons against their own soldiers to force them to fight. There is little systematic evidence on how this fratricidal coercion affects battlefield performance.  We argue that such practices generate compliance through fear, compelling soldiers with variable levels of resolve to conform to a uniform standard of battlefield behavior. First, coercion keeps some reluctant soldiers on the battlefield.  This reduces rates of desertion, disappearances, and premature surrender, but increases deaths and injuries, as these reluctant warriors now find themselves in harm's way.  Second, fratricidal coercion lowers the resolve of more committed soldiers, leading to lost battlefield initiative, and fewer acts of bravery.  We test our claims using a mixed-method strategy, drawing on (1) monthly panel data on 1,048 Soviet Rifle Divisions in 1941--45, built from millions of declassified personnel files; (2) a paired comparison of two Rifle Divisions at the Battle of Leningrad (1941); and (3) 526 land battles (1939--2011) to assess generalizability.  We find that fratricidal coercion reduces battlefield flight but increases casualties and suppresses initiative.
+</details>
+
+### Are Competitive Elections Good for Your Health? Evidence from the 1918 Flu and Covid-19
+Walden, Jacob, and Yuri M. Zhukov. "Are Competitive Elections Good for Your Health? Evidence from the 1918 Flu and Covid-19." Working paper, 2021.
+<br/>
+[Download PDF](../files/2021_WZ.pdf)
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  Do more electorally vulnerable government officials respond to public health emergencies more aggressively than officials in less competitive seats? Using novel data on local government responses to the 1918 influenza A (H1N1) "Spanish Flu" and 2020 Covid-19 pandemics in the United States, we study how the competitiveness of federal, state and local elections shapes the policy choices of incumbents. We find that, in 1918, vulnerable incumbents enacted more and longer nonpharmaceutical interventions (e.g. quarantines, closures), enforcing them more aggressively than in less-competitive jurisdictions. Their constituents subsequently experienced fewer influenza-related deaths and lower overall excess mortality. In 2020, more competitive constituencies similarly experienced lower rates of Covid-19 infection and death, but they implemented fewer nonpharmaceutical interventions and relied more on pharmaceutical measures. This policy substitution was feasible in part due to political geography: more competitive localities became more suburban, and more conducive to social distancing in the absence of government mandates.
 </details>
 
 ### Political Regime Type and Warfare: Evidence from 600 Years of European History
