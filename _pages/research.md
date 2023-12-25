@@ -45,18 +45,6 @@ National Science Foundation RIDIR Grant (SES-1925693).
 ## Working Papers {#working}
 <a href="#restop">&#8593; back to top</a>
 
-### Fighting for Tyranny: How State Repression Shapes Military Performance
-Rozenas, Arturas, Talibova, Roya and Yuri M. Zhukov. "Fighting for Tyranny: State Repression and Combat Motivation}." <em>American Economic Journal: Applied Economics</em> (conditionally accepted 2023). 
-<br/>
-[Download PDF](../files/2023_RTZ.pdf) | [Appendix](../files/2023_RTZ_appendix.pdf)
-<br/>
-
-<details>
-  <summary>Abstract</summary>
-  
-  We utilize over 100 million declassified Red Army personnel records from World War II to study how state repression shapes soldiers' motivation to exert effort in fighting. Exploiting multiple complementary identification strategies, we find that soldiers from places with higher levels of pre-war repression under Stalin’s rule were more likely to fight until death and less likely to shirk their duties, but they also received fewer decorations for personal bravery. The coercive incentives created by repression appear to have induced obedience at the expense of initiative and increased the human costs of war.
-</details>
-
 ### Are Competitive Elections Good for Your Health? Evidence from the 1918 Flu and Covid-19
 Walden, Jacob, and Yuri M. Zhukov. "Are Competitive Elections Good for Your Health? Evidence from the 1918 Flu and Covid-19." Working paper, 2021.
 <br/>
@@ -70,15 +58,15 @@ Walden, Jacob, and Yuri M. Zhukov. "Are Competitive Elections Good for Your Heal
 </details>
 
 ### Fratricidal Coercion in Modern War
-Lyall, Jason, and Yuri M. Zhukov. "Fratricidal Coercion in Modern War." Working paper, 2021.
+Lyall, Jason, and Yuri M. Zhukov. "Fratricidal Coercion in Modern War." Working paper, 2023.
 <br/>
-[Download PDF](../files/2021_LZ.pdf)
+[Download PDF](../files/20231030_LyallZhukov.pdf)
 <br/>
 
 <details>
   <summary>Abstract</summary>
   
-  Does the threat or use of violence against one's own soldiers make them more willing to perform their duties in battle? Existing theories largely dismiss this kind of fratricidal coercion as ineffective or obsolete, suggesting that positive inducements like ideology, material rewards, and primary group bonds drive soldiers' behavior. We argue instead that fratricidal coercion can improve soldier compliance, reducing wartime desertions, missing in action, premature surrender, and other forms of indiscipline. Yet it also places soldiers at greater risk of physical harm, and potentially impedes an army’s ability to inflict costs on enemy forces. To test our claims, we use a three-pronged empirical strategy that draws on (1) a monthly panel dataset of 609 Soviet Rifle Divisions in 1941--45, built from 34 million personnel files; (2) a close-range paired comparison of two Rifle Divisions selected via matching; and (3) 526 land battles (1939--2011) to assess the cross-national generalizability of these micro-level findings. Fratricidal coercion improves soldier compliance across all of these samples, but at the cost of higher casualties. These findings highlight the need to bring coercion back into our theories of combat motivation and military effectiveness.
+  Armies as diverse as the Red Army, Syrian Arab Army, and the Islamic State have turned their weapons against their own soldiers to force them to fight. There is little systematic evidence on how this fratricidal coercion affects battlefield performance.  We argue that such practices generate compliance through fear, compelling soldiers with variable levels of resolve to conform to a uniform standard of battlefield behavior. First, coercion keeps some reluctant soldiers on the battlefield.  This reduces rates of desertion, disappearances, and premature surrender, but increases deaths and injuries, as these reluctant warriors now find themselves in harm's way.  Second, fratricidal coercion lowers the resolve of more committed soldiers, leading to lost battlefield initiative, and fewer acts of bravery.  We test our claims using a mixed-method strategy, drawing on (1) monthly panel data on 1,048 Soviet Rifle Divisions in 1941--45, built from millions of declassified personnel files; (2) a paired comparison of two Rifle Divisions at the Battle of Leningrad (1941); and (3) 526 land battles (1939--2011) to assess generalizability.  We find that fratricidal coercion reduces battlefield flight but increases casualties and suppresses initiative.
 </details>
 
 ### Political Regime Type and Warfare: Evidence from 600 Years of European History

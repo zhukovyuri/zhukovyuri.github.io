@@ -30,6 +30,19 @@ author_profile: true
 ## Legacies of Violence {#legacies}
 <a href="#pubtop">&#8593; back to top</a>
 
+### Fighting for Tyranny: How State Repression Shapes Military Performance
+<img src="../images/aej.jpg" alt="WP" width="15" height="20"/> Rozenas, Arturas, Talibova, Roya and Yuri M. Zhukov. "Fighting for Tyranny: State Repression and Combat Motivation}." <em>American Economic Journal: Applied Economics</em> (forthcoming). 
+<br/>
+[Download preprint](../files/2023_RTZ.pdf) | [Appendix](../files/2023_RTZ_appendix.pdf)
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  We utilize over 100 million declassified Red Army personnel records from World War II to study how state repression shapes soldiers' motivation to exert effort in fighting. Exploiting multiple complementary identification strategies, we find that soldiers from places with higher levels of pre-war repression under Stalin’s rule were more likely to fight until death and less likely to shirk their duties, but they also received fewer decorations for personal bravery. The coercive incentives created by repression appear to have induced obedience at the expense of initiative and increased the human costs of war.
+</details>
+
+
 ### Never Again: The Holocaust and Political Legacies of Genocide
 <img src="../images/World_politics.gif" alt="WP" width="15" height="20"/> Wayne, Carly and Yuri M. Zhukov. "Never Again: The Holocaust and Political Legacies of Genocide". <em>World Politics</em> 74, no. 3 (2022): 1-38. <a href="https://doi.org/10.1017/S0043887122000053">doi.org/10.1017/S0043887122000053</a>
 <br/>
@@ -95,7 +108,7 @@ author_profile: true
 <a href="#pubtop">&#8593; back to top</a>
 
 ### Near-Real Time Analysis of War and Economic Activity during Russia's Invasion of Ukraine
-<img src="../images/JCE.gif" alt="" width="15" height="20"/> Zhukov, Yuri M. "Near-Real Time Analysis of War and Economic Activity during Russia’s Invasion of Ukraine." <i>Journal of Comparative Economics</i> (forthcoming 2023). <a href="https://doi.org/10.1016/j.jce.2023.06.003">doi.org/10.1016/j.jce.2023.06.003</a>
+<img src="../images/JCE.gif" alt="" width="15" height="20"/> Zhukov, Yuri M. "Near-Real Time Analysis of War and Economic Activity during Russia’s Invasion of Ukraine." <i>Journal of Comparative Economics</i> 51, no. 4 (2023): 1232-1243. <a href="https://doi.org/10.1016/j.jce.2023.06.003">doi.org/10.1016/j.jce.2023.06.003</a>
 <br/>
 [Download offprint](../files/2023_Zhukov_JCE.pdf) | [Publisher's version](https://doi.org/10.1016/j.jce.2023.06.003) | [Appendix](../files/2023_Zhukov_JCE_appendix.pdf) | [Replication code and data]()
 <br/>
@@ -424,7 +437,7 @@ Goldstein, Lyle J, and Yuri M Zhukov. "Superpower Showdown in the Mediterranean 
 <a href="#pubtop">&#8593; back to top</a>
 
 ### Integrating Data Across Misaligned Spatial Units
-<img src="../images/PA.jpg" alt="PA" width="15" height="20"/> Zhukov, Yuri M., Jason S. Byers, Marty Davidson, Ken Kollman. "Integrating Data Across Misaligned Spatial Units." <i>Political Analysis</i> (forthcoming 2023). <a href="https://doi.org/10.1017/pan.2023.5">doi.org/10.1017/pan.2023.5</a>
+<img src="../images/PA.jpg" alt="PA" width="15" height="20"/> Zhukov, Yuri M., Jason S. Byers, Marty Davidson, Ken Kollman. "Integrating Data Across Misaligned Spatial Units." <i>Political Analysis</i> 32, no. 1 (2024): 17-33. <a href="https://doi.org/10.1017/pan.2023.5">doi.org/10.1017/pan.2023.5</a>
 <br/>
 [Download offprint](../files/2023_ZBDK_PA.pdf) | [Publisher's version](https://doi.org/10.1017/pan.2023.5) | [Replication code and data](https://doi.org/10.7910/DVN/TOSX7N)
 <br/>
@@ -434,6 +447,21 @@ Goldstein, Lyle J, and Yuri M Zhukov. "Superpower Showdown in the Mediterranean 
   
   Theoretical units of interest often do not align with the spatial units at which existing data are available. This problem is pervasive in social science, particularly in sub-national empirical research that routinely requires integrating data across incompatible geographic units (e.g. administrative areas, electoral constituencies, postal codes). Overcoming this challenge requires researchers to not only align the scale of empirical and theoretical units, but also to diagnose the costs and consequences of alternative spatial transformation methods. We propose a framework for addressing such change-of-support problems in social science. We investigate the relative performance of 12 spatial transformation methods, including overlays, interpolation, kriging and other model-based approaches, using election data and Monte Carlo simulations. We show that both the accuracy of transformed values and the estimation of regression coefficients depend on the relative scale of source and destination units (i.e. aggregation, disaggregation, hybrid) and their degree of nesting (i.e. whether source units fall completely and neatly inside destination units). We propose simple nonparametric measures of relative scale and nesting, and validation procedures to assess the quality of the transformed geospatial data. Additionally, we introduce new infrastructure and open-source software to elucidate the consequences of these choices, and to make transformation options more accessible, customizable, and intuitive.
 </details>
+
+
+### Promoting Data Harmonization to Evaluate Vaccine Hesitancy in LMICs: Approach and Applications
+<img src="../images/bmc.jpg" alt="PA" width="15" height="20"/> Rego, Ryan T., Yuri Zhukov, Kyrani A. Reneau, Amy Pienta, Kristina L. Rice, Patrick Brady, Geoffrey H. Siwo, Peninah Wanjiku Wachira, Amina Abubakar, Ken Kollman and Akbar K. Waljee . "Promoting Data Harmonization to Evaluate Vaccine Hesitancy in LMICs: Approach and Applications." <i>BMC Medical Research Methodology</i> 23, no. 278 (2023). <a href="https://doi.org/10.1186/s12874-023-02088-z">doi.org/10.1186/s12874-023-02088-z</a>
+<br/>
+[Publisher's version](https://doi.org/10.1186/s12874-023-02088-z) 
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  Factors influencing the health of populations are subjects of interdisciplinary study. However, datasets relevant to public health often lack interdisciplinary breath. It is difficult to combine data on health outcomes with datasets on potentially important contextual factors, like political violence or development, due to incompatible levels of geographic support; differing data formats and structures; differences in sampling procedures and wording; and the stability of temporal trends. We present a computational package to combine spatially misaligned datasets, and provide an illustrative analysis of multi-dimensional factors in health outcomes.
+</details>
+
+
 
 ### xSub: A new portal for cross-national data on sub-national violence
 <img src="../images/jpr.gif" alt="JPR" width="15" height="20"/> Zhukov, Yuri M., Christian Davenport and Nadiya Kostyuk. "xSub: A new portal for cross-national data on sub-national violence." <em>Journal of Peace Research</em> 56, no. 4 (2019): 604-614. <a href="https://doi.org/10.1177/0022343319836697">doi.org/10.1177/0022343319836697</a>
