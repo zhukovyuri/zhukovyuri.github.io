@@ -20,3 +20,4 @@ redirect_from:
 ![Banner](../images/repin_cossacks_crop.jpg "Repin")
 
 <a href="../files/ZhukovYuri_CV.pdf">Curriculum Vitae (short)</a>
+<a href="../files/ZhukovYuri_CV_long.pdf">Curriculum Vitae (long)</a>
