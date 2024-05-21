@@ -30,7 +30,7 @@ Kollman, Kenneth (PI) and Yuri M. Zhukov (co-PI). "SUNGEO: Sub-National Geospati
 <br/>
 National Science Foundation RIDIR Grant (SES-1925693).
 <br/>
-[R package (CRAN)](https://cran.r-project.org/package=SUNGEO) | [R package (GitHub)](https://github.com/zhukovyuri/SUNGEO)
+[Website (`sungeo.org`)](https://www.sungeo.org) | [R package (CRAN)](https://cran.r-project.org/package=SUNGEO) | [R package (GitHub)](https://github.com/zhukovyuri/SUNGEO)
 <br/>
 
 <details>

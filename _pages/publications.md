@@ -31,9 +31,9 @@ author_profile: true
 <a href="#pubtop">&#8593; back to top</a>
 
 ### Fighting for Tyranny: State Repression and Combat Motivation
-<img src="../images/aej.jpg" alt="WP" width="15" height="20"/> Rozenas, Arturas, Roya Talibova and Yuri M. Zhukov. "Fighting for Tyranny: State Repression and Combat Motivation." <em>American Economic Journal: Applied Economics</em> (forthcoming). 
+<img src="../images/aej.jpg" alt="WP" width="15" height="20"/> Rozenas, Arturas, Roya Talibova and Yuri M. Zhukov. "Fighting for Tyranny: State Repression and Combat Motivation." <em>American Economic Journal: Applied Economics</em> 16, no .3 (2024): 1-33 (forthcoming). <a href="https://doi.org/10.1257/app.20220085">doi.org/10.1257/app.20220085</a>
 <br/>
-[Download preprint](../files/2023_RTZ.pdf) | [Appendix](../files/2023_RTZ_appendix.pdf)
+[Publisher's version](https://doi.org/10.1257/app.20220085) | [Download preprint](../files/2023_RTZ.pdf) | [Appendix](../files/2023_RTZ_appendix.pdf)
 <br/>
 
 <details>
@@ -120,7 +120,7 @@ author_profile: true
 </details>
 
 ### Repression Works (just not in moderation)
-<img src="../images/CPS.jpg" alt="CPS" width="15" height="20"/> Zhukov, Yuri M. "Repression Works (just not in moderation)." <em>Comparative Political Studies</em> (forthcoming 2023). <a href="https://doi.org/10.1177/00104140231152778">doi.org/10.1177/00104140231152778</a>
+<img src="../images/CPS.jpg" alt="CPS" width="15" height="20"/> Zhukov, Yuri M. "Repression Works (just not in moderation)." <em>Comparative Political Studies</em> 56, no. 11 (2023): 1663-1694. <a href="https://doi.org/10.1177/00104140231152778">doi.org/10.1177/00104140231152778</a>
 <br/>
 [Download offprint](../files/2023_Zhukov_CPS.pdf) | [Publisher's version](https://doi.org/10.1177/00104140231152778) | [Appendix](../files/2023_Zhukov_CPS_appendix.pdf) 
 <br/>

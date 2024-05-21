@@ -21,7 +21,7 @@ redirect_from:
 
 ![Banner](../images/repin_cossacks_crop.jpg "Repin")
 
-I am a Visiting Associate Professor of Public Policy at the Harvard Kennedy School, and an Associate Professor at Georgetown's School of Foreign Service and Department of Government. Until 2023, I was an Associate Professor of Political Science at the University of Michigan, Ann Arbor, and a Research Associate Professor with the Center for Political Studies at Michigan's Institute for Social Research. 
+I am an Associate Professor at Georgetown's School of Foreign Service and Department of Government. Until 2023, I was on the faculty of the University of Michigan, Ann Arbor, as an Associate Professor of Political Science and a Research Associate Professor with the Center for Political Studies at the Institute for Social Research. During the 2023-2024 academic year, I was a Visiting Associate Professor at the Harvard Kennedy School.
 
 My research focuses on the causes, dynamics and outcomes of conflict, at the international and local levels. My methodological areas of interest include spatial statistics, mathematical/computational modeling and text analysis.
 
