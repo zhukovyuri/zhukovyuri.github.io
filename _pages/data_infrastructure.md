@@ -21,9 +21,9 @@ redirect_from:
 
 ---
 ## SUNGEO: Sub-National Geospatial Data Archive
-Kollman, Ken and Yuri M. Zhukov. SUNGEO: Sub-National Geospatial Data Archive (Ann Arbor: University of Michigan, Center for Political Studies, 2023).
+Kollman, Ken and Yuri M. Zhukov. SUNGEO: Sub-National Geospatial Data Archive (Ann Arbor: University of Michigan, Center for Political Studies, 2024).
 <br/>
-Beta version: <a href="https://beta.sungeo.org">beta.sungeo.org</a> (usr="beta", pwd="beta")
+Beta version: <a href="https://www.sungeo.org">sungeo.org</a>
 <br/>
 
 ---

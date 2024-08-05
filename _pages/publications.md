@@ -31,7 +31,7 @@ author_profile: true
 <a href="#pubtop">&#8593; back to top</a>
 
 ### Fighting for Tyranny: State Repression and Combat Motivation
-<img src="../images/aej.jpg" alt="WP" width="15" height="20"/> Rozenas, Arturas, Roya Talibova and Yuri M. Zhukov. "Fighting for Tyranny: State Repression and Combat Motivation." <em>American Economic Journal: Applied Economics</em> 16, no .3 (2024): 1-33 (forthcoming). <a href="https://doi.org/10.1257/app.20220085">doi.org/10.1257/app.20220085</a>
+<img src="../images/aej.jpg" alt="WP" width="15" height="20"/> Rozenas, Arturas, Roya Talibova and Yuri M. Zhukov. "Fighting for Tyranny: State Repression and Combat Motivation." <em>American Economic Journal: Applied Economics</em> 16, no .3 (2024): 1-33. <a href="https://doi.org/10.1257/app.20220085">doi.org/10.1257/app.20220085</a>
 <br/>
 [Publisher's version](https://doi.org/10.1257/app.20220085) | [Download preprint](../files/2023_RTZ.pdf) | [Appendix](../files/2023_RTZ_appendix.pdf)
 <br/>
