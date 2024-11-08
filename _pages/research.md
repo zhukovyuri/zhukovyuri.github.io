@@ -48,13 +48,13 @@ National Science Foundation RIDIR Grant (SES-1925693).
 ### Fratricidal Coercion in Modern War
 Lyall, Jason, and Yuri M. Zhukov. "Fratricidal Coercion in Modern War." Working paper, 2023.
 <br/>
-[Download PDF](../files/20231030_LyallZhukov.pdf)
+[Download PDF](../files/20241019_LyallZhukov.pdf)
 <br/>
 
 <details>
   <summary>Abstract</summary>
   
-  Armies as diverse as the Red Army, Syrian Arab Army, and the Islamic State have turned their weapons against their own soldiers to force them to fight. There is little systematic evidence on how this fratricidal coercion affects battlefield performance.  We argue that such practices generate compliance through fear, compelling soldiers with variable levels of resolve to conform to a uniform standard of battlefield behavior. First, coercion keeps some reluctant soldiers on the battlefield.  This reduces rates of desertion, disappearances, and premature surrender, but increases deaths and injuries, as these reluctant warriors now find themselves in harm's way.  Second, fratricidal coercion lowers the resolve of more committed soldiers, leading to lost battlefield initiative, and fewer acts of bravery.  We test our claims using a mixed-method strategy, drawing on (1) monthly panel data on 1,048 Soviet Rifle Divisions in 1941--45, built from millions of declassified personnel files; (2) a paired comparison of two Rifle Divisions at the Battle of Leningrad (1941); and (3) 526 land battles (1939--2011) to assess generalizability.  We find that fratricidal coercion reduces battlefield flight but increases casualties and suppresses initiative.
+  Armies sometimes use fratricidal coercion --- violence and intimidation against their own soldiers --- to force reluctant soldiers to fight. Though quite common historically, we know little about how it affects battlefield performance. We study fratricidal coercion using a mixed-method strategy, drawing on (1) monthly panel data on Soviet Rifle Divisions in World War II, built from millions of declassified personnel files; (2) paired comparisons of Rifle Divisions at the Battle of Leningrad; and (3) cross-national data on 526 land battles and war outcomes from 75 conflicts (1939--2011) to assess generalizability. We offer three sets of empirical findings. First, coercion keeps some soldiers from fleeing the battlefield, but at the cost of higher casualties and reduced battlefield initiative.  Second,  wartime and prewar coercion (e.g. mass repression, officer purges) affect soldiers' behavior in similar, mutually reinforcing ways. Third, the resolve-boosting, initiative-dampening effects of fratricidal coercion generalize across belligerents and wars. Fratricidal coercion generates compliance through fear, compelling soldiers with variable levels of resolve to conform to a uniform standard of battlefield behavior. But the net utility of this approach is dubious. On balance, countries employing fratricidal coercion are less likely to win their wars.
 </details>
 
 ### Are Competitive Elections Good for Your Health? Evidence from the 1918 Flu and Covid-19
