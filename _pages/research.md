@@ -47,7 +47,7 @@ National Science Foundation RIDIR Grant (SES-1925693).
 
 
 ### Repressed Memories: State Terror and the Street Politics of Memorialization
-Yuri M. Zhukov. "Repressed Memories: State Terror and the Street Politics of Memorialization." Working paper, 2024.
+Zhukov, Yuri M. "Repressed Memories: State Terror and the Street Politics of Memorialization." Working paper, 2024.
 <br/>
 [Download PDF](../files/2024_Zhukov_recordame_v2.pdf)
 <br/>
@@ -58,6 +58,17 @@ Yuri M. Zhukov. "Repressed Memories: State Terror and the Street Politics of Mem
   Why do some victims of state repression become memorialized, while others do not? Public "places of memory,"" like monuments, museums and street signs, are contested political spaces, where efforts to expose and confront historical traumas clash with efforts to advance and legitimate political power. Street-level data on Stalin's Great Terror and contemporary public memorials in Moscow show that memorials to victims are most likely to appear -- and are hardest to remove -- in locations where repression was initially more severe and indiscriminate. Soviet authorities sometimes used mass arrests --- charging multiple individuals from the same residential building or workplace for the same (usually fictitious) offense --- to simplify paperwork and quickly meet execution and arrest quotas. Decades later, victims of these mass killings are disproportionately likely to receive posthumous recognition. "Solitary" victims of state repression are more likely to be forgotten. We show this result through multiple estimation strategies, at multiple levels of analysis. We explore how this ``severity effect'' varies by victims' ethnicity, political affiliation, and the local presence of state security services today. The larger the act of violence, the harder it is to conceal.
 </details>
 
+### Is Military Victory Possible?
+Biddle, Stephem, Samuel Winter-Levy and Yuri M. Zhukov. "Is Military Victory Possible?" Working paper, 2024.
+<br/>
+<!-- [Download PDF](../files/2024_Zhukov_recordame_v2.pdf) -->
+<!-- <br/> -->
+
+<details>
+  <summary>Abstract</summary>
+  
+  The scholarly and policy literatures on war termination distinguish between war outcomes obtained through brute force destruction of an enemy's capacity to resist ("military victories") and the coercive diplomacy of bargaining under threat ("negotiated settlements"). We argue that the first of these categories does not exist. Wars and battles almost never end with an imposition terms on a prostrate enemy who has no meaningful choice but to surrender. The modern historical record of war termination and battlefield dynamics shows that it is extremely uncommon for more than a small fraction of a defeated state's army to be physically destroyed in combat. Wars and tactical engagements end in tacit bargains, involving belligerents who could have kept fighting but opted to stop. We present an alternative conception of war and battle termination as intrinsically coercive in all cases, without a meaningful category of brute force annihilation as an alternative to bargaining.
+</details>
 
 ### Are Competitive Elections Good for Your Health? Evidence from the 1918 Flu and Covid-19
 Walden, Jacob, and Yuri M. Zhukov. "Are Competitive Elections Good for Your Health? Evidence from the 1918 Flu and Covid-19." Working paper, 2021.
