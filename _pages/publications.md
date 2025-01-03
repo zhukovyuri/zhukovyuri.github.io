@@ -167,7 +167,7 @@ author_profile: true
   This chapter explores how logistical costs shape the quantity and quality of violence against civilians. I distinguish between two types of supply systems: a reliance on local resources obtained from within a conflict zone, and external resources shipped from outside. All else equal, the intensity of violence against civilians should be greater where external resources are available at relative low cost. As the costs of obtaining external resources rise – due to poor infrastructure or sabotage – violence against civilians should decline. I evaluate the empirical evidence for these claims using disaggregated data on 58 low-intensity conflicts since 1997, and archival data on Stalin's Great Terror and killings of civilians by Nazi Germany in World War II.
 </details>
 
-### Islamists and Nationalists: Rebel Motivation and Counterinsurgency in Russia's North Caucasus 
+### Islamists and Nationalists: Rebel Motivation and Counterinsurgency in Russia's North Caucasus
 <img src="../images/APSR.jpg" alt="APSR" width="15" height="20"/> Toft, Monica Duffy and Yuri M. Zhukov. "Islamists and Nationalists: Rebel Motivation and Counterinsurgency in Russia's North Caucasus." <em>American Political Science Review</em> 109, no. 2 (2015): 222-238. <a href="https://doi.org/10.1017/S000305541500012X">doi.org/10.1017/S000305541500012X</a>
 <br/>
 [Download offprint](../files/2015_TZ_APSR.pdf) | [Publisher's version](https://doi.org/10.1017/S000305541500012X) | [Appendix](../files/2015_TZ_APSR_appendix.pdf) | [Replication code and data](http://dx.doi.org/10.7910/DVN/DK4FXA)
@@ -288,6 +288,20 @@ author_profile: true
 ---
 ## International Security {#intl}
 <a href="#pubtop">&#8593; back to top</a>
+
+
+### Fratricidal Coercion in Modern War
+<img src="../images/IO.jpg" alt="" width="15" height="20"/> Lyall, Jason, and Yuri M. Zhukov. "Fratricidal Coercion in Modern War." <em>International Organization</em>, forthcoming.
+<br/>
+[Download PDF](../files/20241019_LyallZhukov.pdf)
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  Armies sometimes use fratricidal coercion -- violence and intimidation against their own soldiers -- to force reluctant soldiers to fight. Though quite common historically, we know little about how it affects battlefield performance. We study fratricidal coercion using a mixed-method strategy, drawing on (1) monthly panel data on Soviet Rifle Divisions in World War II, built from millions of declassified personnel files; (2) paired comparisons of Rifle Divisions at the Battle of Leningrad; and (3) cross-national data on 526 land battles and war outcomes from 75 conflicts (1939–2011) to assess generalizability. We offer three sets of empirical findings. First, coercion keeps some soldiers from fleeing the battlefield, but at the cost of higher casualties and reduced battlefield initiative. Second, wartime and prewar coercion (e.g. mass repression, officer purges) affect soldiers’ behavior in similar, mutually reinforcing ways. Third, the resolve-boosting, initiative-dampening effects of fratricidal coercion generalize across belligerents and wars. Fratricidal coercion generates compliance through fear, compelling soldiers with variable levels of resolve to conform to a uniform standard of battlefield behavior. But the net utility of this approach is dubious. On balance, countries employing fratricidal coercion are less likely to win their wars.
+</details>
+
 
 ### Until the Bitter End? The Diffusion of Surrender Across Battles
 <img src="../images/IO.jpg" alt="" width="15" height="20"/> Lehmann, Todd and Yuri M. Zhukov. "Until the Bitter End? The Diffusion of Surrender Across Battles." <em>International Organization</em> 73, no. 1 (2019): 133-169. <a href="https://doi.org/10.1017/S0020818318000358">doi.org/10.1017/S0020818318000358</a>

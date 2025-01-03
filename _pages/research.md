@@ -45,17 +45,19 @@ National Science Foundation RIDIR Grant (SES-1925693).
 ## Working Papers {#working}
 <a href="#restop">&#8593; back to top</a>
 
-### Fratricidal Coercion in Modern War
-Lyall, Jason, and Yuri M. Zhukov. "Fratricidal Coercion in Modern War." Working paper, 2023.
+
+### Repressed Memories: State Terror and the Street Politics of Memorialization
+Yuri M. Zhukov. "Repressed Memories: State Terror and the Street Politics of Memorialization." Working paper, 2024.
 <br/>
-[Download PDF](../files/20241019_LyallZhukov.pdf)
+[Download PDF](../files/2024_Zhukov_recordame_v2.pdf)
 <br/>
 
 <details>
   <summary>Abstract</summary>
   
-  Armies sometimes use fratricidal coercion --- violence and intimidation against their own soldiers --- to force reluctant soldiers to fight. Though quite common historically, we know little about how it affects battlefield performance. We study fratricidal coercion using a mixed-method strategy, drawing on (1) monthly panel data on Soviet Rifle Divisions in World War II, built from millions of declassified personnel files; (2) paired comparisons of Rifle Divisions at the Battle of Leningrad; and (3) cross-national data on 526 land battles and war outcomes from 75 conflicts (1939--2011) to assess generalizability. We offer three sets of empirical findings. First, coercion keeps some soldiers from fleeing the battlefield, but at the cost of higher casualties and reduced battlefield initiative.  Second,  wartime and prewar coercion (e.g. mass repression, officer purges) affect soldiers' behavior in similar, mutually reinforcing ways. Third, the resolve-boosting, initiative-dampening effects of fratricidal coercion generalize across belligerents and wars. Fratricidal coercion generates compliance through fear, compelling soldiers with variable levels of resolve to conform to a uniform standard of battlefield behavior. But the net utility of this approach is dubious. On balance, countries employing fratricidal coercion are less likely to win their wars.
+  Why do some victims of state repression become memorialized, while others do not? Public "places of memory,"" like monuments, museums and street signs, are contested political spaces, where efforts to expose and confront historical traumas clash with efforts to advance and legitimate political power. Street-level data on Stalin's Great Terror and contemporary public memorials in Moscow show that memorials to victims are most likely to appear -- and are hardest to remove -- in locations where repression was initially more severe and indiscriminate. Soviet authorities sometimes used mass arrests --- charging multiple individuals from the same residential building or workplace for the same (usually fictitious) offense --- to simplify paperwork and quickly meet execution and arrest quotas. Decades later, victims of these mass killings are disproportionately likely to receive posthumous recognition. "Solitary" victims of state repression are more likely to be forgotten. We show this result through multiple estimation strategies, at multiple levels of analysis. We explore how this ``severity effect'' varies by victims' ethnicity, political affiliation, and the local presence of state security services today. The larger the act of violence, the harder it is to conceal.
 </details>
+
 
 ### Are Competitive Elections Good for Your Health? Evidence from the 1918 Flu and Covid-19
 Walden, Jacob, and Yuri M. Zhukov. "Are Competitive Elections Good for Your Health? Evidence from the 1918 Flu and Covid-19." Working paper, 2021.

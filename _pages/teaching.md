@@ -27,6 +27,19 @@ redirect_from:
 ## Methods {#methods}
 <a href="#teachtop">&#8593; back to top</a>
 
+### Geographic Information Systems for Public Policy
+*Course number(s)*: API-231 (Harvard Kennedy School).<br/>
+*Format*: Graduate lecture/seminar/lab (60 students).<br/>
+*Offered*: Spring 2024. <br/>
+*Syllabus*: [Download PDF](../files/API231_Syllabus_S2024_HKS.pdf)<br/>
+
+<details>
+  <summary>Course description</summary>
+  
+  This course provides and introduction to geospatial data science and its applications to public policy, political economy, and international relations. The course will enable students to work with Geographic Information Systems (GIS) data structures and understand cartography, transformations, georeferencing, geocoding, and spatial analysis. It will provide students with hands-on experience in using open-source GIS software to visualize and analyze multiple types of data, including administrative records, historical maps, boundaries, weather, climate, roads, and satellite images/remote sensing. Applications will include data on elections, armed conflict, crime, public infrastructure, and economic activity, plus a series of specialized policy topics selected by students. Class meeting time will be split between lectures and lab exercises, where students will use GIS software to complete assignments.
+
+</details>
+
 ### Geographic Information Systems for Political Science
 *Course number(s)*: Political Science 385.001 (Michigan).<br/>
 *Format*: Undergraduate lecture/seminar/lab (25 students).<br/>
@@ -120,6 +133,19 @@ redirect_from:
 
 ## Russia {#russia}
 <a href="#teachtop">&#8593; back to top</a>
+
+### Russian National Security Policy
+*Course number(s)*: IGA-677 (Harvard Kennedy School).<br/>
+*Format*: Graduate lecture (50 students). <br/>
+*Offered*: Fall 2024. <br/>
+*Syllabus*: [Download PDF](../files/IGA677_Syllabus_F2023_HKS.pdf)<br/>
+
+<details>
+  <summary>Course description</summary>
+  
+  This course seeks to explain the design and implementation of national security and defense policy in the Russian Federation and its predecessor states (Soviet Union, Russian Empire). The lectures and readings are organized into three modules, focusing on how Russia has approached the competing challenges of (1) economic development, (2) internal security, and (3) relations with other actors in the international system. Our attention will be on the interaction between these policy domains over different periods of Russian history --- Tsarist, Soviet, and contemporary --- with an emphasis on how the legacy of the past has shaped and constrained Russian national security strategy and decision-making. Topics we will cover include: territorial and imperial expansion, serfdom, collectivization, industrialization, mass repression, counter-insurgency, military doctrine and organization, nuclear weapons, energy and natural resources, cyber warfare, and Russia's invasion of Ukraine. Course readings will draw on literature from various disciplines, including political science, economics, history, and public policy.  Class meetings will place a heavy emphasis on student participation and activity-based learning through surveys, games, simulations and debates.
+</details>
+
 
 ### Political Economy of Russia and Eurasia
 *Course number(s)*: Political Science 498.002 (Michigan).<br/>
