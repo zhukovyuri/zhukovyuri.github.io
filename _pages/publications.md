@@ -18,17 +18,31 @@ author_profile: true
 ![Banner](../images/repin_cossacks_crop.jpg "Repin")
 
 ### Topics {#pubtop}
+- [International Security](#intl)
 - [Legacies of Violence](#legacies)
 - [Dynamics of Violence](#dynamics)
 - [Causes of Violence](#causes)
-- [International Security](#intl)
 - [Sexual Violence](#sexual)
 - [Geospatial Data Science](#data)
 - [Reporting Bias in Event Data](#rep)
 
+
 ---
-## Legacies of Violence {#legacies}
+## International Security {#intl}
 <a href="#pubtop">&#8593; back to top</a>
+
+
+### Fratricidal Coercion in Modern War
+<img src="../images/IO.jpg" alt="" width="15" height="20"/> Lyall, Jason, and Yuri M. Zhukov. "Fratricidal Coercion in Modern War." <em>International Organization</em>, forthcoming.
+<br/>
+[Download PDF](../files/2025_LyallZhukov.pdf) | [Appendix](../files/2024_LyallZhukov_appendix.pdf)
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  Armies sometimes use fratricidal coercion -- violence and intimidation against their own soldiers -- to force reluctant soldiers to fight. Though quite common historically, we know little about how it affects battlefield performance. We study fratricidal coercion using a mixed-method strategy, drawing on (1) monthly panel data on Soviet Rifle Divisions in World War II, built from millions of declassified personnel files; (2) paired comparisons of Rifle Divisions at the Battle of Leningrad; and (3) cross-national data on 526 land battles and war outcomes from 75 conflicts (1939–2011) to assess generalizability. We offer three sets of empirical findings. First, coercion keeps some soldiers from fleeing the battlefield, but at the cost of higher casualties and reduced battlefield initiative. Second, wartime and prewar coercion (e.g. mass repression, officer purges) affect soldiers’ behavior in similar, mutually reinforcing ways. Third, the resolve-boosting, initiative-dampening effects of fratricidal coercion generalize across belligerents and wars. Fratricidal coercion generates compliance through fear, compelling soldiers with variable levels of resolve to conform to a uniform standard of battlefield behavior. But the net utility of this approach is dubious. On balance, countries employing fratricidal coercion are less likely to win their wars.
+</details>
 
 ### Fighting for Tyranny: State Repression and Combat Motivation
 <img src="../images/aej.jpg" alt="WP" width="15" height="20"/> Rozenas, Arturas, Roya Talibova and Yuri M. Zhukov. "Fighting for Tyranny: State Repression and Combat Motivation." <em>American Economic Journal: Applied Economics</em> 16, no. 3 (2024): 44-75. <a href="https://doi.org/10.1257/app.20220085">doi.org/10.1257/app.20220085</a>
@@ -41,6 +55,139 @@ author_profile: true
   
   We utilize over 100 million declassified Red Army personnel records from World War II to study how state repression shapes soldiers' motivation to exert effort in fighting. Exploiting multiple complementary identification strategies, we find that soldiers from places with higher levels of pre-war repression under Stalin’s rule were more likely to fight until death and less likely to shirk their duties, but they also received fewer decorations for personal bravery. The coercive incentives created by repression appear to have induced obedience at the expense of initiative and increased the human costs of war.
 </details>
+
+
+### Until the Bitter End? The Diffusion of Surrender Across Battles
+<img src="../images/IO.jpg" alt="" width="15" height="20"/> Lehmann, Todd and Yuri M. Zhukov. "Until the Bitter End? The Diffusion of Surrender Across Battles." <em>International Organization</em> 73, no. 1 (2019): 133-169. <a href="https://doi.org/10.1017/S0020818318000358">doi.org/10.1017/S0020818318000358</a>
+<br/>
+[Download offprint](../files/2019_LZ_IO.pdf) | [Publisher's version](https://doi.org/10.1017/S0020818318000358) | [Replication code and data](https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S0020818318000358/resource/name/S0020818318000358sup001.zip)
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  Why do armies sometimes surrender to the enemy and sometimes fight to the bitter end? Existing research has highlighted the importance of battlefield resolve for the onset, conduct and outcome of war, but has left these life-and-death decisions mostly unexplained. We know little about why battle-level surrender occurs, and why it stops. In this paper, we argue that surrender emerges from a collective action problem: success in battle requires that soldiers choose to fight as a unit rather than flee, but individual decisions to fight depend on whether soldiers expect their comrades to do the same. As a result, surrender becomes contagious across battles, as soldiers take cues from what other soldiers had done when they were in a similar position. Where no recent precedent exists, mass surrender is unlikely. We find empirical support for this claim using a new dataset of conventional battles in all interstate wars from 1939 to 2011. These findings advance our understanding of battlefield resolve, with broader implications for the design of political-military institutions and decisions to initiate, continue, and terminate war.
+</details>
+
+### Invisible Digital Front: Can Cyber Attacks Shape Battlefield Events?
+<img src="../images/jcr.gif" alt="" width="15" height="20"/> Kostyuk, Nadiya and Yuri M. Zhukov. "Invisible Digital Front: Can Cyber Attacks Shape Battlefield Events?" <em>Journal of Conflict Resolution</em> 63, no. 2 (2019): 317-347. <a href="https://doi.org/10.1177/0022002717737138">doi.org/10.1177/0022002717737138</a>
+<br/>
+[Download offprint](../files/2019_KZ_JCR.pdf) | [Publisher's version](https://doi.org/10.1177/0022002717737138) | [Appendix 1](../files/2019_KZ_JCR_appendix1.pdf) | [Appendix 2](../files/2019_KZ_JCR_appendix2.pdf) | [Replication code and data](https://journals.sagepub.com/doi/suppl/10.1177/0022002717737138/suppl_file/jcr-17-0021.r2_replication.zip)
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  Recent years have seen growing concern over the use of cyber attacks in wartime, but little evidence that these new tools of coercion can change battlefield events. We present the first quantitative analysis of the relationship between cyber activities and physical violence during war. Using new event data from the armed conflict in Ukraine -- and additional data from Syria's civil war -- we analyze the dynamics of cyber attacks, and find that such activities have had little or no impact on fighting. In Ukraine -- one of the first armed conflicts where both sides deployed such tools extensively -- cyber activities failed to compel discernible changes in battlefield behavior. Indeed, hackers on both sides have had difficulty responding to battlefield events, much less shaping them. An analysis of conflict dynamics in Syria produces similar results: the timing of cyber actions is independent of fighting on the ground. Our finding -- that cyber attacks are not (yet) effective as tools of coercion in war -- has potentially significant implications for other armed conflicts with a digital front.
+</details>
+
+### NATO's Mediterranean Mission: What the Alliance is Doing in the Aegean Sea
+<img src="../images/fa.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M. "NATO's Mediterranean Mission: What the Alliance is Doing in the Aegean Sea". <em>Foreign Affairs</em>, 2016.
+<br/>
+[Publisher's version](https://www.foreignaffairs.com/articles/europe/2016-02-21/natos-mediterranean-mission)
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  NATO's response to the migrant crisis has been met with criticism on both humanitarian and utilitarian grounds. The first critique is that military efforts to slow or reverse the refugee flow will lead to unnecessary human suffering. The second critique is that NATO's operation will do little or nothing to deter people-smuggling, and may even encourage more of it. In fact, the operation's humanitarian impact is unlikely to be as dire as skeptics predict. Doubts about NATO's ability to stem illegal migration, however, will linger for some time—unless the alliance significantly expands the scope of its new mission.
+</details>
+
+### Egypt's Gift from God: What the Discovery of Offshore Gas Means for Cairo
+<img src="../images/fa.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M. "Egypt's Gift from God: What the Discovery of Offshore Gas Means for Cairo". <em>Foreign Affairs</em>, 2015.
+<br/>
+[Publisher's version](https://www.foreignaffairs.com/articles/cyprus/2015-09-23/egypts-gift-god)
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  On August 30, the Italian state-controlled energy company Eni announced the discovery of a "supergiant" gas field off the coast of Egypt. According to initial assessments, the Zohr field contains 30 trillion cubic feet (Tcf) of natural gas (equivalent to 5.5 billion barrels of oil), making it the largest ever discovery of gas in the Mediterranean. This is welcome news for Egypt's struggling economy and fragile political situation. It also creates new challenges and opportunities for the country's neighbors and for outside powers such as Vladimir Putin's Russia. Additionally, it provides powerful economic incentives for Cypriot reunification. As the United States takes stock of what Egypt's good fortune means for the region, it should find much cause for celebration.
+</details>
+
+### More Trouble in the Eastern Mediterranean: U.S. Intervention or Not, the Sea is Already Boiling
+<img src="../images/fa.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M. "More Trouble in the Eastern Mediterranean: U.S. Intervention or Not, the Sea is Already Boiling". <em>Foreign Affairs</em>, 2013.
+<br/>
+[Publisher's version](http://www.foreignaffairs.com/articles/139900/yuri-m-zhukov/more-trouble-in-the-eastern-mediterranean)
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  So far, public debate about the intervention in Syria has centered on the immediate scope and aims of any U.S.-led military operation, and whether the U.S. Congress should be involved. But no matter how the possible intervention and its aftermath play out, one thing is certain: the eastern Mediterranean -- where exploratory drilling has unearthed vast reserves of natural gas, and where competition over the rights to tap those resources is already fierce -- will become less stable.
+</details>
+
+### Cyprus and Russia Did Not Just Break Up: Why Moscow Is Playing the Long Game on the Island of Aphrodite
+<img src="../images/fa.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M. "Cyprus and Russia Did Not Just Break Up: Why Moscow Is Playing the Long Game on the Island of Aphrodite". <em>Foreign Affairs</em>, 2013.
+<br/>
+[Publisher's version](http://www.foreignaffairs.com/articles/139090/yuri-m-zhukov/cyprus-and-russia-did-not-just-break-up)
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  Russia recently turned down a deal to save Cyprus' banking sector. At first glance, the move looked like a huge strategic blunder. In fact, a credible offer was never on the table and Moscow needs no accord to secure its dominance on the island.
+</details>
+
+### Trouble in the Eastern Mediterranean Sea: The Coming Dash for Gas
+<img src="../images/fa.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M. "Trouble in the Eastern Mediterranean Sea: The Coming Dash for Gas". <em>Foreign Affairs</em>, 2013.
+<br/>
+[Publisher's version](http://www.foreignaffairs.com/articles/139069/yuri-m-zhukov/trouble-in-the-eastern-mediterranean-sea) |
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  Exploratory drilling near the coasts of Cyprus, Egypt, Israel, Lebanon, Syria, and Turkey has unearthed vast reserves of natural gas. Competition over the rights to tap those resources is compounding existing tensions over sovereignty and maritime borders. The eastern Mediterranean is quickly becoming as volatile as its eastern cousin, the South China Sea.
+</details>
+
+### Use of Force and Civil-Military Relations in Russia: An Automated Content Analysis
+<img src="../images/swi.jpg" alt="" width="15" height="20"/> Stewart, Brandon M, and Yuri M Zhukov. "Use of Force and Civil-Military Relations in Russia: An Automated Content Analysis". <em>Small Wars and Insurgencies</em> 20, no. 2 (2009): 319-343.
+<br/>
+[Download offprint](../files/2009_SZ_SWI.pdf) | [Replication code and data](http://dx.doi.org/10.7910/DVN/23111)
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  Russia's intervention in the Georgian-South Ossetian conflict has highlighted the need to rigorously examine trends in the public debate over the use of force in Russia. Approaching this debate through the prism of civil-military relations, we take advantage of recent methodological advances in automated content analysis and generate a new dataset of 8000 public statements made by Russia's political and military leaders during the Putin period. The data show little evidence that military elites exert a restraining influence on Russian foreign and defence policy. Although more hesitant than their political counterparts to embrace an interventionist foreign policy agenda, Russian military elites are considerably more activist in considering the use of force as an instrument of foreign policy.
+</details>
+
+### The Cold War at Sea: An International Appraisal
+<img src="../images/jss.jpg" alt="" width="15" height="20"/> Goldstein, Lyle J, John B Hattendorf, and Yuri M Zhukov. "The Cold War at Sea: An International Appraisal". <em>The Journal of Strategic Studies</em> 28, no. 2 (2005): 151-156. <a href="http://dx.doi.org/10.1080/01402390500088221">dx.doi.org/10.1080/01402390500088221</a>
+<br/>
+[Download offprint](../files/2005_GHZ_JSS.pdf) | [Publisher's version](http://dx.doi.org/10.1080/01402390500088221) 
+<br/>
+
+### The Evolution of the U.S. Navy's Maritime Strategy in the Context of Major Political and Military Events of the Cold War, 1964–1991
+<img src="../images/nwc-np-19.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M, and John B Hattendorf. "The Evolution of the U.S. Navy's Maritime Strategy in the Context of Major Political and Military Events of the Cold War, 1964–1991". In <em>The Evolution of the U.S. Navy's Maritime Strategy</em>, 1977- 1986. Vol. 19. Newport, RI: Naval War College Press, 2004.
+<br/>
+[Download offprint](../files/2004_ZH_NWC.pdf)
+<br/>
+
+<!-- ### Addressing Pipeline Security Challenges in Russia
+<img src="../images/" alt="" width="15" height="20"/> Zhukov, Yuri M. "Addressing Pipeline Security Challenges in Russia". <em>Eurasianet.org</em>, 2006.
+<br/>
+| [Download offprint](http://scholar.harvard.edu/zhukov/publications/addressing-pipeline-security-challenges-russia) | 
+<br/>
+ -->
+### A Tale of Two Fleets: a Russian Perspective on the 1973 Naval Standoff in the Mediterranean
+<img src="../images/nwcr.jpg" alt="" width="15" height="20"/> Goldstein, Lyle J, and Yuri M Zhukov. "A Tale of Two Fleets: a Russian Perspective on the 1973 Naval Standoff in the Mediterranean". <em>Naval War College Review</em> 58, no. 2 (2004): 27-63.
+<br/>
+[Download offprint](../files/2004_GZ_NWCR.pdf)
+<br/>
+
+### Superpower Showdown in the Mediterranean 1973
+Goldstein, Lyle J, and Yuri M Zhukov. "Superpower Showdown in the Mediterranean 1973". <em>Sea Power</em>, 2003.
+<!-- <br/>
+| [Download offprint](http://scholar.harvard.edu/zhukov/publications/superpower-showdown-mediterranean-1973) | 
+<br/>
+ -->
+
+
+---
+## Legacies of Violence {#legacies}
+<a href="#pubtop">&#8593; back to top</a>
 
 
 ### Never Again: The Holocaust and Political Legacies of Genocide
@@ -285,150 +432,6 @@ author_profile: true
   International observers have tended to paint the armed conflict in eastern Ukraine as an ethnic dispute, engineered and coordinated by Moscow. Yet by attributing the conflict's causes and solutions to forces outside Ukraine, the West and Kiev risk misdiagnosing the ailment and writing the wrong prescription. Preliminary data suggest that the rebellion is more local than international, and that its domestic roots are more economic than ethnic.
 </details>
 
----
-## International Security {#intl}
-<a href="#pubtop">&#8593; back to top</a>
-
-
-### Fratricidal Coercion in Modern War
-<img src="../images/IO.jpg" alt="" width="15" height="20"/> Lyall, Jason, and Yuri M. Zhukov. "Fratricidal Coercion in Modern War." <em>International Organization</em>, forthcoming.
-<br/>
-[Download PDF](../files/2025_LyallZhukov.pdf) | [Appendix](../files/2024_LyallZhukov_appendix.pdf)
-<br/>
-
-<details>
-  <summary>Abstract</summary>
-  
-  Armies sometimes use fratricidal coercion -- violence and intimidation against their own soldiers -- to force reluctant soldiers to fight. Though quite common historically, we know little about how it affects battlefield performance. We study fratricidal coercion using a mixed-method strategy, drawing on (1) monthly panel data on Soviet Rifle Divisions in World War II, built from millions of declassified personnel files; (2) paired comparisons of Rifle Divisions at the Battle of Leningrad; and (3) cross-national data on 526 land battles and war outcomes from 75 conflicts (1939–2011) to assess generalizability. We offer three sets of empirical findings. First, coercion keeps some soldiers from fleeing the battlefield, but at the cost of higher casualties and reduced battlefield initiative. Second, wartime and prewar coercion (e.g. mass repression, officer purges) affect soldiers’ behavior in similar, mutually reinforcing ways. Third, the resolve-boosting, initiative-dampening effects of fratricidal coercion generalize across belligerents and wars. Fratricidal coercion generates compliance through fear, compelling soldiers with variable levels of resolve to conform to a uniform standard of battlefield behavior. But the net utility of this approach is dubious. On balance, countries employing fratricidal coercion are less likely to win their wars.
-</details>
-
-
-### Until the Bitter End? The Diffusion of Surrender Across Battles
-<img src="../images/IO.jpg" alt="" width="15" height="20"/> Lehmann, Todd and Yuri M. Zhukov. "Until the Bitter End? The Diffusion of Surrender Across Battles." <em>International Organization</em> 73, no. 1 (2019): 133-169. <a href="https://doi.org/10.1017/S0020818318000358">doi.org/10.1017/S0020818318000358</a>
-<br/>
-[Download offprint](../files/2019_LZ_IO.pdf) | [Publisher's version](https://doi.org/10.1017/S0020818318000358) | [Replication code and data](https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S0020818318000358/resource/name/S0020818318000358sup001.zip)
-<br/>
-
-<details>
-  <summary>Abstract</summary>
-  
-  Why do armies sometimes surrender to the enemy and sometimes fight to the bitter end? Existing research has highlighted the importance of battlefield resolve for the onset, conduct and outcome of war, but has left these life-and-death decisions mostly unexplained. We know little about why battle-level surrender occurs, and why it stops. In this paper, we argue that surrender emerges from a collective action problem: success in battle requires that soldiers choose to fight as a unit rather than flee, but individual decisions to fight depend on whether soldiers expect their comrades to do the same. As a result, surrender becomes contagious across battles, as soldiers take cues from what other soldiers had done when they were in a similar position. Where no recent precedent exists, mass surrender is unlikely. We find empirical support for this claim using a new dataset of conventional battles in all interstate wars from 1939 to 2011. These findings advance our understanding of battlefield resolve, with broader implications for the design of political-military institutions and decisions to initiate, continue, and terminate war.
-</details>
-
-### Invisible Digital Front: Can Cyber Attacks Shape Battlefield Events?
-<img src="../images/jcr.gif" alt="" width="15" height="20"/> Kostyuk, Nadiya and Yuri M. Zhukov. "Invisible Digital Front: Can Cyber Attacks Shape Battlefield Events?" <em>Journal of Conflict Resolution</em> 63, no. 2 (2019): 317-347. <a href="https://doi.org/10.1177/0022002717737138">doi.org/10.1177/0022002717737138</a>
-<br/>
-[Download offprint](../files/2019_KZ_JCR.pdf) | [Publisher's version](https://doi.org/10.1177/0022002717737138) | [Appendix 1](../files/2019_KZ_JCR_appendix1.pdf) | [Appendix 2](../files/2019_KZ_JCR_appendix2.pdf) | [Replication code and data](https://journals.sagepub.com/doi/suppl/10.1177/0022002717737138/suppl_file/jcr-17-0021.r2_replication.zip)
-<br/>
-
-<details>
-  <summary>Abstract</summary>
-  
-  Recent years have seen growing concern over the use of cyber attacks in wartime, but little evidence that these new tools of coercion can change battlefield events. We present the first quantitative analysis of the relationship between cyber activities and physical violence during war. Using new event data from the armed conflict in Ukraine -- and additional data from Syria's civil war -- we analyze the dynamics of cyber attacks, and find that such activities have had little or no impact on fighting. In Ukraine -- one of the first armed conflicts where both sides deployed such tools extensively -- cyber activities failed to compel discernible changes in battlefield behavior. Indeed, hackers on both sides have had difficulty responding to battlefield events, much less shaping them. An analysis of conflict dynamics in Syria produces similar results: the timing of cyber actions is independent of fighting on the ground. Our finding -- that cyber attacks are not (yet) effective as tools of coercion in war -- has potentially significant implications for other armed conflicts with a digital front.
-</details>
-
-### NATO's Mediterranean Mission: What the Alliance is Doing in the Aegean Sea
-<img src="../images/fa.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M. "NATO's Mediterranean Mission: What the Alliance is Doing in the Aegean Sea". <em>Foreign Affairs</em>, 2016.
-<br/>
-[Publisher's version](https://www.foreignaffairs.com/articles/europe/2016-02-21/natos-mediterranean-mission)
-<br/>
-
-<details>
-  <summary>Abstract</summary>
-  
-  NATO's response to the migrant crisis has been met with criticism on both humanitarian and utilitarian grounds. The first critique is that military efforts to slow or reverse the refugee flow will lead to unnecessary human suffering. The second critique is that NATO's operation will do little or nothing to deter people-smuggling, and may even encourage more of it. In fact, the operation's humanitarian impact is unlikely to be as dire as skeptics predict. Doubts about NATO's ability to stem illegal migration, however, will linger for some time—unless the alliance significantly expands the scope of its new mission.
-</details>
-
-### Egypt's Gift from God: What the Discovery of Offshore Gas Means for Cairo
-<img src="../images/fa.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M. "Egypt's Gift from God: What the Discovery of Offshore Gas Means for Cairo". <em>Foreign Affairs</em>, 2015.
-<br/>
-[Publisher's version](https://www.foreignaffairs.com/articles/cyprus/2015-09-23/egypts-gift-god)
-<br/>
-
-<details>
-  <summary>Abstract</summary>
-  
-  On August 30, the Italian state-controlled energy company Eni announced the discovery of a "supergiant" gas field off the coast of Egypt. According to initial assessments, the Zohr field contains 30 trillion cubic feet (Tcf) of natural gas (equivalent to 5.5 billion barrels of oil), making it the largest ever discovery of gas in the Mediterranean. This is welcome news for Egypt's struggling economy and fragile political situation. It also creates new challenges and opportunities for the country's neighbors and for outside powers such as Vladimir Putin's Russia. Additionally, it provides powerful economic incentives for Cypriot reunification. As the United States takes stock of what Egypt's good fortune means for the region, it should find much cause for celebration.
-</details>
-
-### More Trouble in the Eastern Mediterranean: U.S. Intervention or Not, the Sea is Already Boiling
-<img src="../images/fa.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M. "More Trouble in the Eastern Mediterranean: U.S. Intervention or Not, the Sea is Already Boiling". <em>Foreign Affairs</em>, 2013.
-<br/>
-[Publisher's version](http://www.foreignaffairs.com/articles/139900/yuri-m-zhukov/more-trouble-in-the-eastern-mediterranean)
-<br/>
-
-<details>
-  <summary>Abstract</summary>
-  
-  So far, public debate about the intervention in Syria has centered on the immediate scope and aims of any U.S.-led military operation, and whether the U.S. Congress should be involved. But no matter how the possible intervention and its aftermath play out, one thing is certain: the eastern Mediterranean -- where exploratory drilling has unearthed vast reserves of natural gas, and where competition over the rights to tap those resources is already fierce -- will become less stable.
-</details>
-
-### Cyprus and Russia Did Not Just Break Up: Why Moscow Is Playing the Long Game on the Island of Aphrodite
-<img src="../images/fa.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M. "Cyprus and Russia Did Not Just Break Up: Why Moscow Is Playing the Long Game on the Island of Aphrodite". <em>Foreign Affairs</em>, 2013.
-<br/>
-[Publisher's version](http://www.foreignaffairs.com/articles/139090/yuri-m-zhukov/cyprus-and-russia-did-not-just-break-up)
-<br/>
-
-<details>
-  <summary>Abstract</summary>
-  
-  Russia recently turned down a deal to save Cyprus' banking sector. At first glance, the move looked like a huge strategic blunder. In fact, a credible offer was never on the table and Moscow needs no accord to secure its dominance on the island.
-</details>
-
-### Trouble in the Eastern Mediterranean Sea: The Coming Dash for Gas
-<img src="../images/fa.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M. "Trouble in the Eastern Mediterranean Sea: The Coming Dash for Gas". <em>Foreign Affairs</em>, 2013.
-<br/>
-[Publisher's version](http://www.foreignaffairs.com/articles/139069/yuri-m-zhukov/trouble-in-the-eastern-mediterranean-sea) |
-<br/>
-
-<details>
-  <summary>Abstract</summary>
-  
-  Exploratory drilling near the coasts of Cyprus, Egypt, Israel, Lebanon, Syria, and Turkey has unearthed vast reserves of natural gas. Competition over the rights to tap those resources is compounding existing tensions over sovereignty and maritime borders. The eastern Mediterranean is quickly becoming as volatile as its eastern cousin, the South China Sea.
-</details>
-
-### Use of Force and Civil-Military Relations in Russia: An Automated Content Analysis
-<img src="../images/swi.jpg" alt="" width="15" height="20"/> Stewart, Brandon M, and Yuri M Zhukov. "Use of Force and Civil-Military Relations in Russia: An Automated Content Analysis". <em>Small Wars and Insurgencies</em> 20, no. 2 (2009): 319-343.
-<br/>
-[Download offprint](../files/2009_SZ_SWI.pdf) | [Replication code and data](http://dx.doi.org/10.7910/DVN/23111)
-<br/>
-
-<details>
-  <summary>Abstract</summary>
-  
-  Russia's intervention in the Georgian-South Ossetian conflict has highlighted the need to rigorously examine trends in the public debate over the use of force in Russia. Approaching this debate through the prism of civil-military relations, we take advantage of recent methodological advances in automated content analysis and generate a new dataset of 8000 public statements made by Russia's political and military leaders during the Putin period. The data show little evidence that military elites exert a restraining influence on Russian foreign and defence policy. Although more hesitant than their political counterparts to embrace an interventionist foreign policy agenda, Russian military elites are considerably more activist in considering the use of force as an instrument of foreign policy.
-</details>
-
-### The Cold War at Sea: An International Appraisal
-<img src="../images/jss.jpg" alt="" width="15" height="20"/> Goldstein, Lyle J, John B Hattendorf, and Yuri M Zhukov. "The Cold War at Sea: An International Appraisal". <em>The Journal of Strategic Studies</em> 28, no. 2 (2005): 151-156. <a href="http://dx.doi.org/10.1080/01402390500088221">dx.doi.org/10.1080/01402390500088221</a>
-<br/>
-[Download offprint](../files/2005_GHZ_JSS.pdf) | [Publisher's version](http://dx.doi.org/10.1080/01402390500088221) 
-<br/>
-
-### The Evolution of the U.S. Navy's Maritime Strategy in the Context of Major Political and Military Events of the Cold War, 1964–1991
-<img src="../images/nwc-np-19.jpg" alt="" width="15" height="20"/> Zhukov, Yuri M, and John B Hattendorf. "The Evolution of the U.S. Navy's Maritime Strategy in the Context of Major Political and Military Events of the Cold War, 1964–1991". In <em>The Evolution of the U.S. Navy's Maritime Strategy</em>, 1977- 1986. Vol. 19. Newport, RI: Naval War College Press, 2004.
-<br/>
-[Download offprint](../files/2004_ZH_NWC.pdf)
-<br/>
-
-<!-- ### Addressing Pipeline Security Challenges in Russia
-<img src="../images/" alt="" width="15" height="20"/> Zhukov, Yuri M. "Addressing Pipeline Security Challenges in Russia". <em>Eurasianet.org</em>, 2006.
-<br/>
-| [Download offprint](http://scholar.harvard.edu/zhukov/publications/addressing-pipeline-security-challenges-russia) | 
-<br/>
- -->
-### A Tale of Two Fleets: a Russian Perspective on the 1973 Naval Standoff in the Mediterranean
-<img src="../images/nwcr.jpg" alt="" width="15" height="20"/> Goldstein, Lyle J, and Yuri M Zhukov. "A Tale of Two Fleets: a Russian Perspective on the 1973 Naval Standoff in the Mediterranean". <em>Naval War College Review</em> 58, no. 2 (2004): 27-63.
-<br/>
-[Download offprint](../files/2004_GZ_NWCR.pdf)
-<br/>
-
-### Superpower Showdown in the Mediterranean 1973
-Goldstein, Lyle J, and Yuri M Zhukov. "Superpower Showdown in the Mediterranean 1973". <em>Sea Power</em>, 2003.
-<!-- <br/>
-| [Download offprint](http://scholar.harvard.edu/zhukov/publications/superpower-showdown-mediterranean-1973) | 
-<br/>
- -->
 
 ---
 ## Sexual Violence {#sexual}
