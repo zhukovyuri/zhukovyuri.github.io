@@ -56,6 +56,17 @@ author_profile: true
   We utilize over 100 million declassified Red Army personnel records from World War II to study how state repression shapes soldiers' motivation to exert effort in fighting. Exploiting multiple complementary identification strategies, we find that soldiers from places with higher levels of pre-war repression under Stalin’s rule were more likely to fight until death and less likely to shirk their duties, but they also received fewer decorations for personal bravery. The coercive incentives created by repression appear to have induced obedience at the expense of initiative and increased the human costs of war.
 </details>
 
+### Near-Real Time Analysis of War and Economic Activity during Russia's Invasion of Ukraine
+<img src="../images/JCE.gif" alt="" width="15" height="20"/> Zhukov, Yuri M. "Near-Real Time Analysis of War and Economic Activity during Russia’s Invasion of Ukraine." <i>Journal of Comparative Economics</i> 51, no. 4 (2023): 1232-1243. <a href="https://doi.org/10.1016/j.jce.2023.06.003">doi.org/10.1016/j.jce.2023.06.003</a>
+<br/>
+[Download offprint](../files/2023_Zhukov_JCE.pdf) | [Publisher's version](https://doi.org/10.1016/j.jce.2023.06.003) | [Appendix](../files/2023_Zhukov_JCE_appendix.pdf) | [Replication code and data]()
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  This paper introduces new near-real time data on Russia's full-scale invasion of Ukraine, and uses these data to investigate the short-term impact of occupation and violence on local economic activity. The data project -- VIINA (Violent Incident Information from News Articles) -- scrapes and parses news reports from Ukrainian and Russian media, georeferences them, and classifies them into standard event categories (e.g. air raid alert, artillery shelling) through machine learning. We show that VIINA has more comprehensive geographic coverage and more thorough documentation than any other open-source time event tracking system on Ukraine, and is the only such effort that includes information on territorial control. To illustrate potential applications of these data for research on political economy, we utilize remote sensing data on luminosity and vegetation as proxies for urban economic activity and agricultural land use. We find that economic activity declined most in urban areas that neither side fully controlled, and in places where artillery shelling was more intense. Contested territories also experienced a significant short-term decline in vegetation. Areas under Russian occupation, however, remained largely insulated from these negative shocks.
+</details>
 
 ### Until the Bitter End? The Diffusion of Surrender Across Battles
 <img src="../images/IO.jpg" alt="" width="15" height="20"/> Lehmann, Todd and Yuri M. Zhukov. "Until the Bitter End? The Diffusion of Surrender Across Battles." <em>International Organization</em> 73, no. 1 (2019): 133-169. <a href="https://doi.org/10.1017/S0020818318000358">doi.org/10.1017/S0020818318000358</a>
@@ -254,17 +265,6 @@ Goldstein, Lyle J, and Yuri M Zhukov. "Superpower Showdown in the Mediterranean 
 ## Dynamics of Violence {#dynamics}
 <a href="#pubtop">&#8593; back to top</a>
 
-### Near-Real Time Analysis of War and Economic Activity during Russia's Invasion of Ukraine
-<img src="../images/JCE.gif" alt="" width="15" height="20"/> Zhukov, Yuri M. "Near-Real Time Analysis of War and Economic Activity during Russia’s Invasion of Ukraine." <i>Journal of Comparative Economics</i> 51, no. 4 (2023): 1232-1243. <a href="https://doi.org/10.1016/j.jce.2023.06.003">doi.org/10.1016/j.jce.2023.06.003</a>
-<br/>
-[Download offprint](../files/2023_Zhukov_JCE.pdf) | [Publisher's version](https://doi.org/10.1016/j.jce.2023.06.003) | [Appendix](../files/2023_Zhukov_JCE_appendix.pdf) | [Replication code and data]()
-<br/>
-
-<details>
-  <summary>Abstract</summary>
-  
-  This paper introduces new near-real time data on Russia's full-scale invasion of Ukraine, and uses these data to investigate the short-term impact of occupation and violence on local economic activity. The data project -- VIINA (Violent Incident Information from News Articles) -- scrapes and parses news reports from Ukrainian and Russian media, georeferences them, and classifies them into standard event categories (e.g. air raid alert, artillery shelling) through machine learning. We show that VIINA has more comprehensive geographic coverage and more thorough documentation than any other open-source time event tracking system on Ukraine, and is the only such effort that includes information on territorial control. To illustrate potential applications of these data for research on political economy, we utilize remote sensing data on luminosity and vegetation as proxies for urban economic activity and agricultural land use. We find that economic activity declined most in urban areas that neither side fully controlled, and in places where artillery shelling was more intense. Contested territories also experienced a significant short-term decline in vegetation. Areas under Russian occupation, however, remained largely insulated from these negative shocks.
-</details>
 
 ### Repression Works (just not in moderation)
 <img src="../images/CPS.jpg" alt="CPS" width="15" height="20"/> Zhukov, Yuri M. "Repression Works (just not in moderation)." <em>Comparative Political Studies</em> 56, no. 11 (2023): 1663-1694. <a href="https://doi.org/10.1177/00104140231152778">doi.org/10.1177/00104140231152778</a>
