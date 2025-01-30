@@ -49,13 +49,14 @@ National Science Foundation RIDIR Grant (SES-1925693).
 ### Repressed Memories: State Terror and the Street Politics of Memorialization
 Zhukov, Yuri M. "Repressed Memories: State Terror and the Street Politics of Memorialization." Working paper, 2024.
 <br/>
-[Download PDF](../files/2024_Zhukov_recordame_v2.pdf)
+[Download PDF](../files/2025_Zhukov_recordame_v3.pdf)
 <br/>
 
 <details>
   <summary>Abstract</summary>
   
-  Why do some victims of state repression become memorialized, while others do not? Public "places of memory,"" like monuments, museums and street signs, are contested political spaces, where efforts to expose and confront historical traumas clash with efforts to advance and legitimate political power. Street-level data on Stalin's Great Terror and contemporary public memorials in Moscow show that memorials to victims are most likely to appear -- and are hardest to remove -- in locations where repression was initially more severe and indiscriminate. Soviet authorities sometimes used mass arrests --- charging multiple individuals from the same residential building or workplace for the same (usually fictitious) offense --- to simplify paperwork and quickly meet execution and arrest quotas. Decades later, victims of these mass killings are disproportionately likely to receive posthumous recognition. "Solitary" victims of state repression are more likely to be forgotten. We show this result through multiple estimation strategies, at multiple levels of analysis. We explore how this ``severity effect'' varies by victims' ethnicity, political affiliation, and the local presence of state security services today. The larger the act of violence, the harder it is to conceal.
+Why do some victims of state repression become memorialized, while others do not? Public "places of memory," like monuments, museums and street signs, are contested political spaces, where efforts to expose and confront historical traumas clash with efforts to advance and legitimate political power. Street-level data on Stalin's Great Terror and contemporary public memorials in Moscow show that memorials to victims are most likely to appear --- and are hardest to remove --- in locations where repression was initially more severe. Where the cumulative death toll from repression is higher (e.g. where Soviet authorities charged multiple individuals from the same residential building or workplace for the same, usually fictitious, offense), there are generally more memorials to victims. However, the strength of this "severity effect" is not uniform. It varies by victims' ethnicity, political affiliation, and the local presence of state security services today. Larger acts of violence are harder to conceal. Yet memorialization depends not only on the supply of victims, but also on victims' identities, and the proximity of historical repression to contemporary bastions of power.
+
 </details>
 
 ### Is Military Victory Possible?
