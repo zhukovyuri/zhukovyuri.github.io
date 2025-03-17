@@ -2916,15 +2916,15 @@ div.tocify {
 <li><em>Get a second opinion</em>, by asking a different AI “expert” an identical set of questions.</li>
 </ol></li>
 </ul>
-<p>Specifically, we will be using six “flavors” of Perplexity.ai’s search, for each country-year:</p>
+<p>Specifically, we will be using three “flavors” of Perplexity.ai’s search, for each country-year:</p>
 <ol style="list-style-type: decimal">
-<li><strong>Perplexity“Auto” search, with web and academic sources</strong>. Perplexity’s “Auto” search utilizes an ensemble of models, including its proprietary LLMs (<code>pplx-7b-online</code>, <code>pplx-70b-online</code>, which are fine-tuned versions of open-source models like <code>Mistral-7b</code> and <code>Llama2-70b</code>), and external models like OpenAI’s GPT-4 and Anthropic’s Claude 3. It prioritizes speed over deep reasoning by using lightweight computations and summarizing information from (mainly) indexed sources.</li>
-<li><strong>Perplexity “Auto” search, academic sources only</strong>. Same as above, but using only materials derived from scholarly databases, peer-reviewed journals, scientific publications, and other reputable academic resources.</li>
+<li><strong>Perplexity“Auto” search, with web and academic sources</strong>. Perplexity’s “Auto” search utilizes an ensemble of models, including its proprietary LLMs (<code>pplx-7b-online</code>, <code>pplx-70b-online</code>, which are fine-tuned versions of open-source models like <code>Mistral-7b</code> and <code>Llama2-70b</code>), and external models like OpenAI’s GPT-4 and Anthropic’s Claude 3. It prioritizes speed over deep reasoning by using lightweight computations and summarizing information from (mainly) indexed sources. <!-- 2. **Perplexity "Auto" search, academic sources only**. Same as above, but using only materials derived from scholarly databases, peer-reviewed journals, scientific publications, and other reputable academic resources.  --></li>
 <li><strong>OpenAI’s <code>o3-mini</code>, with web and academic sources</strong>. This model is designed for advanced reasoning tasks, like solving STEM problems, coding challenges, and scientific inquiries, and integrates real-time web search to provide up-to-date answers.</li>
-<li><strong>OpenAI’s <code>o3-mini</code>, academic sources only</strong>.</li>
-<li><strong>DeepSeek’s <code>R1</code>, with web and academic sources</strong>. DeepSeek’s model for analytical and research-intensive tasks, which has a different architecture from <code>o3-mini</code>. Perplexity hosts this model on U.S. servers, which helps ensure legal data and privacy protections, and mitigates risks of unauthorized access or surveillance by foreign entities like China.</li>
-<li><strong>DeepSeek’s <code>R1</code>, academic sources only</strong>.</li>
+<li><strong>Anthropic’s <code>Claude 3.7 Sonnet</code>, with web and academic sources</strong>. This is Anthropic’s latest model released in February/March 2025. It integrates standard language model functionality with advanced reasoning capabilities, and has a more recent knowledge cutoff than <code>o3-mini</code> (2024 vs. 2023).</li>
 </ol>
+<!-- 4. **OpenAI's `o3-mini`, academic sources only**.  -->
+<!-- 5. **DeepSeek's `R1`, with web and academic sources**. DeepSeek's model for analytical and research-intensive tasks, which has a different architecture from `o3-mini`. Perplexity hosts this model on U.S. servers, which helps ensure legal data and privacy protections, and mitigates risks of unauthorized access or surveillance by foreign entities like China.  -->
+<!-- 4. **DeepSeek's `R1`, academic sources only**.  -->
 <p>For each country and year, and each model/search, the <strong>deliverables</strong> include 2 files:</p>
 <!-- 1. Response to coding protocol in plain text 
    - file name: `[ISO3 country code]_[year]_[model]_[types of sources].txt` -->
@@ -2938,21 +2938,15 @@ div.tocify {
 <li>file name: <code>[ISO3 country code]_[year]_[model]_[types of sources].bib</code></li>
 </ul></li>
 </ol>
-<p>ISO3 country codes are listed in the spreadsheet <code>wicr_tracker.csv</code> in <code>YZRA/Data/WICR/</code> (or on the web: <a href="https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes"><code>en.wikipedia.org/wiki/List_of_ISO_3166_country_codes</code></a>). For model names, we will simply put “Perplexity” (for “Auto” search), “OpenAI” (for <code>o3-mini</code>) or “DeepSeek” (for <code>R1</code>). For “types of sources” we will use “webaca” to denote “web and academic sources” and “aca” for “academic only”.</p>
-<p>There should be 12 files for each country-year. For example, for Argentina in 1982:</p>
+<p>ISO3 country codes are listed in the spreadsheet <code>wicr_tracker.csv</code> in <code>YZRA/Data/WICR/</code> (or on the web: <a href="https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes"><code>en.wikipedia.org/wiki/List_of_ISO_3166_country_codes</code></a>). For model names, we will put “Perplexity” (for “Auto” search), “o3mini” (for OpenAI’s <code>o3-mini</code>) or “Claude37” (for Anthropic’s <code>Claude 3.7 Sonnet</code>). For “types of sources” we will use “webaca” to denote “web and academic sources” and “aca” for “academic only”.</p>
+<p>There should be 6 files for each country-year. For example, for Argentina in 1982:</p>
 <ul>
 <li><code>ARG_1982_Perplexity_webaca.md</code></li>
-<li><code>ARG_1982_Perplexity_webaca.bib</code></li>
-<li><code>ARG_1982_Perplexity_aca.md</code></li>
-<li><code>ARG_1982_Perplexity_aca.bib</code></li>
-<li><code>ARG_1982_OpenAI_webaca.md</code></li>
-<li><code>ARG_1982_OpenAI_webaca.bib</code></li>
-<li><code>ARG_1982_OpenAI_aca.md</code></li>
-<li><code>ARG_1982_OpenAI_aca.bib</code></li>
-<li><code>ARG_1982_DeepSeek_webaca.md</code></li>
-<li><code>ARG_1982_DeepSeek_webaca.bib</code></li>
-<li><code>ARG_1982_DeepSeek_aca.md</code></li>
-<li><code>ARG_1982_DeepSeek_aca.bib</code></li>
+<li><code>ARG_1982_Perplexity_webaca.bib</code> <!-- - `ARG_1982_Perplexity_aca.md` --> <!-- - `ARG_1982_Perplexity_aca.bib` --></li>
+<li><code>ARG_1982_o3mini_webaca.md</code></li>
+<li><code>ARG_1982_o3mini_webaca.bib</code> <!-- - `ARG_1982_OpenAI_aca.md` --> <!-- - `ARG_1982_OpenAI_aca.bib` --></li>
+<li><code>ARG_1982_Claude37_webaca.md</code></li>
+<li><code>ARG_1982_Claude37_webaca.bib</code> <!-- - `ARG_1982_DeepSeek_aca.md` --> <!-- - `ARG_1982_DeepSeek_aca.bib` --></li>
 </ul>
 <p>These files are provided as examples in the <code>YZRA/Data/WICR/Processed</code> folder.</p>
 <p>The following instructions explain the workflow step-by-step.</p>
@@ -3169,57 +3163,49 @@ available) for academic, government or journalistic sources that can substantiat
 <li>Be sure not to overwrite any of the other files you created for the country-year.</li>
 </ul></li>
 </ol>
+<!-- ---
+
+## 6. Repeat Steps 2-5 with Academic Sources Only
+
+1. **Start a New Thread**, as described in Step 2, but *keeping the same country and year*.
+2. In Step 2.4, select only **Academic Sources** in the source filters menu.
+3. Repeat Steps 2-5 as described, but modifying the file names as follows to reflect the change:
+   - `[ISO3 country code]_[year]_Perplexity_aca.md`
+   - `[ISO3 country code]_[year]_Perplexity_aca.bib` -->
+<p><!-- - `[ISO3 country code]_[year]_Perplexity_aca.txt` --></p>
 <hr />
 </div>
-<div id="repeat-steps-2-5-with-academic-sources-only" class="section level2">
-<h2>6. Repeat Steps 2-5 with Academic Sources Only</h2>
-<ol style="list-style-type: decimal">
-<li><strong>Start a New Thread</strong>, as described in Step 2, but <em>keeping the same country and year</em>.</li>
-<li>In Step 2.4, select only <strong>Academic Sources</strong> in the source filters menu.</li>
-<li>Repeat Steps 2-5 as described, but modifying the file names as follows to reflect the change:
-<ul>
-<li><code>[ISO3 country code]_[year]_Perplexity_aca.md</code></li>
-<li><code>[ISO3 country code]_[year]_Perplexity_aca.bib</code> <!-- - `[ISO3 country code]_[year]_Perplexity_aca.txt` --></li>
-</ul></li>
-</ol>
-<hr />
-</div>
-<div id="repeat-steps-2-6-with-openais-o3-mini-model" class="section level2">
-<h2>7. Repeat Steps 2-6 with OpenAI’s o3-Mini Model</h2>
+<div id="repeat-steps-2-5-with-openais-o3-mini-model" class="section level2">
+<h2>6. Repeat Steps 2-5 with OpenAI’s o3-Mini Model</h2>
 <ol style="list-style-type: decimal">
 <li><strong>Start a New Thread</strong>, as described in Step 2, but <em>keeping the same country and year</em>.</li>
 <li><strong>Switch Model</strong>:
 <ul>
-<li>In Step 2.4, change model to “Reasoning with o3-Mini” using the model selector at the top of Perplexity’s interface.</li>
-<li>Note that this model runs much more slowly than the “Auto” search.</li>
+<li>In Step 2.4, change model to “o3-Mini” using the model selector at the top of Perplexity’s interface (select <code>Reasoning</code> and then <code>o3-mini</code> in the second drop-down menu).</li>
+<li>Note that this model runs more slowly than the “Auto” search.</li>
 </ul></li>
-<li>Repeat Steps 2-6 using this model, running this once with web<span class="math inline">\(+\)</span>academic sources and once with academic sources only.</li>
-<li>Four new files should be generated at the end of this process: <!-- - `[ISO3 country code]_[year]_OpenAI_webaca.txt` -->
+<li>Repeat Steps 2-5 using this model, with web<span class="math inline">\(+\)</span>academic sources.</li>
+<li>Two new files should be generated at the end of this process: <!-- - `[ISO3 country code]_[year]_OpenAI_webaca.txt` -->
 <ul>
-<li><code>[ISO3 country code]_[year]_OpenAI_webaca.md</code></li>
-<li><code>[ISO3 country code]_[year]_OpenAI_webaca.bib</code> <!-- - `[ISO3 country code]_[year]_OpenAI_aca.txt` --></li>
-<li><code>[ISO3 country code]_[year]_OpenAI_aca.md</code></li>
-<li><code>[ISO3 country code]_[year]_OpenAI_aca.bib</code></li>
+<li><code>[ISO3 country code]_[year]_o3mini_webaca.md</code></li>
+<li><code>[ISO3 country code]_[year]_o3mini_webaca.bib</code> <!-- - `[ISO3 country code]_[year]_OpenAI_aca.txt` --> <!-- - `[ISO3 country code]_[year]_OpenAI_aca.md` --> <!-- - `[ISO3 country code]_[year]_OpenAI_aca.bib` --></li>
 </ul></li>
 </ol>
 <hr />
 </div>
-<div id="repeat-steps-2-6-with-deepseeks-r1-model" class="section level2">
-<h2>8. Repeat Steps 2-6 with DeepSeek’s R1 Model</h2>
+<div id="repeat-steps-2-5-with-anthropics-claude-3.7-sonnet-model" class="section level2">
+<h2>7. Repeat Steps 2-5 with Anthropic’s Claude 3.7 Sonnet Model</h2>
 <ol style="list-style-type: decimal">
 <li><strong>Start a New Thread</strong>, as described in Step 2, but <em>keeping the same country and year</em>.</li>
 <li><strong>Switch Model</strong>:
 <ul>
-<li>In Step 2.4, change model to “Reasoning with R1” using the model selector at the top of Perplexity’s interface.</li>
-<li>Note that this model runs even slower than <code>o3-mini</code>.</li>
+<li>In Step 2.4, change model to “Claude 3.7 Sonnet” using the model selector at the top of Perplexity’s interface (select <code>Reasoning</code> and then <code>o3-mini</code> in the second drop-down menu). <!-- - Note that this model runs even slower than `o3-mini`. --></li>
 </ul></li>
-<li>Repeat Steps 2-6 using this model, running this once with web<span class="math inline">\(+\)</span>academic sources and once with academic sources only.</li>
-<li>Four new files should be generated at the end of this process: <!-- - `[ISO3 country code]_[year]_DeepSeek_webaca.txt` -->
+<li>Repeat Steps 2-5 using this model, with web<span class="math inline">\(+\)</span>academic sources.</li>
+<li>Two new files should be generated at the end of this process: <!-- - `[ISO3 country code]_[year]_DeepSeek_webaca.txt` -->
 <ul>
-<li><code>[ISO3 country code]_[year]_DeepSeek_webaca.md</code></li>
-<li><code>[ISO3 country code]_[year]_DeepSeek_webaca.bib</code> <!-- - `[ISO3 country code]_[year]_DeepSeek_aca.txt` --></li>
-<li><code>[ISO3 country code]_[year]_DeepSeek_aca.md</code></li>
-<li><code>[ISO3 country code]_[year]_DeepSeek_aca.bib</code></li>
+<li><code>[ISO3 country code]_[year]_Claude37_webaca.md</code></li>
+<li><code>[ISO3 country code]_[year]_Claude37_webaca.bib</code> <!-- - `[ISO3 country code]_[year]_DeepSeek_aca.txt` --> <!-- - `[ISO3 country code]_[year]_DeepSeek_aca.md` --> <!-- - `[ISO3 country code]_[year]_DeepSeek_aca.bib` --></li>
 </ul></li>
 </ol>
 <hr />
