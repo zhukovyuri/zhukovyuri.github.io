@@ -201,6 +201,21 @@ Goldstein, Lyle J, and Yuri M Zhukov. "Superpower Showdown in the Mediterranean 
 <a href="#pubtop">&#8593; back to top</a>
 
 
+
+### Repressed Memories: State Terror and the Street Politics of Memorialization
+<img src="../images/World_politics.gif" alt="WP" width="15" height="20"/> Zhukov, Yuri M. "Repressed Memories: State Terror and the Street Politics of Memorialization". <em>Journal of Politics</em> (forthcoming). <a href="https://doi.org/10.1086/738504">doi.org/10.1086/738504</a>
+
+<br/>
+[Download preprint](../files/2025_Zhukov_JOP.pdf) | [Publisher's version](https://www.journals.uchicago.edu/doi/10.1086/738504) | [Replication code and data](https://qa.dataverse.org/dataverse/jop)
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  Why do some victims of state repression become memorialized, while others do not? Public "places of memory,"" like monuments, museums and street signs, are contested political spaces, where efforts to expose and confront historical traumas clash with efforts to advance and legitimate power. Street-level data on Stalin's Great Terror and contemporary memorials in Moscow show that memorials to victims are likeliest to appear -- and are hardest to remove -- in locations where the cumulative death toll from repression was higher (e.g. where authorities executed multiple individuals from the same building or workplace for the same, usually fictitious, offense). The strength of this "severity effect" varies by victims' ethnicity, political affiliation, and local state security presence. Larger acts of violence are harder to hide. Yet memorialization depends not only on the supply of victims, but also on victims' identities, and the proximity of historical repression to contemporary bastions of power.
+</details>
+
+
 ### Never Again: The Holocaust and Political Legacies of Genocide
 <img src="../images/World_politics.gif" alt="WP" width="15" height="20"/> Wayne, Carly and Yuri M. Zhukov. "Never Again: The Holocaust and Political Legacies of Genocide". <em>World Politics</em> 74, no. 3 (2022): 1-38. <a href="https://doi.org/10.1017/S0043887122000053">doi.org/10.1017/S0043887122000053</a>
 <br/>
