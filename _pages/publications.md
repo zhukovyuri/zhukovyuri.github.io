@@ -35,7 +35,7 @@ author_profile: true
 ### Fratricidal Coercion in Modern War
 <img src="../images/IO.jpg" alt="" width="15" height="20"/> Lyall, Jason, and Yuri M. Zhukov. "Fratricidal Coercion in Modern War." <em>International Organization</em> 79, no. 1 (2025): 173-192. <a href="https://doi.org/10.1017/S002081832400033X">doi.org/10.1017/S002081832400033X</a>
 <br/>
-[Download PDF](../files/2025_LyallZhukov.pdf) | [Publisher's version](https://doi.org/10.1017/S002081832400033X) | [Appendix](../files/2024_LyallZhukov_appendix.pdf) | [Replication code and data](https://doi.org/10.7910/DVN/914AN0)
+[Download offprint](../files/2025_LyallZhukov.pdf) | [Publisher's version](https://doi.org/10.1017/S002081832400033X) | [Appendix](../files/2024_LyallZhukov_appendix.pdf) | [Replication code and data](https://doi.org/10.7910/DVN/914AN0)
 <br/>
 
 <details>
@@ -47,7 +47,7 @@ author_profile: true
 ### Fighting for Tyranny: State Repression and Combat Motivation
 <img src="../images/aej.jpg" alt="WP" width="15" height="20"/> Rozenas, Arturas, Roya Talibova and Yuri M. Zhukov. "Fighting for Tyranny: State Repression and Combat Motivation." <em>American Economic Journal: Applied Economics</em> 16, no. 3 (2024): 44-75. <a href="https://doi.org/10.1257/app.20220085">doi.org/10.1257/app.20220085</a>
 <br/>
-[Download preprint](../files/2023_RTZ.pdf) | [Publisher's version](https://doi.org/10.1257/app.20220085) | [Appendix](../files/2023_RTZ_appendix.pdf) | [Replication code and data](https://codeocean.com/capsule/8e4ad43e-639a-4dbc-aab1-241ff4086537/)
+[Download offprint](../files/2023_RTZ.pdf) | [Publisher's version](https://doi.org/10.1257/app.20220085) | [Appendix](../files/2023_RTZ_appendix.pdf) | [Replication code and data](https://codeocean.com/capsule/8e4ad43e-639a-4dbc-aab1-241ff4086537/)
 <br/>
 
 <details>
@@ -204,7 +204,6 @@ Goldstein, Lyle J, and Yuri M Zhukov. "Superpower Showdown in the Mediterranean 
 
 ### Repressed Memories: State Terror and the Street Politics of Memorialization
 <img src="../images/World_politics.gif" alt="WP" width="15" height="20"/> Zhukov, Yuri M. "Repressed Memories: State Terror and the Street Politics of Memorialization". <em>Journal of Politics</em> (forthcoming). <a href="https://doi.org/10.1086/738504">doi.org/10.1086/738504</a>
-
 <br/>
 [Download preprint](../files/2025_Zhukov_JOP.pdf) | [Publisher's version](https://www.journals.uchicago.edu/doi/10.1086/738504) | [Replication code and data](https://qa.dataverse.org/dataverse/jop)
 <br/>
