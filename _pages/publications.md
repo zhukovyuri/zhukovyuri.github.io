@@ -33,9 +33,9 @@ author_profile: true
 
 
 ### Fratricidal Coercion in Modern War
-<img src="../images/IO.jpg" alt="" width="15" height="20"/> Lyall, Jason, and Yuri M. Zhukov. "Fratricidal Coercion in Modern War." <em>International Organization</em>, forthcoming.
+<img src="../images/IO.jpg" alt="" width="15" height="20"/> Lyall, Jason, and Yuri M. Zhukov. "Fratricidal Coercion in Modern War." <em>International Organization</em> 79, no. 1 (2025): 173-192. <a href="https://doi.org/10.1017/S002081832400033X">doi.org/10.1017/S002081832400033X</a>
 <br/>
-[Download PDF](../files/2025_LyallZhukov.pdf) | [Appendix](../files/2024_LyallZhukov_appendix.pdf)
+[Download PDF](../files/2025_LyallZhukov.pdf) | [Publisher's version](https://doi.org/10.1017/S002081832400033X) | [Appendix](../files/2024_LyallZhukov_appendix.pdf) | [Replication code and data](https://doi.org/10.7910/DVN/914AN0)
 <br/>
 
 <details>
