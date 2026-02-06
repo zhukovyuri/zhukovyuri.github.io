@@ -47,15 +47,15 @@ National Science Foundation RIDIR Grant (SES-1925693).
 
 
 ### Repressed Memories: State Terror and the Street Politics of Memorialization
-Zhukov, Yuri M. "Repressed Memories: State Terror and the Street Politics of Memorialization." Working paper, 2024.
+Kristofers Krumins and Yuri M. Zhukov. "Local Political Economy of Foreign Military Withdrawal." Working paper, 2026.
 <br/>
-[Download PDF](../files/2025_Zhukov_recordame_v3.pdf)
+[Download PDF](../files/20260205_KruminsZhukov_Baza.pdf)
 <br/>
 
 <details>
   <summary>Abstract</summary>
   
-Why do some victims of state repression become memorialized, while others do not? Public "places of memory," like monuments, museums and street signs, are contested political spaces, where efforts to expose and confront historical traumas clash with efforts to advance and legitimate political power. Street-level data on Stalin's Great Terror and contemporary public memorials in Moscow show that memorials to victims are most likely to appear --- and are hardest to remove --- in locations where repression was initially more severe. Where the cumulative death toll from repression is higher (e.g. where Soviet authorities charged multiple individuals from the same residential building or workplace for the same, usually fictitious, offense), there are generally more memorials to victims. However, the strength of this "severity effect" is not uniform. It varies by victims' ethnicity, political affiliation, and the local presence of state security services today. Larger acts of violence are harder to conceal. Yet memorialization depends not only on the supply of victims, but also on victims' identities, and the proximity of historical repression to contemporary bastions of power.
+How do geopolitical shocks affect local politics? We examine foreign military base closures as discrete geopolitical events that simultaneously restore national sovereignty while disrupting local economies. We argue that base closures trigger political backlash through economic mechanisms, as job losses and population decline mobilize economically vulnerable voters toward anti-establishment parties. We test this claim with novel sub-national data on Soviet military withdrawal from Estonia, Latvia, and Lithuania after 1991. Across multiple estimation strategies, we find that Soviet base closures increased support for pro-Russian parties over multiple electoral cycles. These political effects were strongest in communities with larger ethnic Russian populations and scale with the size of the closed facility. Our analysis reveals that closures caused significant population decline and employment contraction, providing micro-founded evidence for economic voting. Local economic disruption from closures can create political opportunities for forces aligned with the former occupying power.
 
 </details>
 
