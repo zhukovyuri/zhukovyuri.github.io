@@ -46,7 +46,7 @@ National Science Foundation RIDIR Grant (SES-1925693).
 <a href="#restop">&#8593; back to top</a>
 
 
-### Repressed Memories: State Terror and the Street Politics of Memorialization
+### Local Political Economy of Foreign Military Withdrawal
 Kristofers Krumins and Yuri M. Zhukov. "Local Political Economy of Foreign Military Withdrawal." Working paper, 2026.
 <br/>
 [Download PDF](../files/20260205_KruminsZhukov_Baza.pdf)
