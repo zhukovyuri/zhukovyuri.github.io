@@ -49,7 +49,7 @@ National Science Foundation RIDIR Grant (SES-1925693).
 ### Local Political Economy of Foreign Military Withdrawal
 Kristofers Krumins and Yuri M. Zhukov. "Local Political Economy of Foreign Military Withdrawal." Working paper, 2026.
 <br/>
-[Download PDF](../files/20260205_KruminsZhukov_Baza.pdf)
+[Download PDF](../files/20260227_KruminsZhukov_Baza.pdf)
 <br/>
 
 <details>
