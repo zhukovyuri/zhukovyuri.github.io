@@ -89,7 +89,7 @@ In contested territories, armed groups competing for civilian loyalty can diverg
 
 
 ### Is Military Victory Possible?
-Biddle, Stephem, Samuel Winter-Levy and Yuri M. Zhukov. "Is Military Victory Possible?" Working paper, 2024.
+Biddle, Stephem, Samuel Winter-Levy and Yuri M. Zhukov. "Is Military Victory Possible?" Working paper, 2025.
 <br/>
 <!-- [Download PDF](../files/2024_Zhukov_recordame_v2.pdf) -->
 <!-- <br/> -->
