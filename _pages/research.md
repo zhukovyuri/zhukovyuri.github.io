@@ -47,7 +47,7 @@ National Science Foundation RIDIR Grant (SES-1925693).
 
 
 ### Local Political Economy of Foreign Military Withdrawal
-Kristofers Krumins and Yuri M. Zhukov. "Local Political Economy of Foreign Military Withdrawal." Working paper, 2026.
+Krumins, Kristofers and Yuri M. Zhukov. "Local Political Economy of Foreign Military Withdrawal." Working paper, 2026.
 <br/>
 [Download PDF](../files/20260309_KruminsZhukov_Baza.pdf)
 <br/>
@@ -58,6 +58,35 @@ Kristofers Krumins and Yuri M. Zhukov. "Local Political Economy of Foreign Milit
 How do geopolitical shocks affect local politics? We examine foreign military base closures as discrete geopolitical events that simultaneously restore national sovereignty while disrupting local economies. We argue that base closures trigger political backlash through economic mechanisms, as job losses and population decline mobilize economically vulnerable voters toward anti-establishment parties. We test this claim with novel sub-national data on Soviet military withdrawal from Estonia, Latvia, and Lithuania after 1991. Across multiple estimation strategies, we find that Soviet base closures increased support for pro-Russian parties over multiple electoral cycles. These political effects were strongest in communities with larger ethnic Russian populations and scale with the size of the closed facility. Our analysis reveals that closures caused significant population decline and employment contraction, providing micro-founded evidence for economic voting. Local economic disruption from closures can create political opportunities for forces aligned with the former occupying power.
 
 </details>
+
+### Digital Connectivity and Military Effectiveness: Evidence from the War in Ukraine
+Koyama, Tatsuya, Renard Sexton and Yuri M. Zhukov. "Digital Connectivity and Military Effectiveness: Evidence from the War in Ukraine." Working paper, 2026.
+<br/>
+<!-- [Download PDF](../files/20260402_Zhukov.pdf) -->
+<!-- <br/> -->
+
+<details>
+  <summary>Abstract</summary>
+  
+Digital connectivity has become a critical input to modern warfare, but its causal effects on battlefield outcomes remain speculative to date. We exploit a natural experiment arising from SpaceX's September 2022 decision to enforce geofencing restrictions on Starlink satellite internet in Ukraine, which reduced high-bandwidth connectivity for a subset of front-line locations while leaving comparable nearby areas unaffected. Drawing on high-frequency geospatial data, we compare outcomes across the coverage boundary before and after the policy shift. Ukrainian forces in locations that lost Starlink access retained 60--80\% less territory. This gap opens within weeks, widens over time, and never closes, implying a cumulative loss of \pgfmathprintnumber[fixed,precision=0]{\areamin}--\pgfmathprintnumber[fixed,precision=0]{\areamax}~km$^2$ relative to the connected counterfactual. Strikingly, combat frequency and composition were unaffected: firefights, shelling, and drone strikes occurred at similar rates on both sides of the boundary.  Forces fought just as often, but they accomplished less. This dissociation identifies a channel through which communications infrastructure shapes conflict: it affects not the quantity of violence, but its conversion into durable military gains. Our findings reinforce how private actors' decisions can move a front line, and with it the distribution of territory that anchors bargaining over war termination.
+
+</details>
+
+
+### One-Sided Violence
+Yuri M. Zhukov. "One-Sided Violence." Working paper, 2026.
+<br/>
+[Download PDF](../files/20260402_Zhukov.pdf)
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+In contested territories, armed groups competing for civilian loyalty can diverge sharply in their use of force: one side sustains violence unilaterally while the other restrains. What explains this asymmetry? This question has bearing on whether coercion succeeds or backfires, how conflicts endure, and the costs that civilians must bear. Existing accounts attribute one-sided violence to deficits and asymmetries in information, resources, or organizational culture. We argue instead that sustained unilateral punishment follows surpluses: of targeting capacity, of outside options, or both. Combatants commit to sustained unilateral punishment (what we call ``coercive persistence'') when their violence is sufficiently selective to extract compliance, or when outside options (e.g., external recruits, lootable resources, expeditionary forces) make civilian cooperation strategically dispensable. We derive a scalar measure of coercive persistence, estimable from any dyadic conflict panel data. We test our claims with secret police records on Soviet counterinsurgency in western Ukraine (1944-1950) and cross-national data spanning dozens of modern armed conflicts. Sustained one-sided violence reflects surpluses of information and resources, not deficits.
+
+</details>
+
+
 
 ### Is Military Victory Possible?
 Biddle, Stephem, Samuel Winter-Levy and Yuri M. Zhukov. "Is Military Victory Possible?" Working paper, 2024.
