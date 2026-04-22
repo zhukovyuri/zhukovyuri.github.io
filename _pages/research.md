@@ -49,13 +49,13 @@ National Science Foundation RIDIR Grant (SES-1925693).
 ### Local Political Economy of Foreign Military Withdrawal
 Krumins, Kristofers and Yuri M. Zhukov. "Local Political Economy of Foreign Military Withdrawal." Working paper, 2026.
 <br/>
-[Download PDF](../files/20260309_KruminsZhukov_Baza.pdf)
+[Download PDF](../files/20260421_KruminsZhukov_Baza.pdf)
 <br/>
 
 <details>
   <summary>Abstract</summary>
   
-How do geopolitical shocks affect local politics? We examine foreign military base closures as discrete geopolitical events that simultaneously restore national sovereignty while disrupting local economies. We argue that base closures trigger political backlash through economic mechanisms, as job losses and population decline mobilize economically vulnerable voters toward anti-establishment parties. We test this claim with novel sub-national data on Soviet military withdrawal from Estonia, Latvia, and Lithuania after 1991. Across multiple estimation strategies, we find that Soviet base closures increased support for pro-Russian parties over multiple electoral cycles. These political effects were strongest in communities with larger ethnic Russian populations and scale with the size of the closed facility. Our analysis reveals that closures caused significant population decline and employment contraction, providing micro-founded evidence for economic voting. Local economic disruption from closures can create political opportunities for forces aligned with the former occupying power.
+How do geopolitical shocks affect local politics? We examine foreign military base closures as discrete geopolitical events that simultaneously restore national sovereignty while disrupting local economies. We argue that base closures trigger political backlash through economic mechanisms: job losses and population decline mobilize economically vulnerable voters toward parties opposing geopolitical realignment. We test this claim with novel sub-national data on Soviet military withdrawal from Estonia, Latvia, and Lithuania after 1991. Across multiple estimation strategies and electoral cycles, Soviet base closures increased electoral support for pro-Russian parties. These effects were stronger in localities with larger military facilities, which had served as local economic anchors. Our analysis reveals that closures caused significant population decline and employment contraction, providing micro-founded evidence for economic voting. Local economic disruption from de-occupation can create political opportunities for forces aligned with the former occupying power.
 
 </details>
 
