@@ -73,16 +73,16 @@ Digital connectivity has become a critical input to modern warfare, but its caus
 </details>
 
 
-### One-Sided Violence
-Yuri M. Zhukov. "One-Sided Violence." Working paper, 2026.
+### One-Sided Violence in Two-Sided Wars
+Yuri M. Zhukov. "One-Sided Violence in Two-Sided Wars." Working paper, 2026.
 <br/>
-[Download PDF](../files/20260402_Zhukov.pdf)
+[Download PDF](../files/20260501_Zhukov.pdf)
 <br/>
 
 <details>
   <summary>Abstract</summary>
   
-In contested territories, armed groups competing for civilian loyalty can diverge sharply in their use of force: one side sustains violence unilaterally while the other restrains. What explains this asymmetry? This question has bearing on whether coercion succeeds or backfires, how conflicts endure, and the costs that civilians must bear. Existing accounts attribute one-sided violence to deficits and asymmetries in information, resources, or organizational culture. We argue instead that sustained unilateral punishment follows surpluses: of targeting capacity, of outside options, or both. Combatants commit to sustained unilateral punishment (what we call ``coercive persistence'') when their violence is sufficiently selective to extract compliance, or when outside options (e.g., external recruits, lootable resources, expeditionary forces) make civilian cooperation strategically dispensable. We derive a scalar measure of coercive persistence, estimable from any dyadic conflict panel data. We test our claims with secret police records on Soviet counterinsurgency in western Ukraine (1944-1950) and cross-national data spanning dozens of modern armed conflicts. Sustained one-sided violence reflects surpluses of information and resources, not deficits.
+When and where do two-sided armed conflicts become one-sided?  In contested territories, one combatant often sustains coercive violence persistently and unilaterally while its rival restrains.  This asymmetry can manifest as wartime terrorism, repression, or other patterns of one-sided violence during conflict.  We argue that two conditions jointly produce such behavior: targeting selectivity and outside options.  A combatant sustains unilateral escalation when its violence is precise enough to extract civilian compliance, or when it can survive without civilian cooperation (e.g., through external recruits, lootable resources, or expeditionary forces).  We develop this argument theoretically and derive a scalar measure of coercive asymmetry --- a combatant's behavioral commitment to sustained unilateral punishment --- that researchers can estimate from any dyadic conflict panel.  We validate our claims with cross-national data spanning dozens of modern armed conflicts and with declassified Soviet secret police records on counterinsurgency in western Ukraine (1944--1950).
 
 </details>
 
