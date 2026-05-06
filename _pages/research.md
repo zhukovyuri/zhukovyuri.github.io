@@ -76,7 +76,7 @@ Digital connectivity has become a critical input to modern warfare, but its caus
 ### One-Sided Violence in Two-Sided Wars
 Yuri M. Zhukov. "One-Sided Violence in Two-Sided Wars." Working paper, 2026.
 <br/>
-[Download PDF](../files/20260501_Zhukov.pdf)
+[Download PDF](../files/20260506_Zhukov_OSV.pdf)
 <br/>
 
 <details>
