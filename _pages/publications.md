@@ -32,6 +32,18 @@ author_profile: true
 <a href="#pubtop">&#8593; back to top</a>
 
 
+### The Myth of Military Victory
+<img src="../images/fa.jpg" alt="" width="15" height="20"/> Biddle, Stephen, Samuel Winter-Levy, and Yuri M. Zhukov. "The Myth of Military Victory". <em>Foreign Affairs</em>, 2026.
+<br/>
+[Publisher's version](https://www.foreignaffairs.com/united-states/myth-military-victory)
+<br/>
+
+<details>
+  <summary>Abstract</summary>
+  
+  Policymakers often assert that combat alone can defeat an enemy and force it to accept the victor's terms. We argue that this idea is a myth. Combatants can almost always keep fighting. Since 1815, defeated states in interstate wars have lost a median of only eight percent of their forces. Iraq in 1991 and 2003, the Taliban in 2002, and Germany and Japan in 1945 all retained the capacity to resist. Each ended its war only after accepting, or rejecting, terms on offer. Even seemingly "unconditional" surrenders rested on explicit and tacit conditions. The purpose of combat should is to shape bargaining leverage rather than to annihilate the enemy. Governments that treat negotiation as a fallback risk missing diplomatic openings, and designing campaigns for short wars that bargaining logic makes unlikely. Military force can shape the bargain, but it can never eliminate an adversary's agency.
+</details>
+
 ### Fratricidal Coercion in Modern War
 <img src="../images/IO.jpg" alt="" width="15" height="20"/> Lyall, Jason, and Yuri M. Zhukov. "Fratricidal Coercion in Modern War." <em>International Organization</em> 79, no. 1 (2025): 173-192. <a href="https://doi.org/10.1017/S002081832400033X">doi.org/10.1017/S002081832400033X</a>
 <br/>
